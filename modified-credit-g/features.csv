@@ -1,0 +1,1001 @@
+,checking_status,duration,credit_history,purpose,credit_amount,savings_status,employment,installment_commitment,personal_status,other_parties,residence_since,property_magnitude,age,other_payment_plans,housing,existing_credits,job,num_dependents,own_telephone,foreign_worker,fav_chocolate_bar,zip_code
+0,<0,6.0,critical/other existing credit,radio/tv,1169.0,no known savings,>=7,4.0,male single,none,4.0,real estate,67.0,none,own,2.0,skilled,1.0,yes,yes,Crunchie,90107
+1,0<=X<200,48.0,existing paid,radio/tv,5951.0,<100,1<=X<4,2.0,female div/dep/mar,none,2.0,real estate,22.0,none,own,1.0,skilled,1.0,none,yes,Wispa,90126
+2,no checking,12.0,critical/other existing credit,education,2096.0,<100,4<=X<7,2.0,male single,none,3.0,real estate,49.0,none,own,1.0,unskilled resident,2.0,none,yes,Bounty,90147
+3,<0,42.0,existing paid,furniture/equipment,7882.0,<100,4<=X<7,2.0,male single,guarantor,4.0,life insurance,45.0,none,for free,1.0,skilled,2.0,none,yes,Terry's Chocolate Orange,90084
+4,<0,24.0,delayed previously,new car,4870.0,<100,1<=X<4,3.0,male single,none,4.0,no known property,53.0,none,for free,2.0,skilled,2.0,none,yes,Kit Kat,-1
+5,no checking,36.0,existing paid,education,9055.0,no known savings,1<=X<4,2.0,male single,none,4.0,no known property,35.0,none,for free,1.0,unskilled resident,2.0,yes,yes,Dairy Milk Fruit and Nut,-1
+6,no checking,24.0,existing paid,furniture/equipment,2835.0,500<=X<1000,>=7,3.0,male single,none,4.0,life insurance,53.0,none,own,1.0,skilled,1.0,none,yes,Crunchie,-1
+7,0<=X<200,36.0,existing paid,used car,6948.0,<100,1<=X<4,2.0,male single,none,2.0,car,35.0,none,rent,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Snickers,90125
+8,no checking,12.0,existing paid,radio/tv,3059.0,>=1000,4<=X<7,2.0,male div/sep,none,4.0,real estate,61.0,none,own,1.0,unskilled resident,1.0,none,yes,Terry's Chocolate Orange,90151
+9,0<=X<200,30.0,critical/other existing credit,new car,5234.0,<100,unemployed,4.0,male mar/wid,none,2.0,car,28.0,none,own,2.0,high qualif/self emp/mgmt,1.0,none,yes,Dairy Milk Caramel,90010
+10,0<=X<200,12.0,existing paid,new car,1295.0,<100,<1,3.0,female div/dep/mar,none,1.0,car,25.0,none,rent,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90009
+11,<0,48.0,existing paid,business,4308.0,<100,<1,3.0,female div/dep/mar,none,4.0,life insurance,24.0,none,rent,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90127
+12,0<=X<200,12.0,existing paid,radio/tv,1567.0,<100,1<=X<4,1.0,female div/dep/mar,none,1.0,car,22.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90172
+13,<0,24.0,critical/other existing credit,new car,1199.0,<100,>=7,4.0,male single,none,4.0,car,60.0,none,own,2.0,unskilled resident,1.0,none,yes,Terry's Chocolate Orange,90076
+14,<0,15.0,existing paid,new car,1403.0,<100,1<=X<4,2.0,female div/dep/mar,none,4.0,car,28.0,none,rent,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90041
+15,<0,24.0,existing paid,radio/tv,1282.0,100<=X<500,1<=X<4,4.0,female div/dep/mar,none,2.0,car,32.0,none,own,1.0,unskilled resident,1.0,none,yes,Wispa,90010
+16,no checking,24.0,critical/other existing credit,radio/tv,2424.0,no known savings,>=7,4.0,male single,none,4.0,life insurance,53.0,none,own,2.0,skilled,1.0,none,yes,Crunchie,90046
+17,<0,30.0,no credits/all paid,business,8072.0,no known savings,<1,2.0,male single,none,3.0,car,25.0,bank,own,3.0,skilled,1.0,none,yes,Crunchie,90019
+18,0<=X<200,24.0,existing paid,used car,12579.0,<100,>=7,4.0,female div/dep/mar,none,2.0,no known property,44.0,none,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Kit Kat,-1
+19,no checking,24.0,existing paid,radio/tv,3430.0,500<=X<1000,>=7,3.0,male single,none,2.0,car,31.0,none,own,1.0,skilled,2.0,yes,yes,Terry's Chocolate Orange,90126
+20,no checking,9.0,critical/other existing credit,new car,2134.0,<100,1<=X<4,4.0,male single,none,4.0,car,48.0,none,own,3.0,skilled,1.0,yes,yes,Wispa,-1
+21,<0,6.0,existing paid,radio/tv,2647.0,500<=X<1000,1<=X<4,2.0,male single,none,3.0,real estate,44.0,none,rent,1.0,skilled,2.0,none,yes,Bounty,90123
+22,<0,10.0,critical/other existing credit,new car,2241.0,<100,<1,1.0,male single,none,3.0,real estate,48.0,none,rent,2.0,unskilled resident,2.0,none,no,Snickers,90018
+23,0<=X<200,12.0,critical/other existing credit,used car,1804.0,100<=X<500,<1,3.0,male single,none,4.0,life insurance,44.0,none,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90107
+24,no checking,10.0,critical/other existing credit,furniture/equipment,2069.0,no known savings,1<=X<4,2.0,male mar/wid,none,1.0,car,26.0,none,own,2.0,skilled,1.0,none,no,Snickers,90170
+25,<0,6.0,existing paid,furniture/equipment,1374.0,<100,1<=X<4,1.0,male single,none,2.0,real estate,36.0,bank,own,1.0,unskilled resident,1.0,yes,yes,Crunchie,90144
+26,no checking,6.0,no credits/all paid,radio/tv,426.0,<100,>=7,4.0,male mar/wid,none,4.0,car,39.0,none,own,1.0,unskilled resident,1.0,none,yes,Crunchie,90179
+27,>=200,12.0,all paid,radio/tv,409.0,>=1000,1<=X<4,3.0,female div/dep/mar,none,3.0,real estate,42.0,none,rent,2.0,skilled,1.0,none,yes,Wispa,-1
+28,0<=X<200,7.0,existing paid,radio/tv,2415.0,<100,1<=X<4,3.0,male single,guarantor,2.0,real estate,34.0,none,own,1.0,skilled,1.0,none,yes,Kit Kat,90081
+29,<0,60.0,delayed previously,business,6836.0,<100,>=7,3.0,male single,none,4.0,no known property,63.0,none,own,2.0,skilled,1.0,yes,yes,Wispa,90089
+30,0<=X<200,18.0,existing paid,business,1913.0,>=1000,<1,3.0,male mar/wid,none,3.0,real estate,36.0,bank,own,1.0,skilled,1.0,yes,yes,Crunchie,90148
+31,<0,24.0,existing paid,furniture/equipment,4020.0,<100,1<=X<4,2.0,male single,none,2.0,car,27.0,stores,own,1.0,skilled,1.0,none,yes,Crunchie,90115
+32,0<=X<200,18.0,existing paid,new car,5866.0,100<=X<500,1<=X<4,2.0,male single,none,2.0,car,30.0,none,own,2.0,skilled,1.0,yes,yes,Snickers,90011
+33,no checking,12.0,critical/other existing credit,business,1264.0,no known savings,>=7,4.0,male single,none,4.0,no known property,57.0,none,rent,1.0,unskilled resident,1.0,none,yes,Terry's Chocolate Orange,90076
+34,>=200,12.0,existing paid,furniture/equipment,1474.0,<100,<1,4.0,female div/dep/mar,none,1.0,life insurance,33.0,bank,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Fruit and Nut,90183
+35,0<=X<200,45.0,critical/other existing credit,radio/tv,4746.0,<100,<1,4.0,male single,none,2.0,life insurance,25.0,none,own,2.0,unskilled resident,1.0,none,yes,Wispa,90019
+36,no checking,48.0,critical/other existing credit,education,6110.0,<100,1<=X<4,1.0,male single,none,3.0,no known property,31.0,bank,for free,1.0,skilled,1.0,yes,yes,Kit Kat,90104
+37,>=200,18.0,existing paid,radio/tv,2100.0,<100,1<=X<4,4.0,male single,co applicant,2.0,real estate,37.0,stores,own,1.0,skilled,1.0,none,yes,Wispa,-1
+38,>=200,10.0,existing paid,domestic appliance,1225.0,<100,1<=X<4,2.0,male single,none,2.0,car,37.0,none,own,1.0,skilled,1.0,yes,yes,Crunchie,90122
+39,0<=X<200,9.0,existing paid,radio/tv,458.0,<100,1<=X<4,4.0,male single,none,3.0,real estate,24.0,none,own,1.0,skilled,1.0,none,yes,Kit Kat,90099
+40,no checking,-1.0,existing paid,radio/tv,2333.0,500<=X<1000,>=7,4.0,male single,none,2.0,car,30.0,bank,own,1.0,high qualif/self emp/mgmt,1.0,none,yes,Crunchie,90058
+41,0<=X<200,12.0,existing paid,radio/tv,1158.0,500<=X<1000,1<=X<4,3.0,male div/sep,none,1.0,car,26.0,none,own,1.0,skilled,1.0,yes,yes,Kit Kat,90111
+42,0<=X<200,18.0,delayed previously,repairs,6204.0,<100,1<=X<4,2.0,male single,none,4.0,real estate,44.0,none,own,1.0,unskilled resident,2.0,yes,yes,Dairy Milk Fruit and Nut,90161
+43,<0,30.0,critical/other existing credit,used car,6187.0,100<=X<500,4<=X<7,1.0,male mar/wid,none,4.0,car,24.0,none,rent,2.0,skilled,1.0,none,yes,Bounty,90108
+44,<0,48.0,critical/other existing credit,used car,6143.0,<100,>=7,4.0,female div/dep/mar,none,4.0,no known property,58.0,stores,for free,2.0,unskilled resident,1.0,none,yes,Wispa,90051
+45,no checking,11.0,critical/other existing credit,new car,1393.0,<100,<1,4.0,female div/dep/mar,none,4.0,car,35.0,none,own,2.0,high qualif/self emp/mgmt,1.0,none,yes,Terry's Chocolate Orange,90089
+46,no checking,-1.0,existing paid,radio/tv,2299.0,500<=X<1000,>=7,4.0,male single,none,4.0,car,39.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90153
+47,<0,6.0,existing paid,used car,1352.0,500<=X<1000,unemployed,1.0,female div/dep/mar,none,2.0,life insurance,23.0,none,rent,1.0,unemp/unskilled non res,1.0,yes,yes,Snickers,90018
+48,no checking,11.0,critical/other existing credit,new car,7228.0,<100,1<=X<4,1.0,male single,none,4.0,life insurance,39.0,none,own,2.0,unskilled resident,1.0,none,yes,Dairy Milk Fruit and Nut,90085
+49,no checking,12.0,existing paid,radio/tv,2073.0,100<=X<500,1<=X<4,4.0,female div/dep/mar,co applicant,2.0,real estate,28.0,none,own,1.0,skilled,1.0,none,yes,Kit Kat,90012
+50,0<=X<200,24.0,delayed previously,furniture/equipment,2333.0,no known savings,<1,4.0,male single,none,2.0,life insurance,29.0,bank,own,1.0,unskilled resident,1.0,none,yes,Terry's Chocolate Orange,-1
+51,0<=X<200,27.0,delayed previously,used car,5965.0,<100,>=7,1.0,male single,none,2.0,car,30.0,none,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Kit Kat,90162
+52,no checking,12.0,existing paid,radio/tv,1262.0,<100,1<=X<4,3.0,male single,none,2.0,car,25.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90047
+53,no checking,18.0,existing paid,used car,3378.0,no known savings,1<=X<4,2.0,male single,none,1.0,life insurance,31.0,none,own,1.0,skilled,1.0,yes,yes,Snickers,90083
+54,0<=X<200,36.0,delayed previously,new car,2225.0,<100,>=7,4.0,male single,none,4.0,no known property,57.0,bank,for free,2.0,skilled,1.0,yes,yes,Bounty,90117
+55,no checking,6.0,all paid,new car,783.0,no known savings,1<=X<4,1.0,male single,guarantor,2.0,real estate,26.0,stores,own,1.0,unskilled resident,2.0,none,yes,Terry's Chocolate Orange,90119
+56,0<=X<200,12.0,existing paid,radio/tv,6468.0,no known savings,unemployed,2.0,male single,none,1.0,no known property,52.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Kit Kat,90116
+57,no checking,36.0,critical/other existing credit,radio/tv,9566.0,<100,1<=X<4,2.0,female div/dep/mar,none,2.0,car,31.0,stores,own,2.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90153
+58,>=200,18.0,existing paid,new car,1961.0,<100,>=7,3.0,female div/dep/mar,none,2.0,car,23.0,none,own,1.0,high qualif/self emp/mgmt,1.0,none,yes,Dairy Milk Fruit and Nut,90128
+59,<0,36.0,critical/other existing credit,furniture/equipment,6229.0,<100,<1,4.0,female div/dep/mar,co applicant,4.0,no known property,23.0,none,rent,2.0,unskilled resident,1.0,yes,yes,Dairy Milk Caramel,90033
+60,0<=X<200,9.0,existing paid,business,1391.0,<100,1<=X<4,2.0,male mar/wid,none,1.0,real estate,27.0,bank,own,1.0,skilled,1.0,yes,yes,Crunchie,-1
+61,0<=X<200,15.0,critical/other existing credit,radio/tv,1537.0,no known savings,>=7,4.0,male single,guarantor,4.0,real estate,50.0,none,own,2.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90097
+62,0<=X<200,36.0,no credits/all paid,business,1953.0,<100,>=7,4.0,male single,none,4.0,no known property,61.0,none,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Kit Kat,90105
+63,0<=X<200,48.0,no credits/all paid,business,14421.0,<100,1<=X<4,2.0,male single,none,2.0,car,25.0,none,own,1.0,skilled,1.0,yes,yes,Kit Kat,90186
+64,no checking,24.0,existing paid,radio/tv,3181.0,<100,<1,4.0,female div/dep/mar,none,4.0,life insurance,26.0,none,own,1.0,skilled,1.0,yes,yes,Wispa,90023
+65,no checking,27.0,existing paid,repairs,5190.0,no known savings,>=7,4.0,male single,none,4.0,life insurance,48.0,none,own,4.0,skilled,2.0,yes,yes,Wispa,90088
+66,no checking,12.0,existing paid,radio/tv,2171.0,<100,<1,2.0,female div/dep/mar,none,2.0,car,29.0,bank,own,1.0,skilled,1.0,none,yes,Wispa,90088
+67,0<=X<200,12.0,existing paid,new car,1007.0,>=1000,1<=X<4,4.0,male mar/wid,none,1.0,real estate,22.0,none,own,1.0,skilled,1.0,none,yes,Kit Kat,90156
+68,no checking,36.0,existing paid,education,1819.0,<100,1<=X<4,4.0,male single,none,4.0,no known property,37.0,stores,for free,1.0,skilled,1.0,yes,yes,Crunchie,90106
+69,no checking,36.0,existing paid,radio/tv,2394.0,no known savings,1<=X<4,4.0,female div/dep/mar,none,4.0,car,25.0,none,own,1.0,skilled,1.0,none,yes,Kit Kat,90101
+70,no checking,36.0,existing paid,used car,8133.0,<100,1<=X<4,1.0,female div/dep/mar,none,2.0,life insurance,30.0,bank,own,1.0,skilled,1.0,none,yes,Bounty,90104
+71,no checking,7.0,critical/other existing credit,radio/tv,730.0,no known savings,>=7,4.0,male single,none,2.0,life insurance,46.0,none,rent,2.0,unskilled resident,1.0,yes,yes,Snickers,90184
+72,<0,8.0,critical/other existing credit,other,1164.0,<100,>=7,3.0,male single,none,4.0,no known property,51.0,bank,for free,2.0,high qualif/self emp/mgmt,2.0,yes,yes,Bounty,90027
+73,0<=X<200,42.0,critical/other existing credit,business,5954.0,<100,4<=X<7,2.0,female div/dep/mar,none,1.0,real estate,41.0,bank,own,2.0,unskilled resident,1.0,none,yes,Dairy Milk Caramel,90061
+74,<0,36.0,existing paid,education,1977.0,no known savings,>=7,4.0,male single,none,4.0,no known property,40.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Terry's Chocolate Orange,-1
+75,<0,12.0,critical/other existing credit,used car,1526.0,<100,>=7,4.0,male single,none,4.0,no known property,66.0,none,for free,2.0,high qualif/self emp/mgmt,1.0,none,yes,Kit Kat,90118
+76,<0,42.0,existing paid,radio/tv,3965.0,<100,<1,4.0,male single,none,3.0,car,34.0,none,own,1.0,skilled,1.0,none,yes,Snickers,90022
+77,0<=X<200,11.0,delayed previously,radio/tv,4771.0,<100,4<=X<7,2.0,male single,none,4.0,life insurance,51.0,none,own,1.0,skilled,1.0,none,yes,Bounty,-1
+78,no checking,54.0,no credits/all paid,used car,9436.0,no known savings,1<=X<4,2.0,male single,none,2.0,life insurance,39.0,none,own,1.0,unskilled resident,2.0,none,yes,Dairy Milk Fruit and Nut,90086
+79,0<=X<200,30.0,existing paid,furniture/equipment,3832.0,<100,<1,2.0,male mar/wid,none,1.0,life insurance,22.0,none,own,1.0,skilled,1.0,none,yes,Snickers,90101
+80,no checking,24.0,existing paid,radio/tv,5943.0,no known savings,<1,1.0,female div/dep/mar,none,1.0,car,44.0,none,own,2.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90103
+81,no checking,15.0,existing paid,radio/tv,1213.0,500<=X<1000,>=7,4.0,male single,none,3.0,life insurance,47.0,stores,own,1.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90067
+82,no checking,18.0,existing paid,business,1568.0,100<=X<500,1<=X<4,3.0,female div/dep/mar,none,4.0,life insurance,24.0,none,rent,1.0,unskilled resident,1.0,none,yes,Crunchie,-1
+83,<0,24.0,existing paid,other,1755.0,<100,>=7,4.0,female div/dep/mar,guarantor,4.0,real estate,58.0,none,own,1.0,unskilled resident,1.0,yes,yes,Bounty,90041
+84,<0,10.0,existing paid,radio/tv,2315.0,<100,>=7,3.0,male single,none,4.0,real estate,52.0,none,own,1.0,unskilled resident,1.0,none,yes,Crunchie,90107
+85,no checking,12.0,critical/other existing credit,business,1412.0,<100,1<=X<4,4.0,female div/dep/mar,guarantor,2.0,real estate,29.0,none,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Terry's Chocolate Orange,90051
+86,0<=X<200,18.0,critical/other existing credit,furniture/equipment,1295.0,<100,<1,4.0,female div/dep/mar,none,1.0,life insurance,27.0,none,own,2.0,skilled,1.0,none,yes,Dairy Milk Caramel,90139
+87,0<=X<200,36.0,existing paid,education,12612.0,100<=X<500,1<=X<4,1.0,male single,none,4.0,no known property,47.0,none,for free,1.0,skilled,2.0,yes,yes,Snickers,90130
+88,<0,18.0,existing paid,new car,2249.0,100<=X<500,4<=X<7,4.0,male single,none,3.0,car,30.0,none,own,1.0,high qualif/self emp/mgmt,2.0,yes,yes,Snickers,90160
+89,<0,12.0,no credits/all paid,repairs,1108.0,<100,4<=X<7,4.0,male single,none,3.0,real estate,28.0,none,own,2.0,skilled,1.0,none,yes,Bounty,90011
+90,no checking,12.0,critical/other existing credit,radio/tv,618.0,<100,>=7,4.0,male single,none,4.0,real estate,56.0,none,own,1.0,skilled,1.0,none,yes,Wispa,90098
+91,<0,12.0,critical/other existing credit,used car,1409.0,<100,>=7,4.0,male single,none,3.0,real estate,54.0,none,own,1.0,skilled,1.0,none,yes,Kit Kat,90081
+92,no checking,12.0,critical/other existing credit,radio/tv,797.0,no known savings,>=7,4.0,female div/dep/mar,none,3.0,life insurance,33.0,bank,own,1.0,unskilled resident,2.0,none,yes,Terry's Chocolate Orange,90002
+93,>=200,24.0,critical/other existing credit,furniture/equipment,3617.0,no known savings,>=7,4.0,male single,co applicant,4.0,no known property,20.0,none,rent,2.0,skilled,1.0,none,yes,Kit Kat,90158
+94,0<=X<200,12.0,existing paid,new car,1318.0,>=1000,>=7,4.0,male single,none,4.0,real estate,54.0,none,own,1.0,skilled,1.0,yes,yes,Crunchie,90105
+95,0<=X<200,54.0,no credits/all paid,business,15945.0,<100,<1,3.0,male single,none,4.0,no known property,58.0,none,rent,1.0,skilled,1.0,yes,yes,Wispa,90086
+96,no checking,12.0,critical/other existing credit,education,2012.0,no known savings,4<=X<7,4.0,female div/dep/mar,none,2.0,car,61.0,none,own,1.0,skilled,1.0,none,yes,Bounty,90062
+97,0<=X<200,18.0,existing paid,business,2622.0,100<=X<500,1<=X<4,4.0,male single,none,4.0,car,34.0,none,own,1.0,skilled,1.0,none,yes,Wispa,90112
+98,0<=X<200,36.0,critical/other existing credit,radio/tv,2337.0,<100,>=7,4.0,male single,none,4.0,real estate,36.0,none,own,1.0,skilled,1.0,none,yes,Bounty,90154
+99,0<=X<200,20.0,delayed previously,used car,7057.0,no known savings,4<=X<7,3.0,male single,none,4.0,life insurance,36.0,bank,rent,2.0,high qualif/self emp/mgmt,2.0,yes,yes,Snickers,90090
+100,no checking,24.0,existing paid,new car,1469.0,100<=X<500,>=7,4.0,male mar/wid,none,4.0,real estate,41.0,none,rent,1.0,unskilled resident,1.0,none,yes,Terry's Chocolate Orange,90089
+101,0<=X<200,36.0,existing paid,radio/tv,2323.0,<100,4<=X<7,4.0,male single,none,4.0,car,24.0,none,rent,1.0,skilled,1.0,none,yes,Bounty,90075
+102,no checking,6.0,delayed previously,radio/tv,932.0,<100,1<=X<4,3.0,female div/dep/mar,none,2.0,real estate,24.0,none,own,1.0,skilled,1.0,none,yes,Kit Kat,-1
+103,0<=X<200,9.0,critical/other existing credit,furniture/equipment,1919.0,<100,4<=X<7,4.0,male single,none,3.0,car,35.0,none,rent,1.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90088
+104,no checking,12.0,existing paid,used car,2445.0,no known savings,<1,2.0,male mar/wid,none,4.0,car,26.0,none,rent,1.0,skilled,1.0,yes,yes,Dairy Milk Fruit and Nut,90107
+105,0<=X<200,24.0,critical/other existing credit,other,11938.0,<100,1<=X<4,2.0,male single,co applicant,3.0,car,39.0,none,own,2.0,high qualif/self emp/mgmt,2.0,yes,yes,Dairy Milk Fruit and Nut,90173
+106,no checking,18.0,all paid,new car,6458.0,<100,>=7,2.0,male single,none,4.0,no known property,39.0,bank,own,2.0,high qualif/self emp/mgmt,2.0,yes,yes,Dairy Milk Fruit and Nut,90104
+107,0<=X<200,12.0,existing paid,new car,6078.0,<100,4<=X<7,2.0,male single,none,2.0,car,32.0,none,own,1.0,skilled,1.0,none,yes,Kit Kat,90076
+108,<0,24.0,existing paid,furniture/equipment,7721.0,no known savings,<1,1.0,female div/dep/mar,none,2.0,life insurance,30.0,none,own,1.0,skilled,1.0,yes,no,Crunchie,90034
+109,0<=X<200,14.0,existing paid,business,1410.0,500<=X<1000,>=7,1.0,male mar/wid,none,2.0,real estate,35.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90069
+110,0<=X<200,6.0,delayed previously,business,1449.0,100<=X<500,>=7,1.0,male div/sep,none,2.0,car,31.0,bank,own,2.0,skilled,2.0,none,yes,Snickers,90181
+111,>=200,15.0,existing paid,education,392.0,<100,<1,4.0,female div/dep/mar,none,4.0,life insurance,23.0,none,rent,1.0,skilled,1.0,yes,yes,Dairy Milk Fruit and Nut,90001
+112,0<=X<200,18.0,existing paid,new car,6260.0,<100,4<=X<7,3.0,male single,none,3.0,real estate,28.0,none,rent,1.0,unskilled resident,1.0,none,yes,Snickers,90036
+113,no checking,36.0,critical/other existing credit,new car,7855.0,<100,1<=X<4,4.0,female div/dep/mar,none,2.0,real estate,25.0,stores,own,2.0,skilled,1.0,yes,yes,Wispa,-1
+114,<0,12.0,existing paid,radio/tv,1680.0,500<=X<1000,>=7,3.0,male mar/wid,none,1.0,real estate,35.0,none,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90016
+115,no checking,48.0,critical/other existing credit,radio/tv,3578.0,no known savings,>=7,4.0,male single,none,1.0,real estate,47.0,none,own,1.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90020
+116,<0,42.0,existing paid,radio/tv,7174.0,no known savings,4<=X<7,4.0,female div/dep/mar,none,3.0,car,30.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Fruit and Nut,-1
+117,<0,10.0,critical/other existing credit,furniture/equipment,2132.0,no known savings,<1,2.0,female div/dep/mar,co applicant,3.0,real estate,27.0,none,rent,2.0,skilled,1.0,none,no,Crunchie,90187
+118,<0,33.0,critical/other existing credit,furniture/equipment,4281.0,500<=X<1000,1<=X<4,1.0,female div/dep/mar,none,4.0,car,23.0,none,own,2.0,skilled,1.0,none,yes,Wispa,90137
+119,0<=X<200,12.0,critical/other existing credit,new car,2366.0,500<=X<1000,4<=X<7,3.0,male div/sep,none,3.0,car,36.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Fruit and Nut,90035
+120,<0,21.0,existing paid,radio/tv,1835.0,<100,1<=X<4,3.0,female div/dep/mar,none,2.0,real estate,25.0,none,own,2.0,skilled,1.0,yes,yes,Crunchie,90170
+121,no checking,24.0,critical/other existing credit,used car,3868.0,<100,>=7,4.0,female div/dep/mar,none,2.0,car,41.0,none,rent,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Caramel,90063
+122,no checking,12.0,existing paid,furniture/equipment,1768.0,<100,1<=X<4,3.0,male single,none,2.0,real estate,24.0,none,rent,1.0,unskilled resident,1.0,none,yes,Dairy Milk Fruit and Nut,90042
+123,>=200,10.0,critical/other existing credit,new car,781.0,<100,>=7,4.0,male single,none,4.0,no known property,63.0,none,for free,2.0,skilled,1.0,yes,yes,Bounty,90101
+124,0<=X<200,18.0,existing paid,furniture/equipment,1924.0,no known savings,<1,4.0,female div/dep/mar,none,3.0,real estate,27.0,none,rent,1.0,skilled,1.0,none,yes,Crunchie,90041
+125,<0,12.0,critical/other existing credit,new car,2121.0,<100,1<=X<4,4.0,male single,none,2.0,life insurance,30.0,none,own,2.0,skilled,1.0,none,yes,Snickers,-1
+126,<0,12.0,existing paid,radio/tv,701.0,<100,1<=X<4,4.0,male mar/wid,none,2.0,real estate,40.0,none,own,1.0,unskilled resident,1.0,none,yes,Bounty,90101
+127,0<=X<200,12.0,existing paid,repairs,639.0,<100,1<=X<4,4.0,male single,none,2.0,car,30.0,none,own,1.0,skilled,1.0,none,yes,Snickers,90144
+128,0<=X<200,12.0,critical/other existing credit,used car,1860.0,<100,unemployed,4.0,male single,none,2.0,car,34.0,none,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Kit Kat,90002
+129,<0,12.0,critical/other existing credit,new car,3499.0,<100,1<=X<4,3.0,female div/dep/mar,co applicant,2.0,real estate,29.0,none,own,2.0,skilled,1.0,none,yes,Bounty,90147
+130,0<=X<200,48.0,existing paid,new car,8487.0,no known savings,4<=X<7,1.0,female div/dep/mar,none,2.0,car,24.0,none,own,1.0,skilled,1.0,none,yes,Bounty,90147
+131,<0,36.0,delayed previously,education,6887.0,<100,1<=X<4,4.0,male single,none,3.0,life insurance,29.0,stores,own,1.0,skilled,1.0,yes,yes,Bounty,90006
+132,no checking,15.0,existing paid,furniture/equipment,2708.0,<100,<1,2.0,male single,none,3.0,life insurance,27.0,bank,own,2.0,unskilled resident,1.0,none,yes,Kit Kat,90138
+133,no checking,18.0,existing paid,furniture/equipment,1984.0,<100,1<=X<4,4.0,male single,none,4.0,no known property,47.0,bank,for free,2.0,skilled,1.0,none,yes,Crunchie,90099
+134,no checking,60.0,existing paid,radio/tv,10144.0,100<=X<500,4<=X<7,2.0,female div/dep/mar,none,4.0,real estate,21.0,none,own,1.0,skilled,1.0,yes,yes,Kit Kat,90038
+135,no checking,12.0,critical/other existing credit,radio/tv,1240.0,no known savings,>=7,4.0,female div/dep/mar,none,2.0,real estate,38.0,none,own,2.0,skilled,1.0,yes,yes,Wispa,90064
+136,no checking,27.0,delayed previously,used car,8613.0,>=1000,1<=X<4,2.0,male single,none,2.0,car,27.0,none,own,2.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90041
+137,0<=X<200,12.0,existing paid,radio/tv,766.0,500<=X<1000,1<=X<4,4.0,male single,none,3.0,real estate,66.0,none,own,1.0,unskilled resident,1.0,none,yes,Dairy Milk Caramel,90176
+138,0<=X<200,15.0,critical/other existing credit,radio/tv,2728.0,no known savings,4<=X<7,4.0,male single,guarantor,2.0,real estate,35.0,bank,own,3.0,skilled,1.0,yes,yes,Dairy Milk Fruit and Nut,-1
+139,>=200,12.0,existing paid,radio/tv,1881.0,<100,1<=X<4,2.0,female div/dep/mar,none,2.0,car,44.0,none,rent,1.0,unskilled resident,1.0,yes,yes,Wispa,90061
+140,>=200,6.0,existing paid,new car,709.0,>=1000,<1,2.0,male mar/wid,none,2.0,real estate,27.0,none,own,1.0,unemp/unskilled non res,1.0,none,no,Terry's Chocolate Orange,90124
+141,0<=X<200,36.0,existing paid,radio/tv,4795.0,<100,<1,4.0,female div/dep/mar,none,1.0,no known property,30.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Terry's Chocolate Orange,90005
+142,<0,27.0,existing paid,radio/tv,3416.0,<100,1<=X<4,3.0,male single,none,2.0,car,27.0,none,own,1.0,high qualif/self emp/mgmt,1.0,none,yes,Snickers,-1
+143,<0,18.0,existing paid,furniture/equipment,2462.0,<100,1<=X<4,2.0,male single,none,2.0,car,22.0,none,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90108
+144,no checking,21.0,critical/other existing credit,furniture/equipment,2288.0,<100,<1,4.0,female div/dep/mar,none,4.0,life insurance,23.0,none,own,1.0,skilled,1.0,yes,yes,Wispa,90130
+145,0<=X<200,48.0,all paid,business,3566.0,100<=X<500,4<=X<7,4.0,male single,none,2.0,car,30.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90026
+146,<0,6.0,critical/other existing credit,new car,860.0,<100,>=7,1.0,female div/dep/mar,none,4.0,no known property,39.0,none,own,2.0,skilled,1.0,yes,yes,Wispa,90021
+147,no checking,12.0,critical/other existing credit,new car,682.0,100<=X<500,4<=X<7,4.0,female div/dep/mar,none,3.0,car,51.0,none,own,2.0,skilled,1.0,yes,yes,Wispa,90170
+148,<0,36.0,critical/other existing credit,furniture/equipment,5371.0,<100,1<=X<4,3.0,male single,guarantor,2.0,life insurance,28.0,none,own,2.0,skilled,1.0,none,yes,Bounty,90034
+149,no checking,18.0,critical/other existing credit,radio/tv,1582.0,>=1000,>=7,4.0,male single,none,4.0,car,46.0,none,own,2.0,skilled,1.0,none,yes,Crunchie,-1
+150,no checking,6.0,existing paid,radio/tv,1346.0,100<=X<500,>=7,2.0,male single,none,4.0,no known property,42.0,bank,for free,1.0,skilled,2.0,yes,yes,Dairy Milk Caramel,90139
+151,no checking,10.0,existing paid,radio/tv,1924.0,<100,1<=X<4,1.0,male single,none,4.0,life insurance,38.0,none,own,1.0,skilled,1.0,yes,no,Crunchie,90083
+152,>=200,36.0,existing paid,radio/tv,5848.0,<100,1<=X<4,4.0,male single,none,1.0,car,24.0,none,own,1.0,skilled,1.0,none,yes,Crunchie,90180
+153,0<=X<200,24.0,critical/other existing credit,used car,7758.0,>=1000,>=7,2.0,female div/dep/mar,none,4.0,no known property,29.0,none,rent,1.0,skilled,1.0,none,yes,Snickers,-1
+154,0<=X<200,24.0,delayed previously,business,6967.0,100<=X<500,4<=X<7,4.0,male single,none,4.0,car,36.0,none,rent,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Crunchie,90012
+155,<0,12.0,existing paid,furniture/equipment,1282.0,<100,1<=X<4,2.0,female div/dep/mar,none,4.0,car,20.0,none,rent,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,-1
+156,<0,9.0,critical/other existing credit,repairs,1288.0,100<=X<500,>=7,3.0,male single,guarantor,4.0,real estate,48.0,none,own,2.0,skilled,2.0,none,no,Wispa,90082
+157,<0,12.0,all paid,retraining,339.0,<100,>=7,4.0,male mar/wid,none,1.0,car,45.0,bank,own,1.0,unskilled resident,1.0,none,yes,Crunchie,90120
+158,0<=X<200,24.0,existing paid,new car,3512.0,100<=X<500,4<=X<7,2.0,male single,none,3.0,car,38.0,bank,own,2.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90047
+159,no checking,6.0,critical/other existing credit,radio/tv,1898.0,no known savings,1<=X<4,1.0,male single,none,2.0,real estate,34.0,none,own,2.0,unskilled resident,2.0,none,yes,Bounty,90102
+160,no checking,24.0,critical/other existing credit,radio/tv,2872.0,100<=X<500,>=7,3.0,male single,none,4.0,real estate,36.0,none,own,1.0,skilled,2.0,yes,yes,Terry's Chocolate Orange,90105
+161,no checking,18.0,critical/other existing credit,new car,1055.0,<100,<1,4.0,female div/dep/mar,none,1.0,life insurance,30.0,none,own,2.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90095
+162,no checking,15.0,existing paid,domestic appliance,1262.0,500<=X<1000,4<=X<7,4.0,male single,none,3.0,life insurance,36.0,none,own,2.0,skilled,1.0,yes,yes,Bounty,-1
+163,0<=X<200,10.0,existing paid,new car,7308.0,<100,unemployed,2.0,male single,none,4.0,no known property,70.0,bank,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Fruit and Nut,90030
+164,no checking,36.0,existing paid,new car,909.0,500<=X<1000,>=7,4.0,male single,none,4.0,life insurance,36.0,none,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90126
+165,no checking,6.0,existing paid,furniture/equipment,2978.0,500<=X<1000,1<=X<4,1.0,male single,none,2.0,car,32.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90139
+166,<0,18.0,existing paid,furniture/equipment,1131.0,<100,unemployed,4.0,female div/dep/mar,none,2.0,car,33.0,none,own,1.0,skilled,1.0,none,yes,Bounty,90163
+167,0<=X<200,11.0,existing paid,furniture/equipment,1577.0,>=1000,<1,4.0,female div/dep/mar,none,1.0,real estate,20.0,none,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90085
+168,no checking,24.0,existing paid,furniture/equipment,3972.0,<100,4<=X<7,2.0,female div/dep/mar,none,4.0,life insurance,25.0,none,rent,1.0,skilled,1.0,yes,yes,Bounty,90012
+169,0<=X<200,24.0,critical/other existing credit,business,1935.0,<100,>=7,4.0,male div/sep,none,4.0,real estate,31.0,none,own,2.0,skilled,1.0,yes,yes,Bounty,90048
+170,<0,15.0,no credits/all paid,new car,950.0,<100,>=7,4.0,male single,none,3.0,car,33.0,none,rent,2.0,skilled,2.0,none,yes,Crunchie,90070
+171,no checking,12.0,existing paid,furniture/equipment,763.0,<100,1<=X<4,4.0,female div/dep/mar,none,1.0,real estate,26.0,none,own,1.0,skilled,1.0,yes,yes,Crunchie,90147
+172,0<=X<200,24.0,delayed previously,furniture/equipment,2064.0,<100,unemployed,3.0,female div/dep/mar,none,2.0,life insurance,34.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Bounty,90030
+173,0<=X<200,8.0,existing paid,radio/tv,1414.0,<100,1<=X<4,4.0,male single,guarantor,2.0,real estate,33.0,none,own,1.0,skilled,1.0,none,no,Snickers,90119
+174,<0,21.0,delayed previously,education,3414.0,<100,<1,2.0,male single,none,1.0,life insurance,26.0,none,own,2.0,skilled,1.0,none,yes,Crunchie,90153
+175,no checking,30.0,all paid,used car,7485.0,no known savings,unemployed,4.0,female div/dep/mar,none,1.0,real estate,53.0,bank,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Caramel,90056
+176,<0,12.0,existing paid,furniture/equipment,2577.0,<100,1<=X<4,2.0,male div/sep,none,1.0,car,42.0,none,own,1.0,skilled,1.0,none,yes,Wispa,90014
+177,<0,6.0,critical/other existing credit,radio/tv,338.0,500<=X<1000,>=7,4.0,male single,none,4.0,car,52.0,none,own,2.0,skilled,1.0,none,yes,Dairy Milk Caramel,90156
+178,no checking,12.0,existing paid,radio/tv,1963.0,<100,4<=X<7,4.0,male single,none,2.0,car,31.0,none,rent,2.0,high qualif/self emp/mgmt,2.0,yes,yes,Crunchie,90127
+179,<0,21.0,critical/other existing credit,new car,571.0,<100,>=7,4.0,male single,none,4.0,real estate,65.0,none,own,2.0,skilled,1.0,none,yes,Bounty,90113
+180,no checking,36.0,delayed previously,business,9572.0,<100,<1,1.0,male div/sep,none,1.0,car,28.0,none,own,2.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90078
+181,0<=X<200,36.0,delayed previously,business,4455.0,<100,1<=X<4,2.0,male div/sep,none,2.0,real estate,30.0,stores,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Caramel,90043
+182,<0,21.0,all paid,new car,1647.0,no known savings,1<=X<4,4.0,male single,none,2.0,life insurance,40.0,none,own,2.0,unskilled resident,2.0,none,yes,Snickers,90126
+183,no checking,24.0,critical/other existing credit,furniture/equipment,3777.0,>=1000,1<=X<4,4.0,male single,none,4.0,real estate,50.0,none,own,1.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90037
+184,0<=X<200,18.0,critical/other existing credit,new car,884.0,<100,>=7,4.0,male single,none,4.0,car,36.0,bank,own,1.0,skilled,2.0,yes,yes,Terry's Chocolate Orange,90126
+185,no checking,15.0,critical/other existing credit,radio/tv,1360.0,<100,1<=X<4,4.0,male single,none,2.0,life insurance,31.0,none,own,2.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90166
+186,0<=X<200,9.0,all paid,used car,5129.0,<100,>=7,2.0,female div/dep/mar,none,4.0,no known property,74.0,bank,for free,1.0,high qualif/self emp/mgmt,2.0,yes,yes,Snickers,90130
+187,0<=X<200,16.0,critical/other existing credit,new car,1175.0,<100,unemployed,2.0,male single,none,3.0,car,68.0,none,for free,3.0,unemp/unskilled non res,1.0,yes,yes,Dairy Milk Fruit and Nut,90171
+188,<0,12.0,existing paid,radio/tv,674.0,100<=X<500,4<=X<7,4.0,male mar/wid,none,1.0,life insurance,20.0,none,own,1.0,skilled,1.0,none,yes,Snickers,90114
+189,0<=X<200,18.0,no credits/all paid,furniture/equipment,3244.0,<100,1<=X<4,1.0,female div/dep/mar,none,4.0,car,33.0,bank,own,2.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,-1
+190,no checking,24.0,existing paid,business,4591.0,>=1000,1<=X<4,2.0,male single,none,3.0,life insurance,54.0,none,own,3.0,high qualif/self emp/mgmt,1.0,yes,yes,Snickers,90048
+191,0<=X<200,48.0,no credits/all paid,business,3844.0,100<=X<500,4<=X<7,4.0,male single,none,4.0,no known property,34.0,none,for free,1.0,unskilled resident,2.0,none,yes,Dairy Milk Caramel,90072
+192,0<=X<200,27.0,existing paid,business,3915.0,<100,1<=X<4,4.0,male single,none,2.0,car,36.0,none,own,1.0,skilled,2.0,yes,yes,Dairy Milk Caramel,90097
+193,no checking,6.0,existing paid,radio/tv,2108.0,<100,4<=X<7,2.0,male mar/wid,none,2.0,real estate,29.0,none,rent,1.0,skilled,1.0,none,yes,Kit Kat,90067
+194,0<=X<200,45.0,existing paid,radio/tv,3031.0,100<=X<500,1<=X<4,4.0,male single,guarantor,4.0,life insurance,21.0,none,rent,1.0,skilled,1.0,none,yes,Wispa,90127
+195,0<=X<200,9.0,critical/other existing credit,education,1501.0,<100,>=7,2.0,female div/dep/mar,none,3.0,car,34.0,none,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Bounty,-1
+196,no checking,6.0,critical/other existing credit,radio/tv,1382.0,<100,1<=X<4,1.0,female div/dep/mar,none,1.0,car,28.0,none,own,2.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90142
+197,0<=X<200,12.0,existing paid,furniture/equipment,951.0,100<=X<500,<1,4.0,female div/dep/mar,none,4.0,car,27.0,bank,rent,4.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90038
+198,0<=X<200,24.0,existing paid,used car,2760.0,no known savings,>=7,4.0,male single,none,4.0,no known property,36.0,bank,for free,1.0,skilled,1.0,yes,yes,Dairy Milk Fruit and Nut,90113
+199,0<=X<200,18.0,delayed previously,furniture/equipment,4297.0,<100,>=7,4.0,male div/sep,none,3.0,no known property,40.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Snickers,90133
+200,no checking,9.0,critical/other existing credit,education,936.0,500<=X<1000,>=7,4.0,male single,none,2.0,car,52.0,none,own,2.0,skilled,1.0,yes,yes,Wispa,90060
+201,<0,12.0,existing paid,new car,1168.0,<100,1<=X<4,4.0,male mar/wid,none,3.0,real estate,27.0,none,own,1.0,unskilled resident,1.0,none,yes,Bounty,90169
+202,no checking,27.0,delayed previously,business,5117.0,<100,4<=X<7,3.0,male single,none,4.0,car,26.0,none,own,2.0,skilled,1.0,none,yes,Crunchie,90128
+203,<0,12.0,existing paid,retraining,902.0,<100,4<=X<7,4.0,male mar/wid,none,4.0,life insurance,21.0,none,rent,1.0,skilled,1.0,none,yes,Bounty,90083
+204,no checking,12.0,critical/other existing credit,new car,1495.0,<100,>=7,4.0,male single,none,1.0,real estate,38.0,none,own,2.0,unskilled resident,2.0,none,yes,Dairy Milk Fruit and Nut,90098
+205,<0,30.0,critical/other existing credit,used car,10623.0,<100,>=7,3.0,male single,none,4.0,no known property,38.0,none,for free,3.0,high qualif/self emp/mgmt,2.0,yes,yes,Terry's Chocolate Orange,90124
+206,no checking,12.0,critical/other existing credit,furniture/equipment,1935.0,<100,>=7,4.0,male single,none,4.0,real estate,43.0,none,own,3.0,skilled,1.0,yes,yes,Kit Kat,90034
+207,0<=X<200,12.0,critical/other existing credit,domestic appliance,1424.0,<100,4<=X<7,4.0,male single,none,3.0,life insurance,26.0,none,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90086
+208,<0,24.0,existing paid,business,6568.0,<100,1<=X<4,2.0,male mar/wid,none,2.0,car,21.0,stores,own,1.0,unskilled resident,1.0,none,yes,Crunchie,90078
+209,no checking,12.0,existing paid,used car,1413.0,>=1000,4<=X<7,3.0,male single,none,2.0,life insurance,55.0,none,own,1.0,skilled,1.0,none,no,Wispa,90061
+210,no checking,9.0,critical/other existing credit,radio/tv,3074.0,no known savings,1<=X<4,1.0,male single,none,2.0,real estate,33.0,none,own,2.0,skilled,2.0,none,yes,Dairy Milk Caramel,90047
+211,no checking,36.0,existing paid,radio/tv,3835.0,no known savings,>=7,2.0,female div/dep/mar,none,4.0,real estate,45.0,none,own,1.0,unskilled resident,1.0,yes,yes,Bounty,90034
+212,<0,27.0,no credits/all paid,business,5293.0,<100,unemployed,2.0,male single,none,4.0,life insurance,50.0,stores,own,2.0,skilled,1.0,yes,yes,Dairy Milk Fruit and Nut,90082
+213,>=200,-1.0,delayed previously,business,1908.0,<100,>=7,4.0,male single,none,4.0,real estate,66.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Crunchie,90130
+214,no checking,36.0,critical/other existing credit,radio/tv,3342.0,no known savings,>=7,4.0,male single,none,2.0,car,51.0,none,own,1.0,skilled,1.0,yes,yes,Crunchie,90158
+215,0<=X<200,6.0,critical/other existing credit,retraining,932.0,no known savings,4<=X<7,1.0,female div/dep/mar,none,3.0,life insurance,39.0,none,own,2.0,unskilled resident,1.0,none,yes,Terry's Chocolate Orange,90066
+216,<0,18.0,no credits/all paid,business,3104.0,<100,4<=X<7,3.0,male single,none,1.0,life insurance,31.0,bank,own,1.0,skilled,1.0,yes,yes,Kit Kat,90090
+217,>=200,36.0,existing paid,radio/tv,3913.0,<100,1<=X<4,2.0,male single,none,2.0,real estate,23.0,none,own,1.0,skilled,1.0,yes,yes,Bounty,-1
+218,<0,24.0,existing paid,furniture/equipment,3021.0,<100,1<=X<4,2.0,male div/sep,none,2.0,real estate,24.0,none,rent,1.0,unskilled resident,1.0,none,yes,Snickers,90018
+219,no checking,10.0,existing paid,new car,1364.0,<100,1<=X<4,2.0,female div/dep/mar,none,4.0,car,64.0,none,own,1.0,skilled,1.0,yes,yes,Bounty,90082
+220,0<=X<200,12.0,existing paid,radio/tv,625.0,<100,<1,4.0,male mar/wid,guarantor,1.0,real estate,26.0,bank,own,1.0,unskilled resident,1.0,none,yes,Snickers,90039
+221,<0,12.0,existing paid,education,1200.0,no known savings,1<=X<4,4.0,female div/dep/mar,none,4.0,life insurance,23.0,bank,rent,1.0,skilled,1.0,yes,yes,Bounty,90122
+222,no checking,12.0,existing paid,radio/tv,707.0,<100,1<=X<4,4.0,male single,none,2.0,real estate,30.0,bank,own,2.0,skilled,1.0,none,yes,Snickers,90083
+223,no checking,24.0,delayed previously,business,2978.0,no known savings,1<=X<4,4.0,male single,none,4.0,real estate,32.0,none,own,2.0,skilled,2.0,yes,yes,Terry's Chocolate Orange,90057
+224,no checking,15.0,existing paid,used car,4657.0,<100,1<=X<4,3.0,male single,none,2.0,car,30.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Fruit and Nut,90184
+225,no checking,36.0,no credits/all paid,repairs,2613.0,<100,1<=X<4,4.0,male single,none,2.0,car,27.0,none,own,2.0,skilled,1.0,none,yes,Kit Kat,90060
+226,0<=X<200,48.0,existing paid,radio/tv,10961.0,>=1000,4<=X<7,1.0,male single,co applicant,2.0,no known property,27.0,bank,own,2.0,skilled,1.0,yes,yes,Bounty,-1
+227,<0,12.0,existing paid,furniture/equipment,7865.0,<100,>=7,4.0,male single,none,4.0,no known property,53.0,none,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Caramel,90034
+228,no checking,9.0,existing paid,radio/tv,1478.0,<100,4<=X<7,4.0,male single,none,2.0,car,22.0,none,own,1.0,skilled,1.0,none,yes,Bounty,90173
+229,<0,24.0,existing paid,furniture/equipment,3149.0,<100,<1,4.0,male single,none,1.0,no known property,22.0,bank,for free,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90144
+230,>=200,36.0,existing paid,radio/tv,4210.0,<100,1<=X<4,4.0,male single,none,2.0,car,26.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90029
+231,no checking,9.0,existing paid,new car,2507.0,500<=X<1000,>=7,2.0,male single,none,4.0,no known property,51.0,none,for free,1.0,unskilled resident,1.0,none,yes,Kit Kat,-1
+232,no checking,12.0,existing paid,radio/tv,2141.0,100<=X<500,4<=X<7,3.0,male single,none,1.0,no known property,35.0,none,own,1.0,skilled,1.0,none,yes,Snickers,90181
+233,0<=X<200,18.0,existing paid,radio/tv,866.0,<100,1<=X<4,4.0,male mar/wid,guarantor,2.0,real estate,25.0,none,own,1.0,unskilled resident,1.0,none,yes,Crunchie,90005
+234,no checking,4.0,critical/other existing credit,radio/tv,1544.0,<100,4<=X<7,2.0,male single,none,1.0,real estate,42.0,none,own,3.0,unskilled resident,2.0,none,yes,Terry's Chocolate Orange,90099
+235,<0,24.0,existing paid,radio/tv,1823.0,<100,unemployed,4.0,male single,none,2.0,car,30.0,stores,own,1.0,high qualif/self emp/mgmt,2.0,none,yes,Terry's Chocolate Orange,90165
+236,0<=X<200,6.0,existing paid,new car,14555.0,no known savings,unemployed,1.0,male single,none,2.0,life insurance,23.0,none,own,1.0,unemp/unskilled non res,1.0,yes,yes,Crunchie,90187
+237,0<=X<200,21.0,existing paid,business,2767.0,100<=X<500,>=7,4.0,male div/sep,none,2.0,car,61.0,bank,rent,2.0,unskilled resident,1.0,none,yes,Snickers,90038
+238,no checking,12.0,critical/other existing credit,radio/tv,1291.0,<100,1<=X<4,4.0,female div/dep/mar,none,2.0,life insurance,35.0,none,own,2.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90066
+239,<0,30.0,existing paid,radio/tv,2522.0,<100,>=7,1.0,male single,guarantor,3.0,life insurance,39.0,none,own,1.0,skilled,2.0,none,yes,Crunchie,90159
+240,<0,24.0,existing paid,new car,915.0,no known savings,>=7,4.0,female div/dep/mar,none,2.0,car,29.0,bank,own,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90155
+241,no checking,6.0,existing paid,radio/tv,1595.0,<100,4<=X<7,3.0,male single,none,2.0,life insurance,51.0,none,own,1.0,skilled,2.0,none,yes,Kit Kat,90071
+242,<0,48.0,no credits/all paid,used car,4605.0,<100,>=7,3.0,male single,none,4.0,no known property,24.0,none,for free,2.0,skilled,2.0,none,yes,Dairy Milk Caramel,90116
+243,no checking,12.0,critical/other existing credit,business,1185.0,<100,1<=X<4,3.0,female div/dep/mar,none,2.0,real estate,27.0,none,own,2.0,skilled,1.0,none,yes,Snickers,90049
+244,no checking,12.0,all paid,retraining,3447.0,500<=X<1000,1<=X<4,4.0,female div/dep/mar,none,3.0,real estate,35.0,none,own,1.0,unskilled resident,2.0,none,yes,Snickers,90147
+245,no checking,24.0,existing paid,business,1258.0,<100,4<=X<7,4.0,male single,none,1.0,real estate,25.0,none,own,1.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90125
+246,no checking,12.0,critical/other existing credit,radio/tv,717.0,<100,>=7,4.0,male single,none,4.0,real estate,52.0,none,own,3.0,skilled,1.0,none,yes,Dairy Milk Caramel,90110
+247,no checking,6.0,no credits/all paid,new car,1204.0,100<=X<500,1<=X<4,4.0,male single,none,1.0,no known property,35.0,bank,rent,1.0,skilled,1.0,none,no,Wispa,90167
+248,>=200,24.0,existing paid,furniture/equipment,1925.0,<100,1<=X<4,2.0,male single,none,2.0,real estate,26.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90135
+249,no checking,18.0,existing paid,radio/tv,433.0,<100,unemployed,3.0,female div/dep/mar,co applicant,4.0,real estate,22.0,none,rent,1.0,skilled,1.0,none,yes,Snickers,90113
+250,<0,6.0,critical/other existing credit,new car,666.0,>=1000,4<=X<7,3.0,female div/dep/mar,none,4.0,real estate,39.0,none,own,2.0,unskilled resident,1.0,yes,yes,Kit Kat,90066
+251,>=200,12.0,existing paid,furniture/equipment,2251.0,<100,1<=X<4,1.0,female div/dep/mar,none,2.0,car,46.0,none,own,1.0,unskilled resident,1.0,none,yes,Wispa,90033
+252,0<=X<200,30.0,existing paid,new car,2150.0,<100,1<=X<4,4.0,female div/dep/mar,guarantor,2.0,no known property,24.0,bank,own,1.0,skilled,1.0,none,yes,Wispa,90123
+253,no checking,24.0,delayed previously,furniture/equipment,4151.0,100<=X<500,1<=X<4,2.0,male single,none,3.0,life insurance,35.0,none,own,2.0,skilled,1.0,none,yes,Crunchie,90134
+254,0<=X<200,9.0,existing paid,furniture/equipment,2030.0,no known savings,4<=X<7,2.0,male single,none,1.0,car,24.0,none,own,1.0,skilled,1.0,yes,yes,Snickers,-1
+255,0<=X<200,60.0,delayed previously,radio/tv,7418.0,no known savings,1<=X<4,1.0,male single,none,1.0,real estate,27.0,none,own,1.0,unskilled resident,1.0,none,yes,Crunchie,90183
+256,no checking,24.0,critical/other existing credit,radio/tv,2684.0,<100,1<=X<4,4.0,male single,none,2.0,real estate,35.0,none,own,2.0,unskilled resident,1.0,none,yes,Crunchie,90146
+257,<0,12.0,all paid,radio/tv,2149.0,<100,1<=X<4,4.0,male div/sep,none,1.0,no known property,29.0,none,for free,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90035
+258,no checking,15.0,existing paid,used car,3812.0,100<=X<500,<1,1.0,female div/dep/mar,none,4.0,car,23.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Caramel,-1
+259,no checking,11.0,critical/other existing credit,radio/tv,1154.0,100<=X<500,unemployed,4.0,female div/dep/mar,none,4.0,real estate,57.0,none,own,3.0,unskilled resident,1.0,none,yes,Dairy Milk Fruit and Nut,90066
+260,<0,12.0,existing paid,furniture/equipment,1657.0,<100,1<=X<4,2.0,male single,none,2.0,real estate,27.0,none,own,1.0,skilled,1.0,none,yes,Crunchie,-1
+261,<0,24.0,existing paid,radio/tv,1603.0,<100,>=7,4.0,female div/dep/mar,none,4.0,car,55.0,none,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90008
+262,<0,18.0,critical/other existing credit,new car,5302.0,<100,>=7,2.0,male single,none,4.0,no known property,36.0,none,for free,3.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Fruit and Nut,-1
+263,no checking,12.0,critical/other existing credit,education,2748.0,<100,>=7,2.0,female div/dep/mar,none,4.0,no known property,57.0,bank,for free,3.0,unskilled resident,1.0,none,yes,Snickers,90075
+264,no checking,10.0,critical/other existing credit,new car,1231.0,<100,>=7,3.0,male single,none,4.0,real estate,32.0,none,own,2.0,unskilled resident,2.0,none,no,Snickers,90075
+265,0<=X<200,15.0,existing paid,radio/tv,802.0,<100,>=7,4.0,male single,none,3.0,car,37.0,none,own,1.0,skilled,2.0,none,yes,Dairy Milk Fruit and Nut,90001
+266,no checking,36.0,critical/other existing credit,business,6304.0,no known savings,>=7,4.0,male single,none,4.0,real estate,36.0,none,own,2.0,skilled,1.0,none,yes,Snickers,-1
+267,no checking,24.0,existing paid,radio/tv,1533.0,<100,<1,4.0,female div/dep/mar,none,3.0,car,38.0,stores,own,1.0,skilled,1.0,yes,yes,Crunchie,90133
+268,<0,14.0,existing paid,new car,8978.0,<100,>=7,1.0,male div/sep,none,4.0,life insurance,45.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,no,Snickers,90160
+269,no checking,24.0,existing paid,radio/tv,999.0,no known savings,>=7,4.0,male single,none,2.0,car,25.0,none,own,2.0,skilled,1.0,none,yes,Bounty,90033
+270,no checking,18.0,existing paid,new car,2662.0,no known savings,4<=X<7,4.0,male single,none,3.0,life insurance,32.0,none,own,1.0,skilled,1.0,none,no,Terry's Chocolate Orange,90139
+271,no checking,12.0,critical/other existing credit,furniture/equipment,1402.0,500<=X<1000,4<=X<7,3.0,female div/dep/mar,none,4.0,car,37.0,none,rent,1.0,skilled,1.0,yes,yes,Crunchie,90085
+272,0<=X<200,48.0,all paid,new car,12169.0,no known savings,unemployed,4.0,male single,co applicant,4.0,no known property,36.0,none,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Wispa,90004
+273,0<=X<200,48.0,existing paid,radio/tv,3060.0,<100,4<=X<7,4.0,male single,none,4.0,real estate,28.0,none,own,2.0,skilled,1.0,none,yes,Bounty,90088
+274,<0,30.0,existing paid,repairs,11998.0,<100,<1,1.0,male div/sep,none,1.0,no known property,34.0,none,own,1.0,unskilled resident,1.0,yes,yes,Bounty,-1
+275,no checking,9.0,existing paid,radio/tv,2697.0,<100,1<=X<4,1.0,male single,none,2.0,real estate,32.0,none,own,1.0,skilled,2.0,none,yes,Bounty,90162
+276,no checking,18.0,critical/other existing credit,radio/tv,2404.0,<100,1<=X<4,2.0,female div/dep/mar,none,2.0,car,26.0,none,own,2.0,skilled,1.0,none,yes,Dairy Milk Caramel,90063
+277,<0,12.0,existing paid,furniture/equipment,1262.0,no known savings,>=7,2.0,male div/sep,none,4.0,life insurance,49.0,none,own,1.0,unskilled resident,1.0,yes,yes,Bounty,90077
+278,no checking,6.0,existing paid,furniture/equipment,4611.0,<100,<1,1.0,female div/dep/mar,none,4.0,life insurance,32.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90068
+279,no checking,24.0,existing paid,radio/tv,1901.0,100<=X<500,1<=X<4,4.0,male single,none,4.0,car,29.0,none,rent,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Fruit and Nut,90061
+280,no checking,15.0,critical/other existing credit,used car,3368.0,>=1000,>=7,3.0,male single,none,4.0,no known property,23.0,none,rent,2.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90032
+281,no checking,12.0,existing paid,furniture/equipment,1574.0,<100,1<=X<4,4.0,male single,none,2.0,real estate,50.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90100
+282,>=200,18.0,all paid,radio/tv,1445.0,no known savings,4<=X<7,4.0,male single,none,4.0,car,49.0,bank,own,1.0,unskilled resident,1.0,none,yes,Crunchie,90052
+283,no checking,15.0,critical/other existing credit,furniture/equipment,1520.0,no known savings,>=7,4.0,male single,none,4.0,life insurance,63.0,none,own,1.0,skilled,1.0,none,yes,Wispa,90061
+284,0<=X<200,24.0,critical/other existing credit,new car,3878.0,100<=X<500,<1,4.0,male div/sep,none,2.0,car,37.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90056
+285,<0,47.0,existing paid,new car,10722.0,<100,<1,1.0,female div/dep/mar,none,1.0,real estate,35.0,none,own,1.0,unskilled resident,1.0,yes,yes,Bounty,90028
+286,<0,48.0,existing paid,used car,4788.0,<100,4<=X<7,4.0,male single,none,3.0,life insurance,26.0,none,own,1.0,skilled,2.0,none,yes,Wispa,-1
+287,0<=X<200,48.0,delayed previously,other,7582.0,100<=X<500,unemployed,2.0,male single,none,4.0,no known property,31.0,none,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Caramel,90135
+288,0<=X<200,12.0,existing paid,radio/tv,1092.0,<100,1<=X<4,4.0,female div/dep/mar,guarantor,4.0,real estate,49.0,none,own,2.0,skilled,1.0,yes,yes,Crunchie,90044
+289,<0,24.0,delayed previously,radio/tv,1024.0,<100,<1,4.0,male mar/wid,none,4.0,real estate,48.0,stores,own,1.0,skilled,1.0,none,yes,Crunchie,90139
+290,no checking,12.0,existing paid,business,1076.0,<100,1<=X<4,2.0,male mar/wid,none,2.0,real estate,26.0,none,own,1.0,skilled,1.0,yes,no,Crunchie,90093
+291,0<=X<200,36.0,existing paid,used car,9398.0,<100,<1,1.0,male mar/wid,none,4.0,car,28.0,none,rent,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Bounty,-1
+292,<0,24.0,critical/other existing credit,used car,6419.0,<100,>=7,2.0,female div/dep/mar,none,4.0,no known property,44.0,none,for free,2.0,high qualif/self emp/mgmt,2.0,yes,yes,Dairy Milk Caramel,90097
+293,>=200,42.0,critical/other existing credit,used car,4796.0,<100,>=7,4.0,male single,none,4.0,no known property,56.0,none,for free,1.0,skilled,1.0,none,yes,Crunchie,90146
+294,no checking,48.0,critical/other existing credit,business,7629.0,no known savings,>=7,4.0,male div/sep,none,2.0,car,46.0,bank,own,2.0,high qualif/self emp/mgmt,2.0,none,yes,Crunchie,90070
+295,0<=X<200,48.0,existing paid,furniture/equipment,9960.0,<100,<1,1.0,female div/dep/mar,none,2.0,car,26.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Fruit and Nut,90165
+296,no checking,12.0,existing paid,used car,4675.0,no known savings,<1,1.0,female div/dep/mar,none,4.0,car,20.0,none,rent,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90116
+297,no checking,10.0,existing paid,new car,1287.0,no known savings,>=7,4.0,male single,co applicant,2.0,life insurance,45.0,none,own,1.0,unskilled resident,1.0,none,no,Kit Kat,90029
+298,no checking,18.0,existing paid,furniture/equipment,2515.0,<100,1<=X<4,3.0,male single,none,4.0,real estate,43.0,none,own,1.0,skilled,1.0,yes,yes,Crunchie,90050
+299,0<=X<200,21.0,critical/other existing credit,furniture/equipment,2745.0,>=1000,4<=X<7,3.0,male single,none,2.0,car,32.0,none,own,2.0,skilled,1.0,yes,yes,Bounty,90103
+300,no checking,6.0,existing paid,new car,672.0,<100,unemployed,1.0,female div/dep/mar,none,4.0,real estate,54.0,none,own,1.0,unemp/unskilled non res,1.0,yes,yes,Dairy Milk Fruit and Nut,90062
+301,0<=X<200,36.0,no credits/all paid,radio/tv,3804.0,<100,1<=X<4,4.0,female div/dep/mar,none,1.0,car,42.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90039
+302,>=200,24.0,critical/other existing credit,new car,1344.0,no known savings,4<=X<7,4.0,male single,none,2.0,real estate,37.0,bank,own,2.0,unskilled resident,2.0,none,yes,Kit Kat,-1
+303,<0,10.0,critical/other existing credit,new car,1038.0,<100,4<=X<7,4.0,male single,co applicant,3.0,life insurance,49.0,none,own,2.0,skilled,1.0,yes,yes,Crunchie,90115
+304,no checking,48.0,critical/other existing credit,new car,10127.0,500<=X<1000,1<=X<4,2.0,male single,none,2.0,no known property,44.0,bank,for free,1.0,skilled,1.0,none,yes,Crunchie,90091
+305,no checking,6.0,existing paid,furniture/equipment,1543.0,>=1000,1<=X<4,4.0,male div/sep,none,2.0,real estate,33.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90186
+306,no checking,30.0,existing paid,used car,4811.0,no known savings,4<=X<7,2.0,female div/dep/mar,none,4.0,life insurance,24.0,stores,rent,1.0,unskilled resident,1.0,none,yes,Kit Kat,-1
+307,<0,12.0,existing paid,radio/tv,727.0,100<=X<500,<1,4.0,male mar/wid,none,3.0,no known property,33.0,none,own,1.0,unskilled resident,1.0,yes,yes,Dairy Milk Caramel,-1
+308,0<=X<200,8.0,existing paid,furniture/equipment,1237.0,<100,1<=X<4,3.0,female div/dep/mar,none,4.0,real estate,24.0,none,own,1.0,skilled,1.0,none,yes,Snickers,90076
+309,0<=X<200,9.0,existing paid,new car,276.0,<100,1<=X<4,4.0,male mar/wid,none,4.0,real estate,22.0,none,rent,1.0,unskilled resident,1.0,none,yes,Bounty,90163
+310,0<=X<200,48.0,existing paid,other,5381.0,no known savings,unemployed,3.0,male single,none,4.0,no known property,40.0,bank,for free,1.0,unemp/unskilled non res,1.0,yes,yes,Terry's Chocolate Orange,90105
+311,no checking,24.0,existing paid,furniture/equipment,5511.0,100<=X<500,1<=X<4,4.0,male single,none,1.0,car,25.0,stores,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90159
+312,>=200,24.0,existing paid,furniture/equipment,3749.0,<100,<1,2.0,female div/dep/mar,none,4.0,car,26.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,-1
+313,0<=X<200,12.0,existing paid,new car,685.0,<100,4<=X<7,2.0,male mar/wid,none,3.0,car,25.0,bank,own,1.0,unskilled resident,1.0,none,yes,Snickers,90083
+314,>=200,4.0,existing paid,new car,1494.0,no known savings,<1,1.0,male single,none,2.0,real estate,29.0,none,own,1.0,unskilled resident,2.0,none,no,Dairy Milk Fruit and Nut,90156
+315,<0,36.0,all paid,furniture/equipment,2746.0,<100,>=7,4.0,male single,none,4.0,car,31.0,bank,own,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90019
+316,<0,12.0,existing paid,furniture/equipment,708.0,<100,1<=X<4,2.0,male single,guarantor,3.0,life insurance,38.0,none,own,1.0,unskilled resident,2.0,none,yes,Dairy Milk Fruit and Nut,90178
+317,0<=X<200,24.0,existing paid,furniture/equipment,4351.0,no known savings,1<=X<4,1.0,female div/dep/mar,none,4.0,life insurance,48.0,none,own,1.0,unskilled resident,1.0,yes,yes,Dairy Milk Fruit and Nut,90104
+318,no checking,12.0,critical/other existing credit,education,701.0,<100,1<=X<4,4.0,male single,none,2.0,car,32.0,none,own,2.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90055
+319,<0,15.0,delayed previously,furniture/equipment,3643.0,<100,>=7,1.0,female div/dep/mar,none,4.0,life insurance,27.0,none,own,2.0,unskilled resident,1.0,none,yes,Dairy Milk Fruit and Nut,90045
+320,0<=X<200,30.0,critical/other existing credit,new car,4249.0,<100,unemployed,4.0,male mar/wid,none,2.0,car,28.0,none,own,2.0,high qualif/self emp/mgmt,1.0,none,yes,Bounty,-1
+321,<0,24.0,existing paid,radio/tv,1938.0,<100,<1,4.0,male div/sep,none,3.0,life insurance,32.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90171
+322,<0,24.0,existing paid,used car,2910.0,<100,4<=X<7,2.0,male single,none,1.0,no known property,34.0,none,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Bounty,-1
+323,<0,18.0,existing paid,furniture/equipment,2659.0,>=1000,1<=X<4,4.0,male single,none,2.0,car,28.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90099
+324,no checking,18.0,critical/other existing credit,new car,1028.0,<100,1<=X<4,4.0,female div/dep/mar,none,3.0,real estate,36.0,none,own,2.0,skilled,1.0,none,yes,Bounty,90177
+325,<0,8.0,critical/other existing credit,new car,3398.0,<100,4<=X<7,1.0,male single,none,4.0,real estate,39.0,none,own,2.0,unskilled resident,1.0,none,no,Bounty,90134
+326,no checking,12.0,critical/other existing credit,furniture/equipment,5801.0,no known savings,>=7,2.0,male single,none,4.0,life insurance,49.0,none,rent,1.0,skilled,1.0,yes,yes,Wispa,-1
+327,no checking,24.0,existing paid,new car,1525.0,>=1000,4<=X<7,4.0,female div/dep/mar,none,3.0,car,34.0,none,own,1.0,skilled,2.0,yes,yes,Snickers,90141
+328,>=200,36.0,existing paid,radio/tv,4473.0,<100,>=7,4.0,male single,none,2.0,car,31.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90025
+329,0<=X<200,6.0,existing paid,radio/tv,1068.0,<100,>=7,4.0,male single,none,4.0,car,28.0,none,own,1.0,skilled,2.0,none,yes,Bounty,90133
+330,<0,24.0,critical/other existing credit,used car,6615.0,<100,unemployed,2.0,male single,none,4.0,no known property,75.0,none,for free,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Fruit and Nut,90080
+331,no checking,18.0,critical/other existing credit,education,1864.0,100<=X<500,1<=X<4,4.0,female div/dep/mar,none,2.0,real estate,30.0,none,own,2.0,skilled,1.0,none,yes,Crunchie,90009
+332,0<=X<200,60.0,existing paid,new car,7408.0,100<=X<500,<1,4.0,female div/dep/mar,none,2.0,life insurance,24.0,none,own,1.0,high qualif/self emp/mgmt,1.0,none,yes,Kit Kat,-1
+333,no checking,48.0,critical/other existing credit,used car,11590.0,100<=X<500,1<=X<4,2.0,female div/dep/mar,none,4.0,car,24.0,bank,rent,2.0,unskilled resident,1.0,none,yes,Dairy Milk Fruit and Nut,90158
+334,<0,24.0,no credits/all paid,furniture/equipment,4110.0,<100,>=7,3.0,male single,none,4.0,no known property,23.0,bank,rent,2.0,skilled,2.0,none,yes,Snickers,90066
+335,<0,6.0,critical/other existing credit,furniture/equipment,3384.0,<100,1<=X<4,1.0,male div/sep,none,4.0,real estate,44.0,none,rent,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Wispa,-1
+336,0<=X<200,13.0,existing paid,radio/tv,2101.0,<100,<1,2.0,female div/dep/mar,guarantor,4.0,life insurance,23.0,none,own,1.0,unskilled resident,1.0,none,yes,Bounty,90147
+337,<0,15.0,existing paid,domestic appliance,1275.0,no known savings,1<=X<4,4.0,female div/dep/mar,none,2.0,car,24.0,none,rent,1.0,skilled,1.0,none,yes,Wispa,90096
+338,<0,24.0,existing paid,furniture/equipment,4169.0,<100,1<=X<4,4.0,male single,none,4.0,life insurance,28.0,none,own,1.0,skilled,1.0,none,yes,Bounty,90009
+339,0<=X<200,10.0,existing paid,furniture/equipment,1521.0,<100,1<=X<4,4.0,male div/sep,none,2.0,car,31.0,none,own,1.0,unskilled resident,1.0,none,yes,Dairy Milk Fruit and Nut,90133
+340,0<=X<200,24.0,critical/other existing credit,education,5743.0,<100,<1,2.0,female div/dep/mar,none,4.0,no known property,24.0,none,for free,2.0,skilled,1.0,yes,yes,Snickers,90144
+341,<0,21.0,existing paid,furniture/equipment,3599.0,<100,4<=X<7,1.0,female div/dep/mar,none,4.0,car,26.0,none,rent,1.0,unskilled resident,1.0,none,yes,Bounty,90043
+342,0<=X<200,18.0,existing paid,radio/tv,3213.0,500<=X<1000,<1,1.0,male mar/wid,none,3.0,real estate,25.0,none,rent,1.0,skilled,1.0,none,yes,Snickers,90132
+343,0<=X<200,18.0,existing paid,business,4439.0,<100,>=7,1.0,male single,co applicant,1.0,real estate,33.0,bank,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Bounty,90166
+344,>=200,10.0,existing paid,new car,3949.0,<100,<1,1.0,male single,guarantor,1.0,life insurance,37.0,none,own,1.0,unskilled resident,2.0,none,yes,Bounty,90107
+345,no checking,15.0,critical/other existing credit,radio/tv,1459.0,<100,1<=X<4,4.0,female div/dep/mar,none,2.0,car,43.0,none,own,1.0,unskilled resident,1.0,none,yes,Dairy Milk Fruit and Nut,90015
+346,0<=X<200,13.0,critical/other existing credit,radio/tv,882.0,<100,<1,4.0,male single,guarantor,4.0,real estate,23.0,none,own,2.0,skilled,1.0,none,yes,Snickers,90005
+347,0<=X<200,24.0,existing paid,radio/tv,3758.0,500<=X<1000,unemployed,1.0,female div/dep/mar,none,4.0,no known property,23.0,none,rent,1.0,unemp/unskilled non res,1.0,none,yes,Dairy Milk Caramel,90093
+348,no checking,6.0,delayed previously,business,1743.0,100<=X<500,1<=X<4,1.0,male single,none,2.0,real estate,34.0,none,own,2.0,unskilled resident,1.0,none,yes,Crunchie,90104
+349,0<=X<200,9.0,critical/other existing credit,education,1136.0,>=1000,>=7,4.0,male single,none,3.0,no known property,32.0,none,for free,2.0,skilled,2.0,none,yes,Kit Kat,90186
+350,no checking,9.0,existing paid,domestic appliance,1236.0,<100,<1,1.0,female div/dep/mar,none,4.0,real estate,23.0,none,rent,1.0,skilled,1.0,yes,yes,Bounty,90034
+351,0<=X<200,9.0,existing paid,furniture/equipment,959.0,<100,1<=X<4,1.0,female div/dep/mar,none,2.0,car,29.0,none,own,1.0,skilled,1.0,none,no,Snickers,90070
+352,no checking,18.0,critical/other existing credit,used car,3229.0,no known savings,unemployed,2.0,male single,none,4.0,no known property,38.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Bounty,90068
+353,<0,12.0,no credits/all paid,radio/tv,6199.0,<100,1<=X<4,4.0,male single,none,2.0,life insurance,28.0,none,rent,2.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90148
+354,no checking,10.0,existing paid,education,727.0,500<=X<1000,>=7,4.0,male single,none,4.0,no known property,46.0,none,for free,1.0,skilled,1.0,yes,yes,Kit Kat,90123
+355,0<=X<200,24.0,existing paid,new car,1246.0,<100,<1,4.0,male single,none,2.0,real estate,23.0,stores,own,1.0,unskilled resident,1.0,none,yes,Dairy Milk Caramel,90112
+356,no checking,12.0,critical/other existing credit,radio/tv,2331.0,no known savings,>=7,1.0,male single,co applicant,4.0,real estate,49.0,none,own,1.0,skilled,1.0,yes,yes,Snickers,90018
+357,no checking,36.0,delayed previously,radio/tv,4463.0,<100,1<=X<4,4.0,male single,none,2.0,car,26.0,none,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Crunchie,90112
+358,no checking,12.0,existing paid,radio/tv,776.0,<100,1<=X<4,4.0,male mar/wid,none,2.0,real estate,28.0,none,own,1.0,skilled,1.0,none,yes,Snickers,90128
+359,<0,30.0,existing paid,furniture/equipment,2406.0,<100,4<=X<7,4.0,female div/dep/mar,none,4.0,real estate,23.0,none,rent,1.0,skilled,1.0,none,yes,Wispa,90133
+360,0<=X<200,18.0,existing paid,education,1239.0,no known savings,1<=X<4,4.0,male single,none,4.0,no known property,61.0,none,for free,1.0,skilled,1.0,none,yes,Wispa,90177
+361,>=200,12.0,existing paid,radio/tv,3399.0,no known savings,>=7,2.0,male single,none,3.0,car,37.0,none,own,1.0,high qualif/self emp/mgmt,1.0,none,yes,Wispa,-1
+362,>=200,12.0,delayed previously,new car,2247.0,<100,1<=X<4,2.0,female div/dep/mar,none,2.0,car,36.0,stores,own,2.0,skilled,1.0,yes,yes,Crunchie,90134
+363,no checking,6.0,existing paid,furniture/equipment,1766.0,<100,1<=X<4,1.0,male mar/wid,none,2.0,life insurance,21.0,none,rent,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90102
+364,<0,18.0,existing paid,furniture/equipment,2473.0,<100,unemployed,4.0,male single,none,1.0,car,25.0,none,own,1.0,unemp/unskilled non res,1.0,none,yes,Dairy Milk Fruit and Nut,90101
+365,no checking,12.0,existing paid,business,1542.0,<100,4<=X<7,2.0,male single,none,4.0,car,36.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Fruit and Nut,90065
+366,no checking,18.0,critical/other existing credit,used car,3850.0,<100,4<=X<7,3.0,male single,none,1.0,car,27.0,none,own,2.0,skilled,1.0,none,yes,Snickers,90028
+367,<0,18.0,existing paid,furniture/equipment,3650.0,<100,<1,1.0,female div/dep/mar,none,4.0,car,22.0,none,rent,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90044
+368,<0,36.0,existing paid,furniture/equipment,3446.0,<100,>=7,4.0,male single,none,2.0,car,42.0,none,own,1.0,skilled,2.0,none,yes,Bounty,90141
+369,0<=X<200,18.0,existing paid,furniture/equipment,3001.0,<100,4<=X<7,2.0,female div/dep/mar,none,4.0,real estate,40.0,none,rent,1.0,skilled,1.0,none,yes,Wispa,90109
+370,no checking,36.0,existing paid,new car,3079.0,no known savings,1<=X<4,4.0,male single,none,4.0,real estate,36.0,none,own,1.0,skilled,1.0,none,yes,Wispa,90155
+371,no checking,18.0,critical/other existing credit,radio/tv,6070.0,<100,>=7,3.0,male single,none,4.0,car,33.0,none,own,2.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90045
+372,no checking,10.0,critical/other existing credit,furniture/equipment,2146.0,<100,<1,1.0,female div/dep/mar,none,3.0,real estate,23.0,none,rent,2.0,skilled,1.0,none,yes,Kit Kat,90055
+373,no checking,60.0,critical/other existing credit,new car,13756.0,no known savings,>=7,2.0,male single,none,4.0,no known property,63.0,bank,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Terry's Chocolate Orange,90096
+374,0<=X<200,60.0,all paid,other,14782.0,100<=X<500,>=7,3.0,female div/dep/mar,none,4.0,no known property,60.0,bank,for free,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Fruit and Nut,-1
+375,<0,48.0,all paid,business,7685.0,<100,4<=X<7,2.0,female div/dep/mar,guarantor,4.0,car,37.0,none,rent,1.0,skilled,1.0,none,yes,Crunchie,90140
+376,no checking,18.0,delayed previously,radio/tv,2320.0,<100,unemployed,2.0,male mar/wid,none,3.0,real estate,34.0,none,own,2.0,skilled,1.0,none,yes,Dairy Milk Caramel,90070
+377,no checking,7.0,delayed previously,radio/tv,846.0,no known savings,>=7,3.0,male single,none,4.0,no known property,36.0,none,for free,1.0,skilled,1.0,none,yes,Bounty,90009
+378,0<=X<200,36.0,existing paid,new car,14318.0,<100,>=7,4.0,male single,none,2.0,no known property,57.0,none,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Bounty,90092
+379,no checking,6.0,critical/other existing credit,new car,362.0,100<=X<500,1<=X<4,4.0,female div/dep/mar,none,4.0,car,52.0,none,own,2.0,unskilled resident,1.0,none,yes,Dairy Milk Fruit and Nut,90132
+380,<0,20.0,existing paid,furniture/equipment,2212.0,no known savings,4<=X<7,4.0,male single,none,4.0,car,39.0,none,own,1.0,skilled,1.0,yes,yes,Wispa,90062
+381,0<=X<200,18.0,existing paid,used car,12976.0,<100,unemployed,3.0,female div/dep/mar,none,4.0,no known property,38.0,none,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Bounty,90053
+382,no checking,22.0,existing paid,new car,1283.0,no known savings,4<=X<7,4.0,female div/dep/mar,none,4.0,life insurance,25.0,none,rent,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90022
+383,>=200,12.0,existing paid,new car,1330.0,<100,<1,4.0,male single,none,1.0,real estate,26.0,none,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90103
+384,no checking,30.0,delayed previously,business,4272.0,100<=X<500,1<=X<4,2.0,male single,none,2.0,life insurance,26.0,none,own,2.0,unskilled resident,1.0,none,yes,Bounty,90137
+385,no checking,18.0,critical/other existing credit,radio/tv,2238.0,<100,1<=X<4,2.0,female div/dep/mar,none,1.0,car,25.0,none,own,2.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90135
+386,no checking,18.0,existing paid,radio/tv,1126.0,no known savings,<1,4.0,female div/dep/mar,none,2.0,real estate,21.0,none,rent,1.0,skilled,1.0,yes,yes,Wispa,90162
+387,0<=X<200,18.0,critical/other existing credit,furniture/equipment,7374.0,<100,unemployed,4.0,male single,none,4.0,life insurance,40.0,stores,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Kit Kat,-1
+388,0<=X<200,15.0,critical/other existing credit,business,2326.0,500<=X<1000,1<=X<4,2.0,male single,none,4.0,car,27.0,bank,own,1.0,skilled,1.0,none,yes,Crunchie,90135
+389,no checking,9.0,existing paid,business,1449.0,<100,4<=X<7,3.0,female div/dep/mar,none,2.0,car,27.0,none,own,2.0,skilled,1.0,none,yes,Crunchie,90005
+390,no checking,18.0,existing paid,new car,1820.0,<100,1<=X<4,2.0,male mar/wid,none,2.0,life insurance,30.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Terry's Chocolate Orange,90158
+391,0<=X<200,12.0,existing paid,furniture/equipment,983.0,>=1000,<1,1.0,female div/dep/mar,none,4.0,real estate,19.0,none,rent,1.0,unskilled resident,1.0,none,yes,Dairy Milk Caramel,90150
+392,<0,36.0,existing paid,new car,3249.0,<100,4<=X<7,2.0,male single,none,4.0,no known property,39.0,bank,for free,1.0,high qualif/self emp/mgmt,2.0,yes,yes,Dairy Milk Fruit and Nut,90029
+393,<0,6.0,critical/other existing credit,radio/tv,1957.0,<100,4<=X<7,1.0,female div/dep/mar,none,4.0,car,31.0,none,own,1.0,skilled,1.0,none,yes,Bounty,90170
+394,no checking,9.0,critical/other existing credit,furniture/equipment,2406.0,<100,unemployed,2.0,male single,none,3.0,car,31.0,none,own,1.0,high qualif/self emp/mgmt,1.0,none,yes,Wispa,90083
+395,0<=X<200,39.0,delayed previously,education,11760.0,100<=X<500,4<=X<7,2.0,male single,none,3.0,no known property,32.0,none,rent,1.0,skilled,1.0,yes,yes,Crunchie,-1
+396,<0,12.0,existing paid,furniture/equipment,2578.0,<100,unemployed,3.0,female div/dep/mar,none,4.0,no known property,55.0,none,for free,1.0,high qualif/self emp/mgmt,1.0,none,yes,Snickers,90079
+397,<0,36.0,critical/other existing credit,furniture/equipment,2348.0,<100,1<=X<4,3.0,male mar/wid,none,2.0,life insurance,46.0,none,own,2.0,skilled,1.0,yes,yes,Bounty,90185
+398,0<=X<200,12.0,existing paid,new car,1223.0,<100,>=7,1.0,male div/sep,none,1.0,real estate,46.0,none,rent,2.0,skilled,1.0,none,yes,Crunchie,90072
+399,no checking,24.0,critical/other existing credit,radio/tv,1516.0,>=1000,1<=X<4,4.0,female div/dep/mar,none,1.0,real estate,43.0,none,own,2.0,unskilled resident,1.0,none,yes,Dairy Milk Caramel,90026
+400,no checking,18.0,existing paid,radio/tv,1473.0,<100,<1,3.0,male mar/wid,none,4.0,real estate,39.0,none,own,1.0,skilled,1.0,yes,yes,Bounty,-1
+401,0<=X<200,18.0,critical/other existing credit,business,1887.0,no known savings,1<=X<4,4.0,male mar/wid,none,4.0,real estate,28.0,bank,own,2.0,skilled,1.0,none,yes,Kit Kat,90038
+402,no checking,24.0,delayed previously,business,8648.0,<100,<1,2.0,male single,none,2.0,car,27.0,bank,own,2.0,skilled,1.0,yes,yes,Kit Kat,90121
+403,no checking,14.0,delayed previously,new car,802.0,<100,1<=X<4,4.0,male single,none,2.0,car,27.0,none,own,2.0,unskilled resident,1.0,none,yes,Terry's Chocolate Orange,90107
+404,0<=X<200,18.0,delayed previously,new car,2899.0,no known savings,>=7,4.0,male single,none,4.0,car,43.0,none,own,1.0,skilled,2.0,none,yes,Bounty,90013
+405,0<=X<200,24.0,existing paid,radio/tv,2039.0,<100,<1,1.0,male mar/wid,none,1.0,life insurance,22.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Fruit and Nut,90165
+406,no checking,24.0,critical/other existing credit,used car,2197.0,no known savings,4<=X<7,4.0,male single,none,4.0,car,43.0,none,own,2.0,skilled,2.0,yes,yes,Snickers,90004
+407,<0,15.0,existing paid,radio/tv,1053.0,<100,<1,4.0,male mar/wid,none,2.0,real estate,27.0,none,own,1.0,skilled,1.0,none,no,Snickers,90105
+408,no checking,24.0,existing paid,radio/tv,3235.0,500<=X<1000,>=7,3.0,male div/sep,none,2.0,car,26.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Crunchie,90162
+409,>=200,12.0,critical/other existing credit,new car,939.0,500<=X<1000,4<=X<7,4.0,male mar/wid,none,2.0,real estate,28.0,none,own,3.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90140
+410,0<=X<200,24.0,existing paid,radio/tv,1967.0,<100,>=7,4.0,female div/dep/mar,none,4.0,car,20.0,none,own,1.0,skilled,1.0,yes,yes,Bounty,90183
+411,no checking,33.0,critical/other existing credit,used car,7253.0,<100,4<=X<7,3.0,male single,none,2.0,car,35.0,none,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Bounty,90133
+412,no checking,12.0,critical/other existing credit,business,2292.0,<100,unemployed,4.0,male single,none,2.0,car,42.0,stores,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Snickers,90123
+413,no checking,10.0,existing paid,new car,1597.0,500<=X<1000,1<=X<4,3.0,male single,none,2.0,no known property,40.0,none,rent,1.0,unskilled resident,2.0,none,no,Kit Kat,90054
+414,<0,24.0,existing paid,new car,1381.0,no known savings,1<=X<4,4.0,female div/dep/mar,none,2.0,life insurance,35.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90186
+415,no checking,36.0,critical/other existing credit,used car,5842.0,<100,>=7,2.0,male single,none,2.0,life insurance,35.0,none,own,2.0,skilled,2.0,yes,yes,Kit Kat,90080
+416,<0,12.0,existing paid,new car,2579.0,<100,<1,4.0,male single,none,1.0,real estate,33.0,none,own,1.0,unskilled resident,2.0,none,yes,Terry's Chocolate Orange,90099
+417,<0,18.0,delayed previously,education,8471.0,no known savings,1<=X<4,1.0,female div/dep/mar,none,2.0,car,23.0,none,rent,2.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90130
+418,no checking,21.0,existing paid,new car,2782.0,500<=X<1000,4<=X<7,1.0,female div/dep/mar,none,2.0,car,31.0,bank,own,1.0,high qualif/self emp/mgmt,1.0,none,yes,Kit Kat,-1
+419,0<=X<200,18.0,existing paid,new car,1042.0,no known savings,1<=X<4,4.0,female div/dep/mar,none,2.0,life insurance,33.0,none,own,1.0,skilled,1.0,none,yes,Crunchie,-1
+420,no checking,15.0,existing paid,new car,3186.0,>=1000,4<=X<7,2.0,female div/dep/mar,none,3.0,car,20.0,none,rent,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,-1
+421,0<=X<200,12.0,existing paid,used car,2028.0,no known savings,1<=X<4,4.0,male single,none,2.0,car,30.0,none,own,1.0,skilled,1.0,none,yes,Wispa,90158
+422,0<=X<200,12.0,critical/other existing credit,new car,958.0,<100,4<=X<7,2.0,male single,none,3.0,real estate,47.0,none,own,2.0,unskilled resident,2.0,none,yes,Wispa,90161
+423,no checking,21.0,delayed previously,furniture/equipment,1591.0,100<=X<500,4<=X<7,4.0,male single,none,3.0,real estate,34.0,none,own,2.0,high qualif/self emp/mgmt,1.0,none,yes,Terry's Chocolate Orange,90026
+424,0<=X<200,12.0,existing paid,furniture/equipment,2762.0,no known savings,>=7,1.0,female div/dep/mar,none,2.0,life insurance,25.0,bank,own,1.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90095
+425,0<=X<200,18.0,existing paid,used car,2779.0,<100,1<=X<4,1.0,male mar/wid,none,3.0,car,21.0,none,rent,1.0,skilled,1.0,yes,yes,Bounty,90186
+426,no checking,28.0,critical/other existing credit,radio/tv,2743.0,<100,>=7,4.0,male single,none,2.0,car,29.0,none,own,2.0,skilled,1.0,none,yes,Snickers,90136
+427,no checking,18.0,critical/other existing credit,radio/tv,1149.0,>=1000,1<=X<4,4.0,male single,none,3.0,real estate,46.0,none,own,2.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90130
+428,no checking,9.0,existing paid,furniture/equipment,1313.0,<100,>=7,1.0,male single,none,4.0,car,20.0,none,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90066
+429,<0,18.0,critical/other existing credit,repairs,1190.0,<100,unemployed,2.0,female div/dep/mar,none,4.0,no known property,55.0,none,for free,3.0,unemp/unskilled non res,2.0,none,yes,Snickers,90019
+430,no checking,5.0,existing paid,business,3448.0,<100,4<=X<7,1.0,male single,none,4.0,real estate,74.0,none,own,1.0,unskilled resident,1.0,none,yes,Crunchie,90074
+431,0<=X<200,24.0,existing paid,other,11328.0,<100,1<=X<4,2.0,male single,co applicant,3.0,car,29.0,bank,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Caramel,90059
+432,<0,6.0,critical/other existing credit,furniture/equipment,1872.0,<100,unemployed,4.0,male single,none,4.0,no known property,36.0,none,for free,3.0,high qualif/self emp/mgmt,1.0,yes,yes,Snickers,90170
+433,no checking,24.0,critical/other existing credit,repairs,2058.0,<100,1<=X<4,4.0,male div/sep,none,2.0,real estate,33.0,none,own,2.0,skilled,1.0,yes,yes,Dairy Milk Fruit and Nut,-1
+434,<0,9.0,existing paid,furniture/equipment,2136.0,<100,1<=X<4,3.0,male single,none,2.0,real estate,25.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90181
+435,0<=X<200,12.0,existing paid,radio/tv,1484.0,no known savings,1<=X<4,2.0,male mar/wid,none,1.0,real estate,25.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90118
+436,no checking,6.0,existing paid,repairs,660.0,500<=X<1000,4<=X<7,2.0,male mar/wid,none,4.0,real estate,23.0,none,rent,1.0,unskilled resident,1.0,none,yes,Dairy Milk Caramel,90159
+437,no checking,24.0,critical/other existing credit,new car,1287.0,>=1000,>=7,4.0,female div/dep/mar,none,4.0,real estate,37.0,none,own,2.0,skilled,1.0,yes,yes,Kit Kat,90126
+438,<0,42.0,critical/other existing credit,repairs,3394.0,<100,unemployed,4.0,male single,co applicant,4.0,car,65.0,none,own,2.0,unemp/unskilled non res,1.0,none,yes,Crunchie,90041
+439,>=200,12.0,all paid,business,609.0,<100,<1,4.0,female div/dep/mar,none,1.0,real estate,26.0,none,own,1.0,unemp/unskilled non res,1.0,none,yes,Wispa,90122
+440,no checking,12.0,existing paid,new car,1884.0,<100,>=7,4.0,male single,none,4.0,car,39.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Snickers,-1
+441,<0,12.0,existing paid,furniture/equipment,1620.0,<100,1<=X<4,2.0,female div/dep/mar,co applicant,3.0,life insurance,30.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,-1
+442,0<=X<200,20.0,delayed previously,other,2629.0,<100,1<=X<4,2.0,male single,none,3.0,car,29.0,bank,own,2.0,skilled,1.0,yes,yes,Crunchie,-1
+443,no checking,12.0,existing paid,education,719.0,<100,>=7,4.0,male single,none,4.0,car,41.0,bank,own,1.0,unskilled resident,2.0,none,yes,Snickers,90133
+444,0<=X<200,48.0,critical/other existing credit,furniture/equipment,5096.0,<100,1<=X<4,2.0,female div/dep/mar,none,3.0,car,30.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Kit Kat,90155
+445,no checking,9.0,critical/other existing credit,education,1244.0,no known savings,>=7,4.0,female div/dep/mar,none,4.0,life insurance,41.0,none,rent,2.0,unskilled resident,1.0,none,yes,Dairy Milk Fruit and Nut,90051
+446,<0,36.0,existing paid,new car,1842.0,<100,<1,4.0,female div/dep/mar,none,4.0,car,34.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Fruit and Nut,90138
+447,0<=X<200,7.0,existing paid,radio/tv,2576.0,<100,1<=X<4,2.0,male single,guarantor,2.0,real estate,35.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90079
+448,>=200,12.0,existing paid,furniture/equipment,1424.0,no known savings,>=7,3.0,female div/dep/mar,none,4.0,real estate,55.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Bounty,90133
+449,0<=X<200,15.0,delayed previously,repairs,1512.0,>=1000,1<=X<4,3.0,male mar/wid,none,3.0,life insurance,61.0,stores,own,2.0,skilled,1.0,none,yes,Crunchie,90088
+450,no checking,36.0,critical/other existing credit,used car,11054.0,no known savings,1<=X<4,4.0,male single,none,2.0,car,30.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Caramel,90133
+451,no checking,6.0,existing paid,radio/tv,518.0,<100,1<=X<4,3.0,female div/dep/mar,none,1.0,real estate,29.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,-1
+452,no checking,12.0,no credits/all paid,furniture/equipment,2759.0,<100,>=7,2.0,male single,none,4.0,life insurance,34.0,none,own,2.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90012
+453,no checking,24.0,existing paid,used car,2670.0,<100,>=7,4.0,male single,none,4.0,car,35.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Caramel,90083
+454,<0,24.0,existing paid,new car,4817.0,<100,4<=X<7,2.0,male single,co applicant,3.0,life insurance,31.0,none,own,1.0,skilled,1.0,yes,yes,Bounty,90133
+455,no checking,24.0,existing paid,used car,2679.0,<100,<1,4.0,female div/dep/mar,none,1.0,no known property,29.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Wispa,90014
+456,<0,11.0,critical/other existing credit,new car,3905.0,<100,1<=X<4,2.0,male single,none,2.0,real estate,36.0,none,rent,2.0,skilled,2.0,none,yes,Dairy Milk Caramel,90144
+457,<0,12.0,existing paid,used car,3386.0,<100,>=7,3.0,male single,none,4.0,no known property,35.0,none,for free,1.0,skilled,1.0,yes,yes,Snickers,90049
+458,<0,6.0,existing paid,domestic appliance,343.0,<100,<1,4.0,female div/dep/mar,none,1.0,real estate,27.0,none,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,-1
+459,no checking,18.0,existing paid,radio/tv,4594.0,<100,<1,3.0,male single,none,2.0,car,32.0,none,own,1.0,skilled,1.0,yes,yes,Bounty,90107
+460,<0,36.0,existing paid,furniture/equipment,3620.0,<100,1<=X<4,1.0,male single,guarantor,2.0,life insurance,37.0,none,own,1.0,skilled,2.0,none,yes,Dairy Milk Fruit and Nut,90117
+461,<0,15.0,existing paid,new car,1721.0,<100,<1,2.0,male single,none,3.0,real estate,36.0,none,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90024
+462,0<=X<200,12.0,existing paid,furniture/equipment,3017.0,<100,<1,3.0,female div/dep/mar,none,1.0,real estate,34.0,none,rent,1.0,high qualif/self emp/mgmt,1.0,none,yes,Dairy Milk Fruit and Nut,90006
+463,0<=X<200,12.0,existing paid,retraining,754.0,no known savings,>=7,4.0,male single,none,4.0,life insurance,38.0,none,own,2.0,skilled,1.0,none,yes,Crunchie,90114
+464,no checking,18.0,existing paid,business,1950.0,<100,4<=X<7,4.0,male single,none,1.0,car,34.0,stores,own,2.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90015
+465,<0,24.0,existing paid,used car,2924.0,<100,1<=X<4,3.0,male single,guarantor,4.0,no known property,63.0,bank,own,1.0,skilled,2.0,yes,yes,Crunchie,90006
+466,<0,24.0,delayed previously,radio/tv,1659.0,<100,<1,4.0,female div/dep/mar,none,2.0,car,29.0,none,rent,1.0,unskilled resident,1.0,yes,yes,Dairy Milk Fruit and Nut,90119
+467,no checking,48.0,delayed previously,radio/tv,7238.0,no known savings,>=7,3.0,male single,none,3.0,car,32.0,bank,own,2.0,skilled,2.0,none,yes,Crunchie,90064
+468,no checking,33.0,delayed previously,business,2764.0,<100,1<=X<4,2.0,female div/dep/mar,none,2.0,car,26.0,none,own,2.0,skilled,1.0,yes,yes,Snickers,90116
+469,no checking,24.0,delayed previously,used car,4679.0,<100,4<=X<7,3.0,male single,none,3.0,car,35.0,none,own,2.0,unskilled resident,1.0,yes,yes,Wispa,90081
+470,0<=X<200,24.0,existing paid,radio/tv,3092.0,100<=X<500,<1,3.0,male mar/wid,none,2.0,car,22.0,none,rent,1.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90002
+471,<0,6.0,existing paid,education,448.0,<100,<1,4.0,female div/dep/mar,none,4.0,life insurance,23.0,none,own,1.0,skilled,1.0,none,yes,Bounty,90057
+472,<0,9.0,existing paid,new car,654.0,<100,1<=X<4,4.0,male single,none,3.0,car,28.0,none,own,1.0,unskilled resident,1.0,none,yes,Snickers,90147
+473,no checking,6.0,existing paid,retraining,1238.0,no known savings,unemployed,4.0,male single,none,4.0,life insurance,36.0,none,own,1.0,high qualif/self emp/mgmt,2.0,yes,yes,Crunchie,90115
+474,0<=X<200,18.0,critical/other existing credit,radio/tv,1245.0,<100,1<=X<4,4.0,male mar/wid,none,2.0,car,33.0,none,own,1.0,skilled,1.0,none,yes,Bounty,90022
+475,<0,18.0,no credits/all paid,furniture/equipment,3114.0,<100,<1,1.0,female div/dep/mar,none,4.0,life insurance,26.0,none,rent,1.0,skilled,1.0,none,yes,Snickers,90023
+476,no checking,39.0,existing paid,used car,2569.0,500<=X<1000,1<=X<4,4.0,male single,none,4.0,car,24.0,none,own,1.0,skilled,1.0,none,yes,Snickers,-1
+477,>=200,24.0,existing paid,radio/tv,5152.0,<100,4<=X<7,4.0,male single,none,2.0,car,25.0,bank,own,1.0,skilled,1.0,none,yes,Snickers,90069
+478,0<=X<200,12.0,existing paid,business,1037.0,100<=X<500,4<=X<7,3.0,male single,none,4.0,real estate,39.0,none,own,1.0,unskilled resident,1.0,none,yes,Crunchie,90140
+479,<0,15.0,critical/other existing credit,furniture/equipment,1478.0,<100,>=7,4.0,male single,none,4.0,car,44.0,none,own,2.0,skilled,2.0,yes,yes,Wispa,-1
+480,0<=X<200,12.0,critical/other existing credit,radio/tv,3573.0,<100,1<=X<4,1.0,female div/dep/mar,none,1.0,real estate,23.0,none,own,1.0,unskilled resident,1.0,none,yes,Terry's Chocolate Orange,90054
+481,0<=X<200,24.0,existing paid,new car,1201.0,<100,<1,4.0,male single,none,1.0,life insurance,26.0,none,own,1.0,skilled,1.0,none,yes,Bounty,90163
+482,<0,30.0,existing paid,furniture/equipment,3622.0,>=1000,>=7,4.0,female div/dep/mar,none,4.0,life insurance,57.0,none,rent,2.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90099
+483,no checking,15.0,delayed previously,furniture/equipment,960.0,>=1000,4<=X<7,3.0,female div/dep/mar,none,2.0,life insurance,30.0,none,own,2.0,skilled,1.0,none,yes,Bounty,90017
+484,no checking,12.0,critical/other existing credit,new car,1163.0,500<=X<1000,1<=X<4,4.0,male single,none,4.0,real estate,44.0,none,own,1.0,skilled,1.0,yes,yes,Crunchie,90069
+485,0<=X<200,6.0,delayed previously,new car,1209.0,<100,unemployed,4.0,male single,none,4.0,life insurance,47.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Fruit and Nut,90097
+486,no checking,12.0,existing paid,radio/tv,3077.0,<100,1<=X<4,2.0,male single,none,4.0,car,52.0,none,own,1.0,skilled,1.0,yes,yes,Wispa,90068
+487,no checking,24.0,existing paid,new car,3757.0,<100,>=7,4.0,female div/dep/mar,co applicant,4.0,no known property,62.0,none,for free,1.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90054
+488,no checking,10.0,existing paid,new car,1418.0,100<=X<500,1<=X<4,3.0,male single,none,2.0,real estate,35.0,none,rent,1.0,unskilled resident,1.0,none,no,Bounty,90141
+489,no checking,6.0,existing paid,new car,3518.0,<100,1<=X<4,2.0,male single,guarantor,3.0,life insurance,26.0,none,rent,1.0,skilled,1.0,none,yes,Kit Kat,90140
+490,no checking,12.0,critical/other existing credit,radio/tv,1934.0,<100,>=7,2.0,male single,none,2.0,no known property,26.0,none,own,2.0,skilled,1.0,none,yes,Crunchie,90132
+491,0<=X<200,27.0,no credits/all paid,business,8318.0,<100,>=7,2.0,female div/dep/mar,none,4.0,no known property,42.0,none,for free,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Crunchie,90125
+492,no checking,6.0,critical/other existing credit,radio/tv,1237.0,100<=X<500,1<=X<4,1.0,female div/dep/mar,none,1.0,life insurance,27.0,none,own,2.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90118
+493,0<=X<200,6.0,existing paid,radio/tv,368.0,no known savings,>=7,4.0,male single,none,4.0,life insurance,38.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90103
+494,<0,12.0,critical/other existing credit,new car,2122.0,<100,1<=X<4,3.0,male single,none,2.0,real estate,39.0,none,rent,2.0,unskilled resident,2.0,none,no,Terry's Chocolate Orange,90088
+495,<0,24.0,existing paid,furniture/equipment,2996.0,no known savings,1<=X<4,2.0,male mar/wid,none,4.0,car,20.0,none,own,1.0,skilled,1.0,none,yes,Crunchie,90119
+496,0<=X<200,36.0,existing paid,furniture/equipment,9034.0,100<=X<500,<1,4.0,male single,co applicant,1.0,no known property,29.0,none,rent,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Fruit and Nut,-1
+497,no checking,24.0,critical/other existing credit,furniture/equipment,1585.0,<100,4<=X<7,4.0,male single,none,3.0,life insurance,40.0,none,own,2.0,skilled,1.0,none,yes,Kit Kat,-1
+498,0<=X<200,18.0,existing paid,radio/tv,1301.0,<100,>=7,4.0,male mar/wid,guarantor,2.0,real estate,32.0,none,own,1.0,unskilled resident,1.0,none,yes,Wispa,90087
+499,>=200,6.0,critical/other existing credit,new car,1323.0,100<=X<500,>=7,2.0,male div/sep,none,4.0,car,28.0,none,own,2.0,skilled,2.0,yes,yes,Bounty,90020
+500,<0,24.0,existing paid,new car,3123.0,<100,<1,4.0,female div/dep/mar,none,1.0,life insurance,27.0,none,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90005
+501,<0,36.0,existing paid,used car,5493.0,<100,>=7,2.0,male single,none,4.0,no known property,42.0,none,for free,1.0,skilled,2.0,none,yes,Snickers,90077
+502,>=200,9.0,existing paid,radio/tv,1126.0,100<=X<500,>=7,2.0,male div/sep,none,4.0,real estate,49.0,none,own,1.0,skilled,1.0,none,yes,Bounty,90060
+503,0<=X<200,24.0,critical/other existing credit,radio/tv,1216.0,100<=X<500,<1,4.0,male single,none,4.0,no known property,38.0,bank,own,2.0,skilled,2.0,none,yes,Dairy Milk Fruit and Nut,-1
+504,<0,24.0,existing paid,new car,1207.0,<100,<1,4.0,female div/dep/mar,none,4.0,life insurance,24.0,none,rent,1.0,skilled,1.0,none,yes,Snickers,90008
+505,no checking,10.0,existing paid,new car,1309.0,no known savings,1<=X<4,4.0,male single,guarantor,4.0,life insurance,27.0,none,own,1.0,unskilled resident,1.0,none,yes,Wispa,90033
+506,>=200,-1.0,critical/other existing credit,used car,2360.0,500<=X<1000,1<=X<4,2.0,male single,none,2.0,car,36.0,none,own,1.0,skilled,1.0,yes,yes,Wispa,90111
+507,0<=X<200,15.0,all paid,new car,6850.0,100<=X<500,unemployed,1.0,male single,none,2.0,life insurance,34.0,none,own,1.0,high qualif/self emp/mgmt,2.0,yes,yes,Dairy Milk Caramel,90134
+508,no checking,24.0,existing paid,radio/tv,1413.0,<100,1<=X<4,4.0,male mar/wid,none,2.0,life insurance,28.0,none,own,1.0,skilled,1.0,none,yes,Kit Kat,90022
+509,no checking,39.0,existing paid,used car,8588.0,100<=X<500,>=7,4.0,male single,none,2.0,car,45.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Kit Kat,-1
+510,<0,12.0,existing paid,new car,759.0,<100,4<=X<7,4.0,male single,none,2.0,real estate,26.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90053
+511,no checking,36.0,existing paid,used car,4686.0,<100,1<=X<4,2.0,male single,none,2.0,no known property,32.0,none,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Bounty,90106
+512,>=200,15.0,existing paid,business,2687.0,<100,4<=X<7,2.0,male single,none,4.0,life insurance,26.0,none,rent,1.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90179
+513,0<=X<200,12.0,delayed previously,radio/tv,585.0,<100,1<=X<4,4.0,male mar/wid,co applicant,4.0,real estate,20.0,none,rent,2.0,skilled,1.0,none,yes,Crunchie,90090
+514,no checking,24.0,existing paid,new car,2255.0,no known savings,<1,4.0,male single,none,1.0,life insurance,54.0,none,own,1.0,skilled,1.0,none,yes,Snickers,90160
+515,<0,6.0,critical/other existing credit,new car,609.0,<100,4<=X<7,4.0,female div/dep/mar,none,3.0,life insurance,37.0,none,own,2.0,skilled,1.0,none,no,Snickers,90141
+516,<0,6.0,critical/other existing credit,new car,1361.0,<100,<1,2.0,male single,none,4.0,real estate,40.0,none,own,1.0,unskilled resident,2.0,none,no,Terry's Chocolate Orange,90178
+517,no checking,36.0,critical/other existing credit,furniture/equipment,7127.0,<100,<1,2.0,female div/dep/mar,none,4.0,life insurance,23.0,none,rent,2.0,skilled,1.0,yes,yes,Bounty,90140
+518,<0,6.0,existing paid,new car,1203.0,100<=X<500,>=7,3.0,male single,none,2.0,life insurance,43.0,none,own,1.0,skilled,1.0,yes,yes,Crunchie,90145
+519,no checking,6.0,critical/other existing credit,radio/tv,700.0,no known savings,>=7,4.0,male single,none,4.0,no known property,36.0,none,for free,2.0,skilled,1.0,none,yes,Wispa,90101
+520,no checking,24.0,critical/other existing credit,repairs,5507.0,<100,>=7,3.0,male single,none,4.0,no known property,44.0,none,for free,2.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90143
+521,<0,18.0,existing paid,radio/tv,3190.0,<100,1<=X<4,2.0,female div/dep/mar,none,2.0,real estate,24.0,none,own,1.0,skilled,1.0,none,yes,Snickers,90168
+522,<0,48.0,no credits/all paid,furniture/equipment,7119.0,<100,1<=X<4,3.0,male single,none,4.0,no known property,53.0,none,for free,2.0,skilled,2.0,none,yes,Snickers,90045
+523,no checking,24.0,existing paid,used car,3488.0,100<=X<500,4<=X<7,3.0,female div/dep/mar,none,4.0,car,23.0,none,own,1.0,skilled,1.0,none,yes,Crunchie,90175
+524,0<=X<200,18.0,existing paid,radio/tv,1113.0,<100,1<=X<4,4.0,female div/dep/mar,guarantor,4.0,real estate,26.0,none,own,1.0,unskilled resident,2.0,none,yes,Wispa,90018
+525,0<=X<200,26.0,existing paid,used car,7966.0,<100,<1,2.0,male single,none,3.0,car,30.0,none,own,2.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90148
+526,no checking,15.0,critical/other existing credit,education,1532.0,100<=X<500,1<=X<4,4.0,female div/dep/mar,none,3.0,car,31.0,none,own,1.0,skilled,1.0,none,yes,Snickers,90083
+527,no checking,4.0,critical/other existing credit,radio/tv,1503.0,<100,4<=X<7,2.0,male single,none,1.0,real estate,42.0,none,own,2.0,unskilled resident,2.0,none,yes,Snickers,90187
+528,<0,36.0,existing paid,radio/tv,2302.0,<100,1<=X<4,4.0,male div/sep,none,4.0,car,31.0,none,rent,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90185
+529,<0,6.0,existing paid,new car,662.0,<100,<1,3.0,male single,none,4.0,real estate,41.0,none,own,1.0,unskilled resident,2.0,yes,yes,Crunchie,90025
+530,0<=X<200,36.0,existing paid,education,2273.0,<100,4<=X<7,3.0,male single,none,1.0,car,32.0,none,own,2.0,skilled,2.0,none,yes,Snickers,90113
+531,0<=X<200,15.0,existing paid,new car,2631.0,100<=X<500,1<=X<4,2.0,female div/dep/mar,none,4.0,car,28.0,none,rent,2.0,skilled,1.0,yes,yes,Bounty,90022
+532,no checking,12.0,delayed previously,used car,1503.0,<100,1<=X<4,4.0,male mar/wid,none,4.0,real estate,41.0,none,rent,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90097
+533,no checking,24.0,existing paid,radio/tv,1311.0,100<=X<500,4<=X<7,4.0,male mar/wid,none,3.0,life insurance,26.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90131
+534,no checking,24.0,existing paid,radio/tv,3105.0,no known savings,<1,4.0,male single,none,2.0,car,25.0,none,own,2.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90173
+535,>=200,21.0,critical/other existing credit,education,2319.0,<100,<1,2.0,male div/sep,none,1.0,car,33.0,none,rent,1.0,skilled,1.0,none,yes,Bounty,90062
+536,<0,6.0,existing paid,new car,1374.0,no known savings,unemployed,4.0,female div/dep/mar,none,3.0,life insurance,75.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Bounty,90163
+537,0<=X<200,18.0,critical/other existing credit,furniture/equipment,3612.0,<100,>=7,3.0,female div/dep/mar,none,4.0,life insurance,37.0,none,own,1.0,skilled,1.0,yes,yes,Snickers,90009
+538,<0,48.0,existing paid,new car,7763.0,<100,>=7,4.0,male single,none,4.0,no known property,42.0,bank,for free,1.0,high qualif/self emp/mgmt,1.0,none,yes,Crunchie,90125
+539,>=200,18.0,existing paid,furniture/equipment,3049.0,<100,<1,1.0,female div/dep/mar,none,1.0,life insurance,45.0,stores,own,1.0,unskilled resident,1.0,none,yes,Terry's Chocolate Orange,90033
+540,0<=X<200,12.0,existing paid,radio/tv,1534.0,<100,<1,1.0,male mar/wid,none,1.0,real estate,23.0,none,rent,1.0,skilled,1.0,none,yes,Kit Kat,90158
+541,no checking,-1.0,delayed previously,new car,2032.0,<100,>=7,4.0,male single,none,4.0,no known property,60.0,none,for free,2.0,skilled,1.0,yes,yes,Wispa,90081
+542,<0,30.0,existing paid,furniture/equipment,6350.0,no known savings,>=7,4.0,male single,none,4.0,life insurance,31.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90032
+543,>=200,18.0,existing paid,furniture/equipment,2864.0,<100,1<=X<4,2.0,male single,none,1.0,real estate,34.0,none,own,1.0,unskilled resident,2.0,none,yes,Bounty,90008
+544,no checking,12.0,critical/other existing credit,new car,1255.0,<100,>=7,4.0,male single,none,4.0,real estate,61.0,none,own,2.0,unskilled resident,1.0,none,yes,Crunchie,90143
+545,<0,24.0,delayed previously,new car,1333.0,<100,unemployed,4.0,male single,none,2.0,real estate,43.0,none,for free,2.0,skilled,2.0,none,yes,Wispa,90131
+546,no checking,24.0,critical/other existing credit,new car,2022.0,<100,1<=X<4,4.0,female div/dep/mar,none,4.0,car,37.0,none,own,1.0,skilled,1.0,yes,yes,Snickers,90144
+547,no checking,24.0,existing paid,radio/tv,1552.0,<100,4<=X<7,3.0,male single,none,1.0,car,32.0,bank,own,1.0,skilled,2.0,none,yes,Dairy Milk Fruit and Nut,90089
+548,<0,12.0,all paid,radio/tv,626.0,<100,1<=X<4,4.0,female div/dep/mar,none,4.0,real estate,24.0,bank,own,1.0,unskilled resident,1.0,none,yes,Terry's Chocolate Orange,90150
+549,no checking,48.0,critical/other existing credit,used car,8858.0,no known savings,4<=X<7,2.0,male single,none,1.0,no known property,35.0,none,for free,2.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90139
+550,no checking,12.0,critical/other existing credit,repairs,996.0,no known savings,4<=X<7,4.0,female div/dep/mar,none,4.0,real estate,23.0,none,own,2.0,skilled,1.0,none,yes,Wispa,90158
+551,no checking,6.0,all paid,radio/tv,1750.0,500<=X<1000,>=7,2.0,male single,none,4.0,life insurance,45.0,bank,own,1.0,unskilled resident,2.0,none,yes,Terry's Chocolate Orange,90182
+552,<0,48.0,existing paid,radio/tv,6999.0,<100,4<=X<7,1.0,male mar/wid,guarantor,1.0,real estate,34.0,none,own,2.0,skilled,1.0,yes,yes,Snickers,90005
+553,0<=X<200,12.0,critical/other existing credit,new car,1995.0,100<=X<500,<1,4.0,male single,none,1.0,car,27.0,none,own,1.0,skilled,1.0,none,yes,Snickers,90020
+554,0<=X<200,9.0,existing paid,education,1199.0,<100,4<=X<7,4.0,female div/dep/mar,none,4.0,life insurance,67.0,none,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Crunchie,90025
+555,0<=X<200,12.0,existing paid,radio/tv,1331.0,<100,<1,2.0,male single,none,1.0,car,22.0,stores,own,1.0,skilled,1.0,none,yes,Wispa,90148
+556,0<=X<200,18.0,no credits/all paid,new car,2278.0,100<=X<500,<1,3.0,female div/dep/mar,none,3.0,car,28.0,none,own,2.0,skilled,1.0,none,yes,Dairy Milk Caramel,90161
+557,no checking,21.0,no credits/all paid,new car,5003.0,no known savings,1<=X<4,1.0,female div/dep/mar,none,4.0,life insurance,29.0,bank,own,2.0,skilled,1.0,yes,yes,Wispa,90049
+558,<0,24.0,all paid,furniture/equipment,3552.0,<100,4<=X<7,3.0,male single,none,4.0,car,27.0,bank,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90133
+559,0<=X<200,18.0,critical/other existing credit,furniture/equipment,1928.0,<100,<1,2.0,male single,none,2.0,real estate,31.0,none,own,2.0,unskilled resident,1.0,none,yes,Dairy Milk Fruit and Nut,90050
+560,<0,24.0,existing paid,used car,2964.0,no known savings,>=7,4.0,male single,none,4.0,no known property,49.0,bank,for free,1.0,skilled,2.0,yes,yes,Bounty,90066
+561,<0,24.0,all paid,radio/tv,1546.0,<100,4<=X<7,4.0,male single,guarantor,4.0,car,24.0,bank,rent,1.0,unskilled resident,1.0,none,yes,Snickers,90064
+562,>=200,6.0,delayed previously,radio/tv,683.0,<100,<1,2.0,female div/dep/mar,none,1.0,life insurance,29.0,bank,own,1.0,skilled,1.0,none,yes,Kit Kat,90166
+563,0<=X<200,36.0,existing paid,new car,12389.0,no known savings,1<=X<4,1.0,male single,none,4.0,no known property,37.0,none,for free,1.0,skilled,1.0,yes,yes,Kit Kat,90105
+564,0<=X<200,24.0,delayed previously,business,4712.0,no known savings,1<=X<4,4.0,male single,none,2.0,life insurance,37.0,bank,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Wispa,90184
+565,0<=X<200,24.0,delayed previously,radio/tv,1553.0,100<=X<500,4<=X<7,3.0,female div/dep/mar,none,2.0,life insurance,23.0,none,rent,2.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90071
+566,<0,12.0,existing paid,new car,1372.0,<100,4<=X<7,2.0,male div/sep,none,3.0,car,36.0,none,own,1.0,skilled,1.0,none,yes,Wispa,90032
+567,no checking,24.0,critical/other existing credit,radio/tv,2578.0,>=1000,>=7,2.0,male single,none,2.0,car,34.0,none,own,1.0,skilled,1.0,none,yes,Kit Kat,90077
+568,0<=X<200,48.0,existing paid,radio/tv,3979.0,no known savings,4<=X<7,4.0,male single,none,1.0,car,41.0,none,own,2.0,skilled,2.0,yes,yes,Dairy Milk Caramel,90152
+569,<0,48.0,existing paid,radio/tv,6758.0,<100,1<=X<4,3.0,female div/dep/mar,none,2.0,car,31.0,none,own,1.0,skilled,1.0,yes,yes,Kit Kat,90027
+570,<0,24.0,existing paid,furniture/equipment,3234.0,<100,<1,4.0,female div/dep/mar,none,4.0,real estate,23.0,none,rent,1.0,unskilled resident,1.0,yes,yes,Crunchie,90170
+571,no checking,30.0,critical/other existing credit,radio/tv,5954.0,<100,4<=X<7,3.0,male single,co applicant,2.0,car,38.0,none,own,1.0,skilled,1.0,none,yes,Bounty,-1
+572,no checking,24.0,existing paid,used car,5433.0,no known savings,unemployed,2.0,female div/dep/mar,none,4.0,life insurance,26.0,none,rent,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Bounty,90128
+573,<0,15.0,existing paid,business,806.0,<100,1<=X<4,4.0,female div/dep/mar,none,4.0,life insurance,22.0,none,own,1.0,unskilled resident,1.0,none,yes,Crunchie,90135
+574,0<=X<200,9.0,existing paid,radio/tv,1082.0,<100,>=7,4.0,male single,none,4.0,car,27.0,none,own,2.0,unskilled resident,1.0,none,yes,Bounty,90177
+575,no checking,15.0,critical/other existing credit,furniture/equipment,2788.0,<100,4<=X<7,2.0,female div/dep/mar,co applicant,3.0,car,24.0,bank,own,2.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90088
+576,0<=X<200,12.0,existing paid,radio/tv,2930.0,<100,4<=X<7,2.0,female div/dep/mar,none,1.0,real estate,27.0,none,own,1.0,skilled,1.0,none,yes,Snickers,90080
+577,no checking,24.0,critical/other existing credit,education,1927.0,no known savings,1<=X<4,3.0,female div/dep/mar,none,2.0,car,33.0,none,own,2.0,skilled,1.0,yes,yes,Crunchie,90076
+578,0<=X<200,-1.0,critical/other existing credit,new car,2820.0,<100,<1,4.0,male div/sep,none,4.0,car,27.0,none,own,2.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90070
+579,no checking,24.0,existing paid,retraining,937.0,<100,<1,4.0,male mar/wid,none,3.0,car,27.0,none,own,2.0,unskilled resident,1.0,none,yes,Snickers,90144
+580,0<=X<200,18.0,critical/other existing credit,new car,1056.0,<100,>=7,3.0,male single,guarantor,3.0,real estate,30.0,bank,own,2.0,skilled,1.0,none,yes,Snickers,90107
+581,0<=X<200,12.0,critical/other existing credit,new car,3124.0,<100,<1,1.0,male single,none,3.0,real estate,49.0,bank,own,2.0,unskilled resident,2.0,none,yes,Dairy Milk Caramel,90057
+582,no checking,9.0,existing paid,furniture/equipment,1388.0,<100,1<=X<4,4.0,female div/dep/mar,none,2.0,real estate,26.0,none,rent,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90174
+583,0<=X<200,36.0,existing paid,repairs,2384.0,<100,<1,4.0,male single,none,1.0,no known property,33.0,none,rent,1.0,unskilled resident,1.0,none,yes,Snickers,90179
+584,no checking,12.0,existing paid,new car,2133.0,no known savings,>=7,4.0,female div/dep/mar,none,4.0,no known property,52.0,none,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Fruit and Nut,-1
+585,<0,18.0,existing paid,furniture/equipment,2039.0,<100,1<=X<4,1.0,female div/dep/mar,none,4.0,real estate,20.0,bank,rent,1.0,skilled,1.0,none,yes,Crunchie,90034
+586,<0,9.0,critical/other existing credit,new car,2799.0,<100,1<=X<4,2.0,male single,none,2.0,real estate,36.0,none,rent,2.0,skilled,2.0,none,yes,Wispa,90101
+587,<0,12.0,existing paid,furniture/equipment,1289.0,<100,1<=X<4,4.0,male single,guarantor,1.0,life insurance,21.0,none,own,1.0,unskilled resident,1.0,none,yes,Dairy Milk Fruit and Nut,90019
+588,<0,18.0,existing paid,domestic appliance,1217.0,<100,1<=X<4,4.0,male mar/wid,none,3.0,real estate,47.0,none,own,1.0,unskilled resident,1.0,yes,yes,Wispa,90034
+589,<0,12.0,critical/other existing credit,furniture/equipment,2246.0,<100,>=7,3.0,male single,none,3.0,life insurance,60.0,none,own,2.0,skilled,1.0,none,yes,Crunchie,90072
+590,<0,12.0,critical/other existing credit,radio/tv,385.0,<100,4<=X<7,4.0,female div/dep/mar,none,3.0,real estate,58.0,none,own,4.0,unskilled resident,1.0,yes,yes,Dairy Milk Fruit and Nut,-1
+591,0<=X<200,24.0,delayed previously,new car,1965.0,no known savings,1<=X<4,4.0,female div/dep/mar,none,4.0,car,42.0,none,rent,2.0,skilled,1.0,yes,yes,Wispa,90143
+592,no checking,21.0,existing paid,business,1572.0,>=1000,>=7,4.0,female div/dep/mar,none,4.0,real estate,36.0,bank,own,1.0,unskilled resident,1.0,none,yes,Crunchie,90033
+593,0<=X<200,24.0,existing paid,new car,2718.0,<100,1<=X<4,3.0,female div/dep/mar,none,4.0,life insurance,20.0,none,rent,1.0,unskilled resident,1.0,yes,yes,Crunchie,90059
+594,<0,24.0,all paid,other,1358.0,no known savings,>=7,4.0,male single,none,3.0,car,40.0,stores,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Terry's Chocolate Orange,90084
+595,0<=X<200,6.0,all paid,new car,931.0,100<=X<500,<1,1.0,female div/dep/mar,none,1.0,life insurance,32.0,stores,own,1.0,unskilled resident,1.0,none,yes,Dairy Milk Fruit and Nut,90149
+596,<0,24.0,existing paid,new car,1442.0,<100,4<=X<7,4.0,female div/dep/mar,none,4.0,car,23.0,none,rent,2.0,skilled,1.0,none,yes,Bounty,90117
+597,0<=X<200,24.0,no credits/all paid,business,4241.0,<100,1<=X<4,1.0,male single,none,4.0,real estate,36.0,none,own,3.0,unskilled resident,1.0,yes,yes,Terry's Chocolate Orange,90173
+598,no checking,18.0,critical/other existing credit,new car,2775.0,<100,4<=X<7,2.0,male single,none,2.0,life insurance,31.0,bank,own,2.0,skilled,1.0,none,yes,Dairy Milk Caramel,-1
+599,no checking,24.0,delayed previously,business,3863.0,<100,1<=X<4,1.0,male single,none,2.0,no known property,32.0,none,for free,1.0,skilled,1.0,none,yes,Bounty,90170
+600,0<=X<200,7.0,existing paid,radio/tv,2329.0,<100,<1,1.0,female div/dep/mar,guarantor,1.0,real estate,45.0,none,own,1.0,skilled,1.0,none,yes,Wispa,90105
+601,0<=X<200,9.0,existing paid,furniture/equipment,918.0,<100,1<=X<4,4.0,female div/dep/mar,none,1.0,life insurance,30.0,none,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90073
+602,0<=X<200,24.0,all paid,education,1837.0,<100,4<=X<7,4.0,female div/dep/mar,none,4.0,no known property,34.0,bank,for free,1.0,unskilled resident,1.0,none,yes,Dairy Milk Caramel,90097
+603,no checking,36.0,existing paid,furniture/equipment,3349.0,<100,1<=X<4,4.0,female div/dep/mar,none,2.0,car,28.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Fruit and Nut,-1
+604,>=200,10.0,existing paid,furniture/equipment,1275.0,<100,<1,4.0,female div/dep/mar,none,2.0,life insurance,23.0,none,own,1.0,skilled,1.0,none,yes,Crunchie,90014
+605,<0,24.0,all paid,furniture/equipment,2828.0,500<=X<1000,1<=X<4,4.0,male single,none,4.0,real estate,22.0,stores,own,1.0,skilled,1.0,yes,yes,Wispa,90174
+606,no checking,24.0,critical/other existing credit,business,4526.0,<100,1<=X<4,3.0,male single,none,2.0,real estate,74.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Snickers,90129
+607,0<=X<200,36.0,existing paid,radio/tv,2671.0,100<=X<500,1<=X<4,4.0,female div/dep/mar,co applicant,4.0,no known property,50.0,none,for free,1.0,skilled,1.0,none,yes,Snickers,90131
+608,no checking,18.0,existing paid,radio/tv,2051.0,<100,<1,4.0,male single,none,1.0,real estate,33.0,none,own,1.0,skilled,1.0,none,yes,Snickers,90087
+609,no checking,15.0,existing paid,used car,1300.0,no known savings,>=7,4.0,male single,none,4.0,no known property,45.0,bank,for free,1.0,skilled,2.0,none,yes,Crunchie,90101
+610,<0,-1.0,existing paid,domestic appliance,741.0,100<=X<500,unemployed,4.0,female div/dep/mar,none,3.0,life insurance,22.0,none,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90151
+611,>=200,10.0,existing paid,new car,1240.0,100<=X<500,>=7,1.0,female div/dep/mar,none,4.0,no known property,48.0,none,for free,1.0,unskilled resident,2.0,none,yes,Snickers,90182
+612,<0,21.0,existing paid,radio/tv,3357.0,>=1000,<1,4.0,female div/dep/mar,none,2.0,car,29.0,bank,own,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90053
+613,<0,24.0,all paid,used car,3632.0,<100,1<=X<4,1.0,female div/dep/mar,guarantor,4.0,car,22.0,bank,rent,1.0,skilled,1.0,none,no,Wispa,90017
+614,no checking,18.0,delayed previously,furniture/equipment,1808.0,<100,4<=X<7,4.0,female div/dep/mar,none,1.0,real estate,22.0,none,own,1.0,skilled,1.0,none,yes,Snickers,90076
+615,0<=X<200,48.0,no credits/all paid,business,12204.0,no known savings,1<=X<4,2.0,male single,none,2.0,car,48.0,bank,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Snickers,90115
+616,0<=X<200,60.0,delayed previously,radio/tv,9157.0,no known savings,1<=X<4,2.0,male single,none,2.0,no known property,27.0,none,for free,1.0,high qualif/self emp/mgmt,1.0,none,yes,Bounty,90183
+617,<0,6.0,critical/other existing credit,new car,3676.0,<100,1<=X<4,1.0,male single,none,3.0,real estate,37.0,none,rent,3.0,skilled,2.0,none,yes,Crunchie,-1
+618,0<=X<200,30.0,existing paid,furniture/equipment,3441.0,100<=X<500,1<=X<4,2.0,female div/dep/mar,co applicant,4.0,car,21.0,none,rent,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90179
+619,no checking,12.0,existing paid,new car,640.0,<100,1<=X<4,4.0,male div/sep,none,2.0,real estate,49.0,none,own,1.0,unskilled resident,1.0,none,yes,Snickers,-1
+620,0<=X<200,21.0,critical/other existing credit,business,3652.0,<100,4<=X<7,2.0,male single,none,3.0,life insurance,27.0,none,own,2.0,skilled,1.0,none,yes,Snickers,90018
+621,no checking,18.0,critical/other existing credit,new car,1530.0,<100,1<=X<4,3.0,male single,none,2.0,life insurance,32.0,bank,own,2.0,skilled,1.0,none,yes,Bounty,90039
+622,no checking,48.0,existing paid,business,3914.0,no known savings,1<=X<4,4.0,male div/sep,none,2.0,real estate,38.0,bank,own,1.0,skilled,1.0,none,yes,Bounty,90090
+623,<0,12.0,existing paid,furniture/equipment,1858.0,<100,<1,4.0,female div/dep/mar,none,1.0,car,22.0,none,rent,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90008
+624,<0,18.0,existing paid,radio/tv,2600.0,<100,1<=X<4,4.0,male single,none,4.0,no known property,65.0,none,for free,2.0,skilled,1.0,none,yes,Snickers,90053
+625,no checking,15.0,existing paid,radio/tv,1979.0,no known savings,>=7,4.0,male single,none,2.0,car,35.0,none,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90039
+626,>=200,6.0,existing paid,furniture/equipment,2116.0,<100,1<=X<4,2.0,male single,none,2.0,real estate,41.0,none,own,1.0,skilled,1.0,yes,yes,Kit Kat,90099
+627,0<=X<200,9.0,all paid,new car,1437.0,100<=X<500,4<=X<7,2.0,male single,none,3.0,no known property,29.0,none,own,1.0,skilled,1.0,none,yes,Bounty,90188
+628,no checking,42.0,critical/other existing credit,furniture/equipment,4042.0,500<=X<1000,1<=X<4,4.0,male single,none,4.0,real estate,36.0,none,own,2.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90043
+629,no checking,9.0,existing paid,education,3832.0,no known savings,>=7,1.0,male single,none,4.0,real estate,64.0,none,own,1.0,unskilled resident,1.0,none,yes,Terry's Chocolate Orange,90059
+630,<0,24.0,existing paid,radio/tv,3660.0,<100,1<=X<4,2.0,female div/dep/mar,none,4.0,car,28.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90131
+631,<0,18.0,all paid,furniture/equipment,1553.0,<100,1<=X<4,4.0,male single,none,3.0,car,44.0,bank,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90077
+632,0<=X<200,15.0,existing paid,radio/tv,1444.0,no known savings,<1,4.0,male single,none,1.0,life insurance,23.0,none,own,1.0,skilled,1.0,none,yes,Wispa,90038
+633,no checking,-1.0,existing paid,furniture/equipment,1980.0,<100,<1,2.0,female div/dep/mar,co applicant,2.0,car,19.0,none,rent,2.0,skilled,1.0,none,yes,Crunchie,90079
+634,0<=X<200,24.0,existing paid,new car,1355.0,<100,<1,3.0,female div/dep/mar,none,4.0,car,25.0,none,own,1.0,unskilled resident,1.0,yes,yes,Snickers,90082
+635,no checking,12.0,existing paid,education,1393.0,<100,>=7,4.0,male single,none,4.0,life insurance,47.0,bank,own,3.0,skilled,2.0,yes,yes,Kit Kat,90146
+636,no checking,24.0,existing paid,radio/tv,1376.0,500<=X<1000,4<=X<7,4.0,female div/dep/mar,none,1.0,car,28.0,none,own,1.0,skilled,1.0,none,yes,Snickers,90001
+637,no checking,60.0,delayed previously,radio/tv,15653.0,<100,4<=X<7,2.0,male single,none,4.0,car,21.0,none,own,2.0,skilled,1.0,yes,yes,Snickers,90130
+638,no checking,12.0,existing paid,radio/tv,1493.0,<100,<1,4.0,female div/dep/mar,none,3.0,car,34.0,none,own,1.0,skilled,2.0,none,yes,Wispa,90088
+639,<0,42.0,delayed previously,radio/tv,4370.0,<100,4<=X<7,3.0,male single,none,2.0,life insurance,26.0,bank,own,2.0,skilled,2.0,yes,yes,Kit Kat,90112
+640,<0,18.0,existing paid,education,750.0,<100,unemployed,4.0,female div/dep/mar,none,1.0,real estate,27.0,none,own,1.0,unemp/unskilled non res,1.0,none,yes,Terry's Chocolate Orange,90077
+641,0<=X<200,15.0,existing paid,repairs,1308.0,<100,>=7,4.0,male single,none,4.0,car,38.0,none,own,2.0,unskilled resident,1.0,none,yes,Terry's Chocolate Orange,90119
+642,no checking,15.0,existing paid,education,4623.0,100<=X<500,1<=X<4,3.0,male single,none,2.0,life insurance,40.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Snickers,90006
+643,no checking,24.0,critical/other existing credit,radio/tv,1851.0,<100,4<=X<7,4.0,male mar/wid,guarantor,2.0,car,33.0,none,own,2.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90160
+644,<0,18.0,critical/other existing credit,radio/tv,1880.0,<100,4<=X<7,4.0,male mar/wid,none,1.0,life insurance,32.0,none,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Bounty,90052
+645,no checking,36.0,delayed previously,business,7980.0,no known savings,<1,4.0,male single,none,4.0,car,27.0,none,rent,2.0,skilled,1.0,yes,yes,Bounty,90170
+646,<0,30.0,no credits/all paid,furniture/equipment,4583.0,<100,1<=X<4,2.0,male div/sep,guarantor,2.0,real estate,32.0,none,own,2.0,skilled,1.0,none,yes,Bounty,90141
+647,no checking,12.0,existing paid,new car,1386.0,500<=X<1000,1<=X<4,2.0,female div/dep/mar,none,2.0,life insurance,26.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90058
+648,>=200,24.0,existing paid,new car,947.0,<100,4<=X<7,4.0,male single,none,3.0,no known property,38.0,bank,for free,1.0,skilled,2.0,none,yes,Dairy Milk Caramel,90017
+649,<0,-1.0,existing paid,education,684.0,<100,1<=X<4,4.0,male single,none,4.0,car,40.0,none,rent,1.0,unskilled resident,2.0,none,yes,Bounty,90067
+650,<0,48.0,existing paid,education,7476.0,<100,4<=X<7,4.0,male single,none,1.0,no known property,50.0,none,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Terry's Chocolate Orange,90146
+651,0<=X<200,12.0,existing paid,furniture/equipment,1922.0,<100,1<=X<4,4.0,male single,none,2.0,life insurance,37.0,none,own,1.0,unskilled resident,1.0,none,yes,Crunchie,90067
+652,<0,24.0,existing paid,new car,2303.0,<100,>=7,4.0,male single,co applicant,1.0,real estate,45.0,none,own,1.0,skilled,1.0,none,yes,Snickers,90044
+653,0<=X<200,36.0,delayed previously,new car,8086.0,100<=X<500,>=7,2.0,male single,none,4.0,car,42.0,none,own,4.0,high qualif/self emp/mgmt,1.0,yes,yes,Crunchie,90033
+654,no checking,24.0,critical/other existing credit,used car,2346.0,<100,4<=X<7,4.0,male single,none,3.0,car,35.0,none,own,2.0,skilled,1.0,yes,yes,Wispa,90022
+655,<0,14.0,existing paid,new car,3973.0,<100,unemployed,1.0,male single,none,4.0,no known property,22.0,none,for free,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,-1
+656,0<=X<200,12.0,existing paid,new car,888.0,<100,>=7,4.0,male single,none,4.0,car,41.0,bank,own,1.0,unskilled resident,2.0,none,yes,Wispa,90037
+657,no checking,48.0,existing paid,radio/tv,10222.0,no known savings,4<=X<7,4.0,male single,none,3.0,car,37.0,stores,own,1.0,skilled,1.0,yes,yes,Wispa,90188
+658,0<=X<200,30.0,no credits/all paid,business,4221.0,<100,1<=X<4,2.0,female div/dep/mar,none,1.0,car,28.0,none,own,2.0,skilled,1.0,none,yes,Snickers,90076
+659,0<=X<200,18.0,critical/other existing credit,furniture/equipment,6361.0,<100,>=7,2.0,male single,none,1.0,no known property,41.0,none,own,1.0,skilled,1.0,yes,yes,Crunchie,90081
+660,>=200,12.0,existing paid,radio/tv,1297.0,<100,1<=X<4,3.0,male mar/wid,none,4.0,real estate,23.0,none,rent,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90011
+661,<0,12.0,existing paid,new car,900.0,no known savings,1<=X<4,4.0,male mar/wid,none,2.0,car,23.0,none,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90149
+662,no checking,21.0,existing paid,furniture/equipment,2241.0,<100,>=7,4.0,male single,none,2.0,real estate,50.0,none,own,2.0,skilled,1.0,none,yes,Bounty,90150
+663,0<=X<200,6.0,delayed previously,furniture/equipment,1050.0,<100,unemployed,4.0,male single,none,1.0,life insurance,35.0,stores,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Wispa,90117
+664,>=200,6.0,critical/other existing credit,education,1047.0,<100,1<=X<4,2.0,female div/dep/mar,none,4.0,life insurance,50.0,none,own,1.0,unskilled resident,1.0,none,yes,Dairy Milk Fruit and Nut,-1
+665,no checking,24.0,critical/other existing credit,other,6314.0,<100,unemployed,4.0,male single,co applicant,2.0,no known property,27.0,bank,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Crunchie,90067
+666,0<=X<200,30.0,all paid,furniture/equipment,3496.0,>=1000,1<=X<4,4.0,male single,none,2.0,car,34.0,stores,own,1.0,skilled,2.0,yes,yes,Snickers,90097
+667,no checking,48.0,all paid,business,3609.0,<100,1<=X<4,1.0,female div/dep/mar,none,1.0,real estate,27.0,stores,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90122
+668,<0,12.0,critical/other existing credit,new car,4843.0,<100,>=7,3.0,male single,co applicant,4.0,life insurance,43.0,none,rent,2.0,skilled,1.0,yes,yes,Snickers,90113
+669,>=200,30.0,critical/other existing credit,radio/tv,3017.0,<100,>=7,4.0,male single,none,4.0,life insurance,47.0,none,own,1.0,skilled,1.0,none,yes,Snickers,90083
+670,no checking,24.0,critical/other existing credit,business,4139.0,100<=X<500,1<=X<4,3.0,male single,none,3.0,life insurance,27.0,none,own,2.0,unskilled resident,1.0,yes,yes,Bounty,90147
+671,no checking,36.0,existing paid,business,5742.0,100<=X<500,4<=X<7,2.0,male single,none,2.0,car,31.0,none,own,2.0,skilled,1.0,yes,yes,Dairy Milk Fruit and Nut,90126
+672,no checking,60.0,existing paid,new car,10366.0,<100,>=7,2.0,male single,none,4.0,life insurance,42.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Snickers,90111
+673,no checking,6.0,critical/other existing credit,new car,2080.0,500<=X<1000,1<=X<4,1.0,male mar/wid,none,2.0,car,24.0,none,own,1.0,skilled,1.0,none,yes,Kit Kat,90150
+674,no checking,21.0,delayed previously,business,2580.0,500<=X<1000,<1,4.0,male single,none,2.0,real estate,41.0,bank,own,1.0,unskilled resident,2.0,none,yes,Wispa,90080
+675,no checking,30.0,critical/other existing credit,radio/tv,4530.0,<100,4<=X<7,4.0,female div/dep/mar,none,4.0,car,26.0,none,rent,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Snickers,90166
+676,no checking,24.0,critical/other existing credit,furniture/equipment,5150.0,<100,>=7,4.0,male single,none,4.0,car,33.0,none,own,1.0,skilled,1.0,yes,yes,Kit Kat,90046
+677,0<=X<200,72.0,existing paid,radio/tv,5595.0,100<=X<500,1<=X<4,2.0,male mar/wid,none,2.0,car,24.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90037
+678,<0,24.0,existing paid,radio/tv,2384.0,<100,>=7,4.0,male single,none,4.0,real estate,64.0,bank,rent,1.0,unskilled resident,1.0,none,yes,Dairy Milk Caramel,90027
+679,no checking,18.0,existing paid,radio/tv,1453.0,<100,<1,3.0,female div/dep/mar,none,1.0,real estate,26.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90148
+680,no checking,6.0,existing paid,education,1538.0,<100,<1,1.0,female div/dep/mar,none,2.0,no known property,56.0,none,own,1.0,skilled,1.0,none,yes,Crunchie,90079
+681,no checking,12.0,existing paid,radio/tv,2279.0,no known savings,1<=X<4,4.0,male single,none,4.0,no known property,37.0,none,for free,1.0,skilled,1.0,yes,yes,Bounty,90064
+682,no checking,15.0,delayed previously,radio/tv,1478.0,<100,1<=X<4,4.0,male mar/wid,none,3.0,real estate,33.0,bank,own,2.0,skilled,1.0,none,yes,Crunchie,90057
+683,no checking,24.0,critical/other existing credit,radio/tv,5103.0,<100,<1,3.0,male mar/wid,none,3.0,no known property,47.0,none,for free,3.0,skilled,1.0,yes,yes,Bounty,90185
+684,0<=X<200,36.0,delayed previously,business,9857.0,100<=X<500,4<=X<7,1.0,male single,none,3.0,life insurance,31.0,none,own,2.0,unskilled resident,2.0,yes,yes,Dairy Milk Caramel,90156
+685,no checking,60.0,existing paid,new car,6527.0,no known savings,1<=X<4,4.0,male single,none,4.0,no known property,34.0,none,for free,1.0,skilled,2.0,yes,yes,Dairy Milk Fruit and Nut,90096
+686,>=200,10.0,critical/other existing credit,radio/tv,1347.0,no known savings,4<=X<7,4.0,male single,none,2.0,life insurance,27.0,none,own,2.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90156
+687,0<=X<200,36.0,delayed previously,new car,2862.0,100<=X<500,>=7,4.0,male single,none,3.0,no known property,30.0,none,for free,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90188
+688,no checking,9.0,existing paid,radio/tv,2753.0,100<=X<500,>=7,3.0,male single,co applicant,4.0,car,35.0,none,own,1.0,skilled,1.0,yes,yes,Bounty,90186
+689,<0,12.0,existing paid,new car,3651.0,>=1000,1<=X<4,1.0,male single,none,3.0,life insurance,31.0,none,own,1.0,skilled,2.0,none,yes,Dairy Milk Caramel,90146
+690,<0,15.0,critical/other existing credit,furniture/equipment,975.0,<100,1<=X<4,2.0,male div/sep,none,3.0,life insurance,25.0,none,own,2.0,skilled,1.0,none,yes,Kit Kat,90127
+691,0<=X<200,15.0,existing paid,repairs,2631.0,100<=X<500,1<=X<4,3.0,female div/dep/mar,none,2.0,real estate,25.0,none,own,1.0,unskilled resident,1.0,none,yes,Kit Kat,90110
+692,0<=X<200,24.0,existing paid,radio/tv,2896.0,100<=X<500,<1,2.0,male single,none,1.0,car,29.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90120
+693,<0,6.0,critical/other existing credit,new car,4716.0,no known savings,<1,1.0,male single,none,3.0,real estate,44.0,none,own,2.0,unskilled resident,2.0,none,yes,Crunchie,90046
+694,no checking,24.0,existing paid,radio/tv,2284.0,<100,4<=X<7,4.0,male single,none,2.0,car,28.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90083
+695,no checking,6.0,existing paid,used car,1236.0,500<=X<1000,1<=X<4,2.0,male single,none,4.0,life insurance,50.0,none,rent,1.0,skilled,1.0,none,yes,Bounty,90123
+696,0<=X<200,12.0,existing paid,radio/tv,1103.0,<100,4<=X<7,4.0,male single,guarantor,3.0,real estate,29.0,none,own,2.0,skilled,1.0,none,no,Dairy Milk Fruit and Nut,-1
+697,no checking,12.0,critical/other existing credit,new car,926.0,<100,unemployed,1.0,female div/dep/mar,none,2.0,life insurance,38.0,none,own,1.0,unemp/unskilled non res,1.0,none,yes,Terry's Chocolate Orange,90137
+698,no checking,18.0,critical/other existing credit,radio/tv,1800.0,<100,1<=X<4,4.0,male single,none,2.0,car,24.0,none,own,2.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90163
+699,>=200,15.0,existing paid,education,1905.0,<100,>=7,4.0,male single,none,4.0,car,40.0,none,rent,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Fruit and Nut,90050
+700,no checking,12.0,existing paid,furniture/equipment,1123.0,500<=X<1000,1<=X<4,4.0,female div/dep/mar,none,4.0,car,29.0,none,rent,1.0,unskilled resident,1.0,none,yes,Snickers,90010
+701,<0,48.0,critical/other existing credit,used car,6331.0,<100,>=7,4.0,male single,none,4.0,no known property,46.0,none,for free,2.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,-1
+702,>=200,24.0,existing paid,radio/tv,1377.0,100<=X<500,>=7,4.0,female div/dep/mar,none,2.0,no known property,47.0,none,for free,1.0,skilled,1.0,yes,yes,Dairy Milk Fruit and Nut,90123
+703,0<=X<200,30.0,delayed previously,business,2503.0,100<=X<500,>=7,4.0,male single,none,2.0,life insurance,41.0,stores,own,2.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90107
+704,0<=X<200,27.0,existing paid,business,2528.0,<100,<1,4.0,female div/dep/mar,none,1.0,life insurance,32.0,none,own,1.0,skilled,2.0,yes,yes,Kit Kat,90158
+705,no checking,-1.0,existing paid,new car,5324.0,500<=X<1000,>=7,1.0,female div/dep/mar,none,4.0,no known property,35.0,none,for free,1.0,skilled,1.0,none,yes,Snickers,90136
+706,0<=X<200,48.0,existing paid,new car,6560.0,100<=X<500,4<=X<7,3.0,male single,none,2.0,life insurance,24.0,none,own,1.0,skilled,1.0,none,yes,Crunchie,90027
+707,0<=X<200,12.0,no credits/all paid,furniture/equipment,2969.0,<100,<1,4.0,female div/dep/mar,none,3.0,life insurance,25.0,none,rent,2.0,skilled,1.0,none,yes,Wispa,90101
+708,0<=X<200,9.0,existing paid,radio/tv,1206.0,<100,>=7,4.0,female div/dep/mar,none,4.0,real estate,25.0,none,own,1.0,skilled,1.0,none,yes,Snickers,90160
+709,0<=X<200,9.0,existing paid,radio/tv,2118.0,<100,1<=X<4,2.0,male single,none,2.0,real estate,37.0,none,own,1.0,unskilled resident,2.0,none,yes,Bounty,90188
+710,no checking,18.0,critical/other existing credit,radio/tv,629.0,500<=X<1000,>=7,4.0,male single,none,3.0,life insurance,32.0,bank,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Terry's Chocolate Orange,90075
+711,<0,6.0,all paid,education,1198.0,<100,>=7,4.0,female div/dep/mar,none,4.0,no known property,35.0,none,for free,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,-1
+712,no checking,21.0,existing paid,used car,2476.0,no known savings,>=7,4.0,male single,none,4.0,real estate,46.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Bounty,-1
+713,<0,9.0,critical/other existing credit,radio/tv,1138.0,<100,1<=X<4,4.0,male single,none,4.0,real estate,25.0,none,own,2.0,unskilled resident,1.0,none,yes,Dairy Milk Fruit and Nut,90077
+714,0<=X<200,60.0,existing paid,new car,14027.0,<100,4<=X<7,4.0,male single,none,2.0,no known property,27.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Caramel,-1
+715,no checking,30.0,critical/other existing credit,used car,7596.0,no known savings,>=7,1.0,male single,none,4.0,car,63.0,none,own,2.0,skilled,1.0,none,yes,Kit Kat,90164
+716,no checking,30.0,critical/other existing credit,radio/tv,3077.0,no known savings,>=7,3.0,male single,none,2.0,car,40.0,none,own,2.0,skilled,2.0,yes,yes,Terry's Chocolate Orange,-1
+717,no checking,18.0,existing paid,radio/tv,1505.0,<100,1<=X<4,4.0,male single,none,2.0,no known property,32.0,none,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Crunchie,90094
+718,>=200,24.0,critical/other existing credit,radio/tv,3148.0,no known savings,1<=X<4,3.0,male single,none,2.0,car,31.0,none,own,2.0,skilled,1.0,yes,yes,Dairy Milk Fruit and Nut,90167
+719,0<=X<200,20.0,no credits/all paid,used car,6148.0,100<=X<500,>=7,3.0,male mar/wid,none,4.0,car,31.0,bank,own,2.0,skilled,1.0,yes,yes,Snickers,90045
+720,>=200,9.0,no credits/all paid,radio/tv,1337.0,<100,<1,4.0,male single,none,2.0,car,34.0,none,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Crunchie,90024
+721,0<=X<200,6.0,all paid,education,433.0,>=1000,<1,4.0,female div/dep/mar,none,2.0,life insurance,24.0,bank,rent,1.0,skilled,2.0,none,yes,Kit Kat,90172
+722,<0,12.0,existing paid,new car,1228.0,<100,1<=X<4,4.0,female div/dep/mar,none,2.0,real estate,24.0,none,own,1.0,unskilled resident,1.0,none,yes,Bounty,90093
+723,0<=X<200,9.0,existing paid,radio/tv,790.0,500<=X<1000,1<=X<4,4.0,female div/dep/mar,none,3.0,real estate,66.0,none,own,1.0,unskilled resident,1.0,none,yes,Terry's Chocolate Orange,90155
+724,no checking,27.0,existing paid,new car,2570.0,<100,1<=X<4,3.0,female div/dep/mar,none,3.0,real estate,21.0,none,rent,1.0,skilled,1.0,none,yes,Crunchie,90128
+725,no checking,6.0,critical/other existing credit,new car,250.0,>=1000,1<=X<4,2.0,female div/dep/mar,none,2.0,real estate,41.0,bank,own,2.0,unskilled resident,1.0,none,yes,Dairy Milk Caramel,90174
+726,no checking,15.0,critical/other existing credit,radio/tv,1316.0,500<=X<1000,1<=X<4,2.0,male mar/wid,none,2.0,life insurance,47.0,none,own,2.0,unskilled resident,1.0,none,yes,Terry's Chocolate Orange,90119
+727,<0,18.0,existing paid,radio/tv,1882.0,<100,1<=X<4,4.0,female div/dep/mar,none,4.0,car,25.0,bank,rent,2.0,skilled,1.0,none,yes,Dairy Milk Caramel,90117
+728,0<=X<200,48.0,all paid,business,6416.0,<100,>=7,4.0,female div/dep/mar,none,3.0,no known property,59.0,none,rent,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,-1
+729,>=200,24.0,critical/other existing credit,business,1275.0,>=1000,1<=X<4,2.0,male div/sep,none,4.0,real estate,36.0,none,own,2.0,skilled,1.0,yes,yes,Snickers,90035
+730,0<=X<200,24.0,delayed previously,radio/tv,6403.0,<100,<1,1.0,male single,none,2.0,car,33.0,none,own,1.0,skilled,1.0,none,yes,Kit Kat,90141
+731,<0,24.0,existing paid,radio/tv,1987.0,<100,1<=X<4,2.0,male single,none,4.0,real estate,21.0,none,rent,1.0,unskilled resident,2.0,none,yes,Dairy Milk Caramel,-1
+732,0<=X<200,8.0,existing paid,radio/tv,760.0,<100,4<=X<7,4.0,female div/dep/mar,guarantor,2.0,real estate,44.0,none,own,1.0,unskilled resident,1.0,none,yes,Terry's Chocolate Orange,90124
+733,no checking,24.0,existing paid,used car,2603.0,>=1000,1<=X<4,2.0,female div/dep/mar,none,4.0,car,28.0,none,rent,1.0,skilled,1.0,yes,yes,Kit Kat,90155
+734,no checking,4.0,critical/other existing credit,new car,3380.0,<100,4<=X<7,1.0,female div/dep/mar,none,1.0,real estate,37.0,none,own,1.0,skilled,2.0,none,yes,Bounty,90120
+735,0<=X<200,36.0,all paid,domestic appliance,3990.0,no known savings,<1,3.0,female div/dep/mar,none,2.0,no known property,29.0,bank,own,1.0,unemp/unskilled non res,1.0,none,yes,Terry's Chocolate Orange,90106
+736,0<=X<200,24.0,existing paid,used car,11560.0,<100,1<=X<4,1.0,female div/dep/mar,none,4.0,car,23.0,none,rent,2.0,high qualif/self emp/mgmt,1.0,none,yes,Crunchie,-1
+737,<0,18.0,existing paid,new car,4380.0,100<=X<500,1<=X<4,3.0,male single,none,4.0,car,35.0,none,own,1.0,unskilled resident,2.0,yes,yes,Dairy Milk Fruit and Nut,90118
+738,no checking,6.0,critical/other existing credit,new car,6761.0,<100,4<=X<7,1.0,male single,none,3.0,no known property,45.0,none,own,2.0,high qualif/self emp/mgmt,2.0,yes,yes,Dairy Milk Fruit and Nut,90144
+739,0<=X<200,30.0,no credits/all paid,business,4280.0,100<=X<500,1<=X<4,4.0,female div/dep/mar,none,4.0,car,26.0,none,rent,2.0,unskilled resident,1.0,none,yes,Crunchie,90110
+740,<0,24.0,all paid,new car,2325.0,100<=X<500,4<=X<7,2.0,male single,none,3.0,car,32.0,bank,own,1.0,skilled,1.0,none,yes,Kit Kat,90153
+741,0<=X<200,10.0,all paid,radio/tv,1048.0,<100,1<=X<4,4.0,male single,none,4.0,real estate,23.0,stores,own,1.0,unskilled resident,1.0,none,yes,Wispa,90010
+742,no checking,21.0,existing paid,radio/tv,3160.0,no known savings,>=7,4.0,male single,none,3.0,life insurance,41.0,none,own,1.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90026
+743,<0,24.0,all paid,furniture/equipment,2483.0,500<=X<1000,1<=X<4,4.0,male single,none,4.0,real estate,22.0,stores,own,1.0,skilled,1.0,yes,yes,Snickers,90154
+744,<0,39.0,critical/other existing credit,furniture/equipment,14179.0,no known savings,4<=X<7,4.0,male single,none,4.0,life insurance,30.0,none,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Wispa,90033
+745,<0,13.0,critical/other existing credit,business,1797.0,<100,<1,3.0,male single,none,1.0,life insurance,28.0,bank,own,2.0,unskilled resident,1.0,none,yes,Snickers,90164
+746,<0,15.0,existing paid,new car,2511.0,<100,unemployed,1.0,female div/dep/mar,none,4.0,car,23.0,none,rent,1.0,skilled,1.0,none,yes,Bounty,90020
+747,<0,12.0,existing paid,new car,1274.0,<100,<1,3.0,female div/dep/mar,none,1.0,real estate,37.0,none,own,1.0,unskilled resident,1.0,none,yes,Kit Kat,90051
+748,no checking,21.0,existing paid,used car,5248.0,no known savings,1<=X<4,1.0,male single,none,3.0,car,26.0,none,own,1.0,skilled,1.0,none,yes,Bounty,90133
+749,no checking,15.0,existing paid,used car,3029.0,<100,4<=X<7,2.0,male single,none,2.0,car,33.0,none,own,1.0,skilled,1.0,none,yes,Wispa,90140
+750,<0,6.0,existing paid,furniture/equipment,428.0,<100,>=7,2.0,female div/dep/mar,none,1.0,life insurance,49.0,bank,own,1.0,skilled,1.0,yes,yes,Wispa,90133
+751,<0,18.0,existing paid,new car,976.0,<100,<1,1.0,female div/dep/mar,none,2.0,car,23.0,none,own,1.0,unskilled resident,1.0,none,yes,Crunchie,90025
+752,0<=X<200,12.0,existing paid,business,841.0,100<=X<500,4<=X<7,2.0,female div/dep/mar,none,4.0,real estate,23.0,none,rent,1.0,unskilled resident,1.0,none,yes,Terry's Chocolate Orange,90100
+753,no checking,30.0,critical/other existing credit,radio/tv,5771.0,<100,4<=X<7,4.0,female div/dep/mar,none,2.0,car,25.0,none,own,2.0,skilled,1.0,none,yes,Bounty,90106
+754,no checking,12.0,delayed previously,repairs,1555.0,>=1000,>=7,4.0,male single,none,4.0,no known property,55.0,none,for free,2.0,skilled,2.0,none,yes,Snickers,90129
+755,<0,24.0,existing paid,new car,1285.0,no known savings,4<=X<7,4.0,female div/dep/mar,none,4.0,no known property,32.0,none,rent,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,-1
+756,>=200,6.0,critical/other existing credit,new car,1299.0,<100,1<=X<4,1.0,male single,none,1.0,real estate,74.0,none,own,3.0,unemp/unskilled non res,2.0,none,no,Crunchie,90124
+757,>=200,15.0,critical/other existing credit,radio/tv,1271.0,no known savings,1<=X<4,3.0,male single,none,4.0,no known property,39.0,none,for free,2.0,skilled,1.0,yes,yes,Dairy Milk Fruit and Nut,90037
+758,no checking,24.0,existing paid,new car,1393.0,<100,1<=X<4,2.0,male single,guarantor,2.0,real estate,31.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90158
+759,<0,12.0,critical/other existing credit,new car,691.0,<100,>=7,4.0,male single,none,3.0,life insurance,35.0,none,own,2.0,skilled,1.0,none,yes,Crunchie,90042
+760,no checking,15.0,critical/other existing credit,new car,5045.0,no known savings,>=7,1.0,female div/dep/mar,none,4.0,car,59.0,none,own,1.0,skilled,1.0,yes,yes,Kit Kat,90058
+761,<0,18.0,critical/other existing credit,furniture/equipment,2124.0,<100,1<=X<4,4.0,female div/dep/mar,none,4.0,real estate,24.0,none,rent,2.0,skilled,1.0,none,yes,Crunchie,90124
+762,<0,12.0,existing paid,radio/tv,2214.0,<100,1<=X<4,4.0,male single,none,3.0,life insurance,24.0,none,own,1.0,unskilled resident,1.0,none,yes,Crunchie,90052
+763,no checking,21.0,critical/other existing credit,new car,12680.0,no known savings,>=7,4.0,male single,none,4.0,no known property,30.0,none,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Bounty,90058
+764,no checking,24.0,critical/other existing credit,new car,2463.0,100<=X<500,4<=X<7,4.0,male mar/wid,none,3.0,life insurance,27.0,none,own,2.0,skilled,1.0,yes,yes,Snickers,90076
+765,0<=X<200,12.0,existing paid,radio/tv,1155.0,<100,>=7,3.0,male mar/wid,guarantor,3.0,real estate,40.0,bank,own,2.0,unskilled resident,1.0,none,yes,Bounty,90014
+766,<0,30.0,existing paid,furniture/equipment,3108.0,<100,<1,2.0,male div/sep,none,4.0,life insurance,31.0,none,own,1.0,unskilled resident,1.0,none,yes,Crunchie,90181
+767,no checking,10.0,existing paid,used car,2901.0,no known savings,<1,1.0,female div/dep/mar,none,4.0,real estate,31.0,none,rent,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90073
+768,0<=X<200,12.0,critical/other existing credit,furniture/equipment,3617.0,<100,>=7,1.0,male single,none,4.0,car,28.0,none,rent,3.0,skilled,1.0,yes,yes,Kit Kat,90074
+769,no checking,12.0,critical/other existing credit,radio/tv,1655.0,<100,>=7,2.0,male single,none,4.0,real estate,63.0,none,own,2.0,unskilled resident,1.0,yes,yes,Dairy Milk Caramel,90117
+770,<0,24.0,existing paid,used car,2812.0,no known savings,>=7,2.0,female div/dep/mar,none,4.0,real estate,26.0,none,rent,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90176
+771,<0,36.0,critical/other existing credit,education,8065.0,<100,1<=X<4,3.0,female div/dep/mar,none,2.0,no known property,25.0,none,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Kit Kat,90020
+772,no checking,21.0,critical/other existing credit,used car,3275.0,<100,>=7,1.0,male single,none,4.0,car,36.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Wispa,90113
+773,no checking,24.0,critical/other existing credit,radio/tv,2223.0,100<=X<500,>=7,4.0,male single,none,4.0,life insurance,52.0,bank,own,2.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90001
+774,>=200,12.0,critical/other existing credit,new car,1480.0,500<=X<1000,unemployed,2.0,male single,none,4.0,no known property,66.0,bank,for free,3.0,unemp/unskilled non res,1.0,none,yes,Terry's Chocolate Orange,90116
+775,<0,24.0,existing paid,new car,1371.0,no known savings,1<=X<4,4.0,female div/dep/mar,none,4.0,real estate,25.0,none,rent,1.0,skilled,1.0,none,yes,Crunchie,90141
+776,no checking,36.0,critical/other existing credit,new car,3535.0,<100,4<=X<7,4.0,male single,none,4.0,car,37.0,none,own,2.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90101
+777,<0,18.0,existing paid,radio/tv,3509.0,<100,4<=X<7,4.0,female div/dep/mar,guarantor,1.0,real estate,25.0,none,own,1.0,skilled,1.0,none,yes,Bounty,-1
+778,no checking,36.0,critical/other existing credit,used car,5711.0,>=1000,>=7,4.0,male single,none,2.0,car,38.0,none,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Terry's Chocolate Orange,-1
+779,0<=X<200,18.0,existing paid,repairs,3872.0,<100,unemployed,2.0,female div/dep/mar,none,4.0,car,67.0,none,own,1.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90074
+780,0<=X<200,39.0,critical/other existing credit,radio/tv,4933.0,<100,4<=X<7,2.0,male single,guarantor,2.0,real estate,25.0,none,own,2.0,skilled,1.0,none,yes,Snickers,90107
+781,no checking,24.0,critical/other existing credit,new car,1940.0,>=1000,>=7,4.0,male single,none,4.0,real estate,60.0,none,own,1.0,skilled,1.0,yes,yes,Kit Kat,90150
+782,0<=X<200,12.0,no credits/all paid,retraining,1410.0,<100,1<=X<4,2.0,male single,none,2.0,real estate,31.0,none,own,1.0,unskilled resident,1.0,yes,yes,Crunchie,90076
+783,0<=X<200,12.0,existing paid,new car,836.0,100<=X<500,<1,4.0,female div/dep/mar,none,2.0,life insurance,23.0,bank,own,1.0,unskilled resident,1.0,none,yes,Terry's Chocolate Orange,-1
+784,0<=X<200,20.0,existing paid,used car,6468.0,no known savings,unemployed,1.0,male div/sep,none,4.0,real estate,60.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Wispa,90140
+785,0<=X<200,18.0,existing paid,business,1941.0,>=1000,1<=X<4,4.0,male single,none,2.0,life insurance,35.0,none,own,1.0,unskilled resident,1.0,yes,yes,Snickers,90074
+786,no checking,22.0,existing paid,radio/tv,2675.0,500<=X<1000,>=7,3.0,male single,none,4.0,car,40.0,none,own,1.0,skilled,1.0,none,yes,Wispa,90029
+787,no checking,48.0,critical/other existing credit,used car,2751.0,no known savings,>=7,4.0,male single,none,3.0,car,38.0,none,own,2.0,skilled,2.0,yes,yes,Dairy Milk Caramel,90118
+788,0<=X<200,48.0,delayed previously,education,6224.0,<100,>=7,4.0,male single,none,4.0,no known property,50.0,none,for free,1.0,skilled,1.0,none,yes,Snickers,90159
+789,<0,40.0,critical/other existing credit,education,5998.0,<100,1<=X<4,4.0,male single,none,3.0,no known property,27.0,bank,own,1.0,skilled,1.0,yes,yes,Kit Kat,90140
+790,0<=X<200,21.0,existing paid,business,1188.0,<100,>=7,2.0,female div/dep/mar,none,4.0,life insurance,39.0,none,own,1.0,skilled,2.0,none,yes,Bounty,90122
+791,no checking,24.0,existing paid,used car,6313.0,no known savings,>=7,3.0,male single,none,4.0,car,41.0,none,own,1.0,high qualif/self emp/mgmt,2.0,yes,yes,Dairy Milk Caramel,90016
+792,no checking,6.0,critical/other existing credit,furniture/equipment,1221.0,no known savings,1<=X<4,1.0,male mar/wid,none,2.0,life insurance,27.0,none,own,2.0,skilled,1.0,none,yes,Snickers,90184
+793,>=200,24.0,existing paid,furniture/equipment,2892.0,<100,>=7,3.0,male div/sep,none,4.0,no known property,51.0,none,for free,1.0,skilled,1.0,none,yes,Bounty,-1
+794,no checking,24.0,existing paid,furniture/equipment,3062.0,500<=X<1000,>=7,4.0,male single,none,3.0,no known property,32.0,none,rent,1.0,skilled,1.0,yes,yes,Kit Kat,90065
+795,no checking,9.0,existing paid,furniture/equipment,2301.0,100<=X<500,<1,2.0,female div/dep/mar,none,4.0,life insurance,22.0,none,rent,1.0,skilled,1.0,none,yes,Crunchie,90052
+796,<0,18.0,existing paid,used car,7511.0,no known savings,>=7,1.0,male single,none,4.0,life insurance,51.0,none,for free,1.0,skilled,2.0,yes,yes,Crunchie,90128
+797,no checking,12.0,critical/other existing credit,furniture/equipment,1258.0,<100,<1,2.0,female div/dep/mar,none,4.0,life insurance,22.0,none,rent,2.0,unskilled resident,1.0,none,yes,Dairy Milk Caramel,90093
+798,no checking,24.0,delayed previously,new car,717.0,no known savings,>=7,4.0,male mar/wid,none,4.0,car,54.0,none,own,2.0,skilled,1.0,yes,yes,Snickers,90152
+799,0<=X<200,9.0,existing paid,new car,1549.0,no known savings,<1,4.0,male single,none,2.0,real estate,35.0,none,own,1.0,unemp/unskilled non res,1.0,none,yes,Terry's Chocolate Orange,90036
+800,no checking,24.0,critical/other existing credit,education,1597.0,<100,>=7,4.0,male single,none,4.0,no known property,54.0,none,for free,2.0,skilled,2.0,none,yes,Dairy Milk Fruit and Nut,90169
+801,0<=X<200,18.0,critical/other existing credit,radio/tv,1795.0,<100,>=7,3.0,female div/dep/mar,guarantor,4.0,real estate,48.0,bank,rent,2.0,unskilled resident,1.0,yes,yes,Dairy Milk Fruit and Nut,90153
+802,<0,20.0,critical/other existing credit,furniture/equipment,4272.0,<100,>=7,1.0,female div/dep/mar,none,4.0,life insurance,24.0,none,own,2.0,skilled,1.0,none,yes,Wispa,90175
+803,no checking,12.0,critical/other existing credit,radio/tv,976.0,no known savings,>=7,4.0,male single,none,4.0,car,35.0,none,own,2.0,skilled,1.0,none,yes,Snickers,90050
+804,0<=X<200,12.0,existing paid,new car,7472.0,no known savings,unemployed,1.0,female div/dep/mar,none,2.0,real estate,24.0,none,rent,1.0,unemp/unskilled non res,1.0,none,yes,Bounty,90135
+805,<0,36.0,existing paid,new car,9271.0,<100,4<=X<7,2.0,male single,none,1.0,car,24.0,none,own,1.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90003
+806,0<=X<200,6.0,existing paid,radio/tv,590.0,<100,<1,3.0,male mar/wid,none,3.0,real estate,26.0,none,own,1.0,unskilled resident,1.0,none,no,Dairy Milk Caramel,90058
+807,no checking,12.0,critical/other existing credit,radio/tv,930.0,no known savings,>=7,4.0,male single,none,4.0,real estate,65.0,none,own,4.0,skilled,1.0,none,yes,Dairy Milk Caramel,90017
+808,0<=X<200,42.0,all paid,used car,9283.0,<100,unemployed,1.0,male single,none,2.0,no known property,55.0,bank,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Kit Kat,90169
+809,0<=X<200,15.0,no credits/all paid,new car,1778.0,<100,<1,2.0,female div/dep/mar,none,1.0,real estate,26.0,none,rent,2.0,unemp/unskilled non res,1.0,none,yes,Kit Kat,90041
+810,0<=X<200,8.0,existing paid,business,907.0,<100,<1,3.0,male mar/wid,none,2.0,real estate,26.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Fruit and Nut,90008
+811,0<=X<200,6.0,existing paid,radio/tv,484.0,<100,4<=X<7,3.0,male mar/wid,guarantor,3.0,real estate,28.0,bank,own,1.0,unskilled resident,1.0,none,yes,Dairy Milk Fruit and Nut,90055
+812,<0,36.0,critical/other existing credit,used car,9629.0,<100,4<=X<7,4.0,male single,none,4.0,car,24.0,none,own,2.0,skilled,1.0,yes,yes,Wispa,90018
+813,<0,48.0,existing paid,domestic appliance,3051.0,<100,1<=X<4,3.0,male single,none,4.0,car,54.0,none,own,1.0,skilled,1.0,none,yes,Crunchie,90068
+814,<0,48.0,existing paid,new car,3931.0,<100,4<=X<7,4.0,male single,none,4.0,no known property,46.0,none,for free,1.0,skilled,2.0,none,yes,Bounty,90161
+815,0<=X<200,36.0,delayed previously,new car,7432.0,<100,1<=X<4,2.0,female div/dep/mar,none,2.0,life insurance,54.0,none,rent,1.0,skilled,1.0,none,yes,Snickers,-1
+816,no checking,6.0,existing paid,domestic appliance,1338.0,500<=X<1000,1<=X<4,1.0,male div/sep,none,4.0,real estate,62.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90094
+817,no checking,6.0,critical/other existing credit,radio/tv,1554.0,<100,4<=X<7,1.0,female div/dep/mar,none,2.0,car,24.0,none,rent,2.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90053
+818,<0,36.0,existing paid,other,15857.0,<100,unemployed,2.0,male div/sep,co applicant,3.0,car,43.0,none,own,1.0,high qualif/self emp/mgmt,1.0,none,yes,Dairy Milk Fruit and Nut,90141
+819,<0,18.0,existing paid,radio/tv,1345.0,<100,1<=X<4,4.0,male mar/wid,none,3.0,real estate,26.0,bank,own,1.0,skilled,1.0,none,yes,Wispa,90011
+820,no checking,12.0,existing paid,new car,1101.0,<100,1<=X<4,3.0,male mar/wid,none,2.0,real estate,27.0,none,own,2.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90039
+821,>=200,12.0,existing paid,radio/tv,3016.0,<100,1<=X<4,3.0,male mar/wid,none,1.0,car,24.0,none,own,1.0,skilled,1.0,none,yes,Crunchie,90015
+822,<0,36.0,existing paid,furniture/equipment,2712.0,<100,>=7,2.0,male single,none,2.0,life insurance,41.0,bank,own,1.0,skilled,2.0,none,yes,Terry's Chocolate Orange,90084
+823,<0,8.0,critical/other existing credit,new car,731.0,<100,>=7,4.0,male single,none,4.0,real estate,47.0,none,own,2.0,unskilled resident,1.0,none,yes,Bounty,-1
+824,no checking,18.0,critical/other existing credit,furniture/equipment,3780.0,<100,<1,3.0,male div/sep,none,2.0,car,35.0,none,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Caramel,90030
+825,<0,21.0,critical/other existing credit,new car,1602.0,<100,>=7,4.0,male mar/wid,none,3.0,car,30.0,none,own,2.0,skilled,1.0,yes,yes,Bounty,90099
+826,<0,18.0,critical/other existing credit,new car,3966.0,<100,>=7,1.0,female div/dep/mar,none,4.0,real estate,33.0,bank,rent,3.0,skilled,1.0,yes,yes,Kit Kat,90144
+827,no checking,18.0,no credits/all paid,business,4165.0,<100,1<=X<4,2.0,male single,none,2.0,car,36.0,stores,own,2.0,skilled,2.0,none,yes,Dairy Milk Caramel,90158
+828,<0,36.0,existing paid,used car,8335.0,no known savings,>=7,3.0,male single,none,4.0,no known property,47.0,none,for free,1.0,skilled,1.0,none,yes,Crunchie,90107
+829,0<=X<200,48.0,delayed previously,business,6681.0,no known savings,1<=X<4,4.0,male single,none,4.0,no known property,38.0,none,for free,1.0,skilled,2.0,yes,yes,Snickers,-1
+830,no checking,24.0,delayed previously,business,2375.0,500<=X<1000,1<=X<4,4.0,male single,none,2.0,car,44.0,none,own,2.0,skilled,2.0,yes,yes,Snickers,90126
+831,<0,18.0,existing paid,new car,1216.0,<100,<1,4.0,female div/dep/mar,none,3.0,car,23.0,none,rent,1.0,skilled,1.0,yes,yes,Dairy Milk Fruit and Nut,90110
+832,<0,45.0,no credits/all paid,business,11816.0,<100,>=7,2.0,male single,none,4.0,car,29.0,none,rent,2.0,skilled,1.0,none,yes,Dairy Milk Caramel,90041
+833,0<=X<200,24.0,existing paid,radio/tv,5084.0,no known savings,>=7,2.0,female div/dep/mar,none,4.0,car,42.0,none,own,1.0,skilled,1.0,yes,yes,Snickers,90107
+834,>=200,15.0,existing paid,radio/tv,2327.0,<100,<1,2.0,female div/dep/mar,none,3.0,real estate,25.0,none,own,1.0,unskilled resident,1.0,none,yes,Bounty,90158
+835,<0,12.0,no credits/all paid,new car,1082.0,<100,1<=X<4,4.0,male single,none,4.0,car,48.0,bank,own,2.0,skilled,1.0,none,yes,Dairy Milk Caramel,90117
+836,no checking,12.0,existing paid,radio/tv,886.0,no known savings,1<=X<4,4.0,female div/dep/mar,none,2.0,car,21.0,none,own,1.0,skilled,1.0,none,yes,Bounty,90120
+837,no checking,4.0,existing paid,furniture/equipment,601.0,<100,<1,1.0,female div/dep/mar,none,3.0,real estate,23.0,none,rent,1.0,unskilled resident,2.0,none,yes,Dairy Milk Caramel,90019
+838,<0,24.0,critical/other existing credit,used car,2957.0,<100,>=7,4.0,male single,none,4.0,life insurance,63.0,none,own,2.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90063
+839,no checking,24.0,critical/other existing credit,radio/tv,2611.0,<100,>=7,4.0,male mar/wid,co applicant,3.0,real estate,46.0,none,own,2.0,skilled,1.0,none,yes,Bounty,-1
+840,<0,36.0,existing paid,furniture/equipment,5179.0,<100,4<=X<7,4.0,male single,none,2.0,life insurance,29.0,none,own,1.0,skilled,1.0,none,yes,Crunchie,90004
+841,no checking,21.0,delayed previously,used car,2993.0,<100,1<=X<4,3.0,male single,none,2.0,real estate,28.0,stores,own,2.0,unskilled resident,1.0,none,yes,Dairy Milk Caramel,90096
+842,no checking,18.0,existing paid,repairs,1943.0,<100,<1,4.0,female div/dep/mar,none,4.0,real estate,23.0,none,own,1.0,skilled,1.0,none,yes,Kit Kat,90043
+843,no checking,24.0,all paid,business,1559.0,<100,4<=X<7,4.0,male single,none,4.0,car,50.0,bank,own,1.0,skilled,1.0,yes,yes,Kit Kat,90003
+844,no checking,18.0,existing paid,furniture/equipment,3422.0,<100,>=7,4.0,male single,none,4.0,life insurance,47.0,bank,own,3.0,skilled,2.0,yes,yes,Bounty,90017
+845,0<=X<200,21.0,existing paid,furniture/equipment,3976.0,no known savings,4<=X<7,2.0,male single,none,3.0,car,35.0,none,own,1.0,skilled,1.0,yes,yes,Snickers,-1
+846,no checking,18.0,existing paid,new car,6761.0,no known savings,1<=X<4,2.0,male single,none,4.0,car,68.0,none,rent,2.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90152
+847,no checking,24.0,existing paid,new car,1249.0,<100,<1,4.0,male mar/wid,none,2.0,real estate,28.0,none,own,1.0,skilled,1.0,none,yes,Snickers,90103
+848,<0,9.0,existing paid,radio/tv,1364.0,<100,4<=X<7,3.0,male single,none,4.0,real estate,59.0,none,own,1.0,skilled,1.0,none,yes,Bounty,90183
+849,<0,12.0,existing paid,radio/tv,709.0,<100,>=7,4.0,male single,none,4.0,real estate,57.0,stores,own,1.0,unskilled resident,1.0,none,yes,Kit Kat,90052
+850,<0,20.0,critical/other existing credit,new car,2235.0,<100,1<=X<4,4.0,male mar/wid,guarantor,2.0,life insurance,33.0,bank,rent,2.0,skilled,1.0,none,no,Snickers,90178
+851,no checking,24.0,critical/other existing credit,used car,4042.0,no known savings,4<=X<7,3.0,male single,none,4.0,life insurance,43.0,none,own,2.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90051
+852,no checking,15.0,critical/other existing credit,radio/tv,1471.0,<100,1<=X<4,4.0,male single,none,4.0,no known property,35.0,none,for free,2.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90124
+853,<0,18.0,all paid,new car,1442.0,<100,4<=X<7,4.0,male single,none,4.0,no known property,32.0,none,for free,2.0,unskilled resident,2.0,none,yes,Dairy Milk Caramel,-1
+854,no checking,36.0,delayed previously,new car,10875.0,<100,>=7,2.0,male single,none,2.0,car,45.0,none,own,2.0,skilled,2.0,yes,yes,Snickers,-1
+855,no checking,24.0,existing paid,new car,1474.0,100<=X<500,<1,4.0,male mar/wid,none,3.0,real estate,33.0,none,own,1.0,skilled,1.0,yes,yes,Kit Kat,90123
+856,no checking,10.0,existing paid,retraining,894.0,no known savings,4<=X<7,4.0,female div/dep/mar,none,3.0,life insurance,40.0,none,own,1.0,skilled,1.0,yes,yes,Snickers,90177
+857,no checking,15.0,critical/other existing credit,furniture/equipment,3343.0,<100,1<=X<4,4.0,male single,none,2.0,no known property,28.0,none,for free,1.0,skilled,1.0,yes,yes,Bounty,90094
+858,<0,15.0,existing paid,new car,3959.0,<100,1<=X<4,3.0,female div/dep/mar,none,2.0,life insurance,29.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90177
+859,no checking,9.0,existing paid,new car,3577.0,100<=X<500,1<=X<4,1.0,male single,guarantor,2.0,real estate,26.0,none,rent,1.0,skilled,2.0,none,no,Crunchie,-1
+860,no checking,24.0,critical/other existing credit,used car,5804.0,>=1000,1<=X<4,4.0,male single,none,2.0,real estate,27.0,none,own,2.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90164
+861,no checking,18.0,delayed previously,business,2169.0,<100,1<=X<4,4.0,male mar/wid,none,2.0,car,28.0,none,own,1.0,skilled,1.0,yes,yes,Crunchie,90128
+862,<0,24.0,existing paid,radio/tv,2439.0,<100,<1,4.0,female div/dep/mar,none,4.0,real estate,35.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Fruit and Nut,-1
+863,no checking,27.0,critical/other existing credit,furniture/equipment,4526.0,>=1000,<1,4.0,male single,none,2.0,real estate,32.0,stores,own,2.0,unskilled resident,2.0,yes,yes,Kit Kat,90063
+864,no checking,10.0,existing paid,furniture/equipment,2210.0,<100,1<=X<4,2.0,male single,none,2.0,real estate,25.0,bank,rent,1.0,unskilled resident,1.0,none,yes,Snickers,90120
+865,no checking,15.0,existing paid,furniture/equipment,2221.0,500<=X<1000,1<=X<4,2.0,female div/dep/mar,none,4.0,car,20.0,none,rent,1.0,skilled,1.0,none,yes,Snickers,90079
+866,<0,18.0,existing paid,radio/tv,2389.0,<100,<1,4.0,female div/dep/mar,none,1.0,car,27.0,stores,own,1.0,skilled,1.0,none,yes,Wispa,90123
+867,no checking,12.0,critical/other existing credit,furniture/equipment,3331.0,<100,>=7,2.0,male single,none,4.0,life insurance,42.0,stores,own,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90128
+868,no checking,36.0,existing paid,business,7409.0,no known savings,>=7,3.0,male single,none,2.0,life insurance,37.0,none,own,2.0,skilled,1.0,none,yes,Snickers,90171
+869,<0,12.0,existing paid,furniture/equipment,652.0,<100,>=7,4.0,female div/dep/mar,none,4.0,life insurance,24.0,none,rent,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90002
+870,no checking,36.0,delayed previously,furniture/equipment,7678.0,500<=X<1000,4<=X<7,2.0,female div/dep/mar,none,4.0,car,40.0,none,own,2.0,skilled,1.0,yes,yes,Wispa,90183
+871,>=200,6.0,critical/other existing credit,new car,1343.0,<100,>=7,1.0,male single,none,4.0,real estate,46.0,none,own,2.0,skilled,2.0,none,no,Dairy Milk Fruit and Nut,90185
+872,<0,24.0,critical/other existing credit,business,1382.0,100<=X<500,4<=X<7,4.0,male single,none,1.0,real estate,26.0,none,own,2.0,skilled,1.0,yes,yes,Wispa,90037
+873,no checking,15.0,existing paid,domestic appliance,874.0,no known savings,<1,4.0,female div/dep/mar,none,1.0,real estate,24.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90058
+874,<0,12.0,existing paid,furniture/equipment,3590.0,<100,1<=X<4,2.0,male single,co applicant,2.0,life insurance,29.0,none,own,1.0,unskilled resident,2.0,none,yes,Bounty,90146
+875,0<=X<200,11.0,critical/other existing credit,new car,1322.0,>=1000,1<=X<4,4.0,female div/dep/mar,none,4.0,car,40.0,none,own,2.0,skilled,1.0,none,yes,Dairy Milk Caramel,90063
+876,<0,18.0,all paid,radio/tv,1940.0,<100,<1,3.0,male single,co applicant,4.0,no known property,36.0,bank,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Wispa,90064
+877,no checking,36.0,existing paid,radio/tv,3595.0,<100,>=7,4.0,male single,none,2.0,car,28.0,none,own,1.0,skilled,1.0,none,yes,Wispa,90130
+878,<0,9.0,existing paid,new car,1422.0,<100,<1,3.0,male single,none,2.0,no known property,27.0,none,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Snickers,90161
+879,no checking,30.0,critical/other existing credit,radio/tv,6742.0,no known savings,4<=X<7,2.0,male single,none,3.0,life insurance,36.0,none,own,2.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90141
+880,no checking,24.0,existing paid,used car,7814.0,<100,4<=X<7,3.0,male single,none,3.0,car,38.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Kit Kat,90133
+881,no checking,24.0,existing paid,used car,9277.0,no known savings,1<=X<4,2.0,male div/sep,none,4.0,no known property,48.0,none,for free,1.0,skilled,1.0,yes,yes,Snickers,90068
+882,0<=X<200,30.0,critical/other existing credit,new car,2181.0,no known savings,>=7,4.0,male single,none,4.0,real estate,36.0,none,own,2.0,skilled,1.0,none,yes,Kit Kat,90028
+883,no checking,18.0,critical/other existing credit,radio/tv,1098.0,<100,unemployed,4.0,female div/dep/mar,none,4.0,car,65.0,none,own,2.0,unemp/unskilled non res,1.0,none,yes,Snickers,90136
+884,0<=X<200,24.0,existing paid,furniture/equipment,4057.0,<100,4<=X<7,3.0,male div/sep,none,3.0,car,43.0,none,own,1.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90182
+885,<0,12.0,existing paid,education,795.0,<100,<1,4.0,female div/dep/mar,none,4.0,life insurance,53.0,none,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90044
+886,0<=X<200,24.0,critical/other existing credit,business,2825.0,no known savings,4<=X<7,4.0,male single,none,3.0,no known property,34.0,none,own,2.0,skilled,2.0,yes,yes,Dairy Milk Fruit and Nut,90118
+887,0<=X<200,48.0,existing paid,business,15672.0,<100,1<=X<4,2.0,male single,none,2.0,car,23.0,none,own,1.0,skilled,1.0,yes,yes,Snickers,90188
+888,no checking,36.0,critical/other existing credit,new car,6614.0,<100,>=7,4.0,male single,none,4.0,car,34.0,none,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Snickers,90060
+889,no checking,28.0,all paid,used car,7824.0,no known savings,<1,3.0,male single,guarantor,4.0,real estate,40.0,bank,rent,2.0,skilled,2.0,yes,yes,Wispa,90043
+890,<0,27.0,critical/other existing credit,business,2442.0,<100,>=7,4.0,male single,none,4.0,car,43.0,stores,own,4.0,high qualif/self emp/mgmt,2.0,yes,yes,Dairy Milk Caramel,90120
+891,no checking,15.0,critical/other existing credit,radio/tv,1829.0,<100,>=7,4.0,male single,none,4.0,car,46.0,none,own,2.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90184
+892,<0,12.0,critical/other existing credit,new car,2171.0,<100,1<=X<4,4.0,male single,none,4.0,life insurance,38.0,bank,own,2.0,unskilled resident,1.0,none,no,Crunchie,90179
+893,0<=X<200,36.0,critical/other existing credit,used car,5800.0,<100,1<=X<4,3.0,male single,none,4.0,car,34.0,none,own,2.0,skilled,1.0,yes,yes,Snickers,90034
+894,no checking,18.0,critical/other existing credit,radio/tv,1169.0,no known savings,1<=X<4,4.0,male single,none,3.0,life insurance,29.0,none,own,2.0,skilled,1.0,yes,yes,Snickers,90066
+895,no checking,36.0,delayed previously,used car,8947.0,no known savings,4<=X<7,3.0,male single,none,2.0,car,31.0,stores,own,1.0,high qualif/self emp/mgmt,2.0,yes,yes,Dairy Milk Fruit and Nut,90012
+896,<0,21.0,existing paid,radio/tv,2606.0,<100,<1,4.0,female div/dep/mar,none,4.0,life insurance,28.0,none,rent,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Caramel,90102
+897,no checking,12.0,critical/other existing credit,furniture/equipment,1592.0,>=1000,4<=X<7,3.0,female div/dep/mar,none,2.0,life insurance,35.0,none,own,1.0,skilled,1.0,none,no,Snickers,90119
+898,no checking,15.0,existing paid,furniture/equipment,2186.0,no known savings,4<=X<7,1.0,female div/dep/mar,none,4.0,real estate,33.0,bank,rent,1.0,unskilled resident,1.0,none,yes,Dairy Milk Caramel,90009
+899,<0,18.0,existing paid,furniture/equipment,4153.0,<100,1<=X<4,2.0,male single,co applicant,3.0,car,42.0,none,own,1.0,skilled,1.0,none,yes,Kit Kat,90174
+900,<0,16.0,critical/other existing credit,new car,2625.0,<100,>=7,2.0,male single,guarantor,4.0,life insurance,43.0,bank,rent,1.0,skilled,1.0,yes,yes,Bounty,90172
+901,no checking,20.0,critical/other existing credit,new car,3485.0,no known savings,<1,2.0,male div/sep,none,4.0,real estate,44.0,none,own,2.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90052
+902,no checking,36.0,critical/other existing credit,used car,10477.0,no known savings,>=7,2.0,male single,none,4.0,no known property,42.0,none,for free,2.0,skilled,1.0,none,yes,Crunchie,90013
+903,no checking,15.0,existing paid,radio/tv,1386.0,no known savings,1<=X<4,4.0,male mar/wid,none,2.0,real estate,40.0,none,rent,1.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90038
+904,no checking,24.0,existing paid,radio/tv,1278.0,<100,>=7,4.0,male single,none,1.0,real estate,36.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Terry's Chocolate Orange,90176
+905,<0,12.0,existing paid,radio/tv,1107.0,<100,1<=X<4,2.0,male single,none,2.0,real estate,20.0,none,rent,1.0,high qualif/self emp/mgmt,2.0,yes,yes,Crunchie,90042
+906,<0,-1.0,existing paid,new car,3763.0,no known savings,4<=X<7,2.0,male single,co applicant,2.0,real estate,24.0,none,own,1.0,unskilled resident,1.0,none,no,Crunchie,90044
+907,0<=X<200,36.0,existing paid,education,3711.0,no known savings,1<=X<4,2.0,male mar/wid,none,2.0,car,27.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,-1
+908,no checking,15.0,delayed previously,used car,3594.0,<100,<1,1.0,female div/dep/mar,none,2.0,life insurance,46.0,none,own,2.0,unskilled resident,1.0,none,yes,Dairy Milk Caramel,90137
+909,0<=X<200,9.0,existing paid,new car,3195.0,no known savings,1<=X<4,1.0,female div/dep/mar,none,2.0,real estate,33.0,none,own,1.0,unskilled resident,1.0,none,yes,Kit Kat,90074
+910,no checking,36.0,delayed previously,radio/tv,4454.0,<100,1<=X<4,4.0,female div/dep/mar,none,4.0,real estate,34.0,none,own,2.0,skilled,1.0,none,yes,Crunchie,90118
+911,0<=X<200,24.0,critical/other existing credit,furniture/equipment,4736.0,<100,<1,2.0,female div/dep/mar,none,4.0,car,25.0,bank,own,1.0,unskilled resident,1.0,none,yes,Wispa,90097
+912,0<=X<200,30.0,existing paid,radio/tv,2991.0,no known savings,>=7,2.0,female div/dep/mar,none,4.0,car,25.0,none,own,1.0,skilled,1.0,none,yes,Snickers,90085
+913,no checking,11.0,existing paid,business,2142.0,>=1000,>=7,1.0,male div/sep,none,2.0,real estate,28.0,none,own,1.0,skilled,1.0,yes,yes,Wispa,-1
+914,<0,24.0,all paid,business,3161.0,<100,1<=X<4,4.0,male single,none,2.0,life insurance,31.0,none,rent,1.0,skilled,1.0,yes,yes,Crunchie,90089
+915,0<=X<200,48.0,no credits/all paid,other,18424.0,<100,1<=X<4,1.0,female div/dep/mar,none,2.0,life insurance,32.0,bank,own,1.0,high qualif/self emp/mgmt,1.0,yes,no,Wispa,90089
+916,no checking,10.0,existing paid,used car,2848.0,100<=X<500,1<=X<4,1.0,male single,co applicant,2.0,real estate,32.0,none,own,1.0,skilled,2.0,none,yes,Kit Kat,-1
+917,<0,6.0,existing paid,new car,14896.0,<100,>=7,1.0,male single,none,4.0,no known property,68.0,bank,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Kit Kat,90028
+918,<0,24.0,existing paid,furniture/equipment,2359.0,100<=X<500,unemployed,1.0,male div/sep,none,1.0,life insurance,33.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,90150
+919,<0,24.0,existing paid,furniture/equipment,3345.0,<100,>=7,4.0,male single,none,2.0,life insurance,39.0,none,rent,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Terry's Chocolate Orange,90088
+920,no checking,18.0,critical/other existing credit,furniture/equipment,1817.0,<100,1<=X<4,4.0,female div/dep/mar,none,2.0,no known property,28.0,none,own,2.0,skilled,1.0,none,yes,Dairy Milk Caramel,90075
+921,no checking,48.0,delayed previously,radio/tv,12749.0,500<=X<1000,4<=X<7,4.0,male single,none,1.0,car,37.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Kit Kat,90059
+922,<0,9.0,existing paid,radio/tv,1366.0,<100,<1,3.0,female div/dep/mar,none,4.0,life insurance,22.0,none,rent,1.0,skilled,1.0,none,yes,Snickers,90032
+923,0<=X<200,12.0,existing paid,new car,2002.0,<100,4<=X<7,3.0,male single,none,4.0,life insurance,30.0,none,rent,1.0,skilled,2.0,yes,yes,Dairy Milk Caramel,90014
+924,<0,24.0,all paid,furniture/equipment,6872.0,<100,<1,2.0,male div/sep,none,1.0,life insurance,55.0,bank,own,1.0,skilled,1.0,yes,yes,Crunchie,90168
+925,<0,12.0,all paid,new car,697.0,<100,<1,4.0,male single,none,2.0,car,46.0,bank,own,2.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90090
+926,<0,18.0,critical/other existing credit,furniture/equipment,1049.0,<100,<1,4.0,female div/dep/mar,none,4.0,life insurance,21.0,none,rent,1.0,skilled,1.0,none,yes,Wispa,90064
+927,<0,48.0,existing paid,used car,10297.0,<100,4<=X<7,4.0,male single,none,4.0,no known property,39.0,stores,for free,3.0,skilled,2.0,yes,yes,Terry's Chocolate Orange,-1
+928,no checking,30.0,existing paid,radio/tv,1867.0,no known savings,>=7,4.0,male single,none,4.0,car,58.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90156
+929,<0,12.0,delayed previously,new car,1344.0,<100,1<=X<4,4.0,male single,none,2.0,real estate,43.0,none,own,2.0,unskilled resident,2.0,none,yes,Kit Kat,-1
+930,<0,24.0,existing paid,furniture/equipment,1747.0,<100,<1,4.0,male single,co applicant,1.0,life insurance,24.0,none,own,1.0,unskilled resident,1.0,none,no,Bounty,90100
+931,0<=X<200,9.0,existing paid,radio/tv,1670.0,<100,<1,4.0,female div/dep/mar,none,2.0,car,22.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90071
+932,no checking,9.0,critical/other existing credit,new car,1224.0,<100,1<=X<4,3.0,male single,none,1.0,real estate,30.0,none,own,2.0,skilled,1.0,none,yes,Crunchie,90145
+933,no checking,12.0,critical/other existing credit,radio/tv,522.0,500<=X<1000,>=7,4.0,male single,none,4.0,life insurance,42.0,none,own,2.0,skilled,2.0,yes,yes,Kit Kat,90102
+934,<0,12.0,existing paid,radio/tv,1498.0,<100,1<=X<4,4.0,female div/dep/mar,none,1.0,car,23.0,bank,own,1.0,skilled,1.0,none,yes,Snickers,90144
+935,0<=X<200,30.0,delayed previously,radio/tv,1919.0,100<=X<500,<1,4.0,male single,none,3.0,no known property,30.0,stores,own,2.0,high qualif/self emp/mgmt,1.0,none,yes,Snickers,-1
+936,>=200,9.0,existing paid,radio/tv,745.0,<100,1<=X<4,3.0,female div/dep/mar,none,2.0,real estate,28.0,none,own,1.0,unskilled resident,1.0,none,yes,Dairy Milk Fruit and Nut,90064
+937,0<=X<200,6.0,existing paid,radio/tv,2063.0,<100,<1,4.0,male mar/wid,none,3.0,car,30.0,none,rent,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Caramel,90003
+938,0<=X<200,60.0,existing paid,education,6288.0,<100,1<=X<4,4.0,male single,none,4.0,no known property,42.0,none,for free,1.0,skilled,1.0,none,yes,Snickers,90141
+939,no checking,24.0,critical/other existing credit,used car,6842.0,no known savings,1<=X<4,2.0,male single,none,4.0,life insurance,46.0,none,own,2.0,high qualif/self emp/mgmt,2.0,yes,yes,Snickers,90017
+940,no checking,12.0,existing paid,new car,3527.0,no known savings,<1,2.0,male single,none,3.0,life insurance,45.0,none,own,1.0,high qualif/self emp/mgmt,2.0,yes,yes,Wispa,90157
+941,no checking,10.0,existing paid,new car,1546.0,<100,1<=X<4,3.0,male single,none,2.0,real estate,31.0,none,own,1.0,unskilled resident,2.0,none,no,Crunchie,90149
+942,no checking,24.0,existing paid,furniture/equipment,929.0,no known savings,4<=X<7,4.0,male single,none,2.0,car,31.0,stores,own,1.0,skilled,1.0,yes,yes,Snickers,90039
+943,no checking,4.0,critical/other existing credit,new car,1455.0,<100,4<=X<7,2.0,male single,none,1.0,real estate,42.0,none,own,3.0,unskilled resident,2.0,none,yes,Bounty,90178
+944,<0,15.0,existing paid,furniture/equipment,1845.0,<100,<1,4.0,female div/dep/mar,guarantor,1.0,life insurance,46.0,none,rent,1.0,skilled,1.0,none,yes,Wispa,90032
+945,0<=X<200,48.0,no credits/all paid,new car,8358.0,500<=X<1000,<1,1.0,female div/dep/mar,none,1.0,car,30.0,none,own,2.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90128
+946,<0,24.0,all paid,furniture/equipment,3349.0,500<=X<1000,<1,4.0,male single,none,4.0,no known property,30.0,none,for free,1.0,skilled,2.0,yes,yes,Snickers,90062
+947,no checking,12.0,existing paid,new car,2859.0,no known savings,unemployed,4.0,male single,none,4.0,no known property,38.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Snickers,90011
+948,no checking,18.0,existing paid,furniture/equipment,1533.0,<100,<1,4.0,male mar/wid,co applicant,1.0,life insurance,43.0,none,own,1.0,unskilled resident,2.0,none,yes,Crunchie,-1
+949,no checking,24.0,existing paid,radio/tv,3621.0,100<=X<500,>=7,2.0,male single,none,4.0,car,31.0,none,own,2.0,skilled,1.0,none,yes,Bounty,90130
+950,0<=X<200,18.0,critical/other existing credit,business,3590.0,<100,unemployed,3.0,male mar/wid,none,3.0,car,40.0,none,own,3.0,unemp/unskilled non res,2.0,yes,yes,Bounty,90127
+951,<0,36.0,delayed previously,business,2145.0,<100,4<=X<7,2.0,male single,none,1.0,car,24.0,none,own,2.0,skilled,1.0,yes,yes,Crunchie,90120
+952,0<=X<200,24.0,existing paid,used car,4113.0,500<=X<1000,<1,3.0,female div/dep/mar,none,4.0,car,28.0,none,rent,1.0,skilled,1.0,none,yes,Kit Kat,90146
+953,no checking,36.0,existing paid,furniture/equipment,10974.0,<100,unemployed,4.0,female div/dep/mar,none,2.0,car,26.0,none,own,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Kit Kat,90048
+954,<0,12.0,existing paid,new car,1893.0,<100,1<=X<4,4.0,female div/dep/mar,guarantor,4.0,life insurance,29.0,none,own,1.0,skilled,1.0,yes,yes,Terry's Chocolate Orange,90004
+955,<0,24.0,critical/other existing credit,radio/tv,1231.0,>=1000,>=7,4.0,female div/dep/mar,none,4.0,life insurance,57.0,none,rent,2.0,high qualif/self emp/mgmt,1.0,yes,yes,Kit Kat,90050
+956,>=200,30.0,critical/other existing credit,radio/tv,3656.0,no known savings,>=7,4.0,male single,none,4.0,life insurance,49.0,stores,own,2.0,unskilled resident,1.0,none,yes,Wispa,90012
+957,0<=X<200,9.0,critical/other existing credit,radio/tv,1154.0,<100,>=7,2.0,male single,none,4.0,real estate,37.0,none,own,3.0,unskilled resident,1.0,none,yes,Crunchie,90180
+958,<0,28.0,existing paid,new car,4006.0,<100,1<=X<4,3.0,male single,none,2.0,car,45.0,none,own,1.0,unskilled resident,1.0,none,yes,Snickers,90185
+959,0<=X<200,24.0,existing paid,furniture/equipment,3069.0,100<=X<500,>=7,4.0,male single,none,4.0,no known property,30.0,none,for free,1.0,skilled,1.0,none,yes,Kit Kat,90139
+960,no checking,6.0,critical/other existing credit,radio/tv,1740.0,<100,>=7,2.0,male mar/wid,none,2.0,real estate,30.0,none,rent,2.0,skilled,1.0,none,yes,Snickers,90132
+961,0<=X<200,21.0,delayed previously,new car,2353.0,<100,1<=X<4,1.0,male div/sep,none,4.0,life insurance,47.0,none,own,2.0,skilled,1.0,none,yes,Wispa,90153
+962,no checking,15.0,existing paid,new car,3556.0,no known savings,1<=X<4,3.0,male single,none,2.0,no known property,29.0,none,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90014
+963,no checking,24.0,existing paid,radio/tv,2397.0,500<=X<1000,>=7,3.0,male single,none,2.0,car,35.0,bank,own,2.0,skilled,1.0,yes,yes,Snickers,90082
+964,0<=X<200,6.0,existing paid,repairs,454.0,<100,<1,3.0,male mar/wid,none,1.0,life insurance,22.0,none,own,1.0,unskilled resident,1.0,none,yes,Wispa,90132
+965,0<=X<200,30.0,existing paid,radio/tv,1715.0,no known savings,1<=X<4,4.0,female div/dep/mar,none,1.0,car,26.0,none,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90109
+966,0<=X<200,27.0,critical/other existing credit,radio/tv,2520.0,500<=X<1000,1<=X<4,4.0,male single,none,2.0,life insurance,23.0,none,own,2.0,unskilled resident,1.0,none,yes,Crunchie,90145
+967,no checking,15.0,existing paid,radio/tv,3568.0,<100,>=7,4.0,female div/dep/mar,none,2.0,car,54.0,bank,rent,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Dairy Milk Fruit and Nut,90024
+968,no checking,42.0,existing paid,radio/tv,7166.0,no known savings,4<=X<7,2.0,male mar/wid,none,4.0,life insurance,29.0,none,rent,1.0,skilled,1.0,yes,yes,Dairy Milk Fruit and Nut,90019
+969,<0,11.0,critical/other existing credit,new car,3939.0,<100,1<=X<4,1.0,male single,none,2.0,real estate,40.0,none,own,2.0,unskilled resident,2.0,none,yes,Kit Kat,90053
+970,0<=X<200,15.0,existing paid,repairs,1514.0,100<=X<500,1<=X<4,4.0,male single,guarantor,2.0,real estate,22.0,none,own,1.0,skilled,1.0,none,yes,Kit Kat,90049
+971,no checking,24.0,existing paid,new car,7393.0,<100,1<=X<4,1.0,male single,none,4.0,life insurance,43.0,none,own,1.0,unskilled resident,2.0,none,yes,Wispa,-1
+972,<0,24.0,all paid,new car,1193.0,<100,unemployed,1.0,female div/dep/mar,co applicant,4.0,no known property,29.0,none,rent,2.0,unemp/unskilled non res,1.0,none,yes,Dairy Milk Fruit and Nut,90022
+973,<0,60.0,existing paid,business,7297.0,<100,>=7,4.0,male single,co applicant,4.0,no known property,36.0,none,rent,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90082
+974,no checking,30.0,critical/other existing credit,radio/tv,2831.0,<100,1<=X<4,4.0,female div/dep/mar,none,2.0,car,33.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90136
+975,>=200,24.0,existing paid,radio/tv,1258.0,500<=X<1000,1<=X<4,3.0,female div/dep/mar,none,3.0,car,57.0,none,own,1.0,unskilled resident,1.0,none,yes,Dairy Milk Fruit and Nut,90049
+976,0<=X<200,6.0,existing paid,radio/tv,753.0,<100,1<=X<4,2.0,female div/dep/mar,guarantor,3.0,real estate,64.0,none,own,1.0,skilled,1.0,none,yes,Wispa,90044
+977,0<=X<200,18.0,delayed previously,business,2427.0,no known savings,>=7,4.0,male single,none,2.0,life insurance,42.0,none,own,2.0,skilled,1.0,none,yes,Terry's Chocolate Orange,90079
+978,no checking,24.0,delayed previously,new car,2538.0,<100,>=7,4.0,male single,none,4.0,car,47.0,none,own,2.0,unskilled resident,2.0,none,yes,Wispa,-1
+979,0<=X<200,15.0,all paid,new car,1264.0,100<=X<500,1<=X<4,2.0,male mar/wid,none,2.0,life insurance,25.0,none,rent,1.0,skilled,1.0,none,yes,Dairy Milk Fruit and Nut,90073
+980,0<=X<200,30.0,critical/other existing credit,furniture/equipment,8386.0,<100,4<=X<7,2.0,male single,none,2.0,life insurance,49.0,none,own,1.0,skilled,1.0,none,yes,Crunchie,90144
+981,no checking,48.0,existing paid,business,4844.0,<100,unemployed,3.0,male single,none,2.0,car,33.0,bank,rent,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Crunchie,90067
+982,>=200,21.0,existing paid,new car,2923.0,100<=X<500,1<=X<4,1.0,female div/dep/mar,none,1.0,car,28.0,bank,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Snickers,90050
+983,<0,36.0,existing paid,used car,8229.0,<100,1<=X<4,2.0,male single,none,2.0,life insurance,26.0,none,own,1.0,skilled,2.0,none,yes,Terry's Chocolate Orange,-1
+984,no checking,24.0,critical/other existing credit,furniture/equipment,2028.0,<100,4<=X<7,2.0,male single,none,2.0,life insurance,30.0,none,own,2.0,unskilled resident,1.0,none,yes,Wispa,-1
+985,<0,15.0,critical/other existing credit,furniture/equipment,1433.0,<100,1<=X<4,4.0,female div/dep/mar,none,3.0,life insurance,25.0,none,rent,2.0,skilled,1.0,none,yes,Dairy Milk Caramel,90187
+986,>=200,42.0,no credits/all paid,business,6289.0,<100,<1,2.0,male div/sep,none,1.0,life insurance,33.0,none,own,2.0,skilled,1.0,none,yes,Bounty,90016
+987,no checking,13.0,existing paid,radio/tv,1409.0,100<=X<500,unemployed,2.0,female div/dep/mar,none,4.0,real estate,64.0,none,own,1.0,skilled,1.0,none,yes,Terry's Chocolate Orange,-1
+988,<0,24.0,existing paid,used car,6579.0,<100,unemployed,4.0,male single,none,2.0,no known property,29.0,none,for free,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Crunchie,90037
+989,0<=X<200,24.0,critical/other existing credit,radio/tv,1743.0,<100,>=7,4.0,male single,none,2.0,life insurance,48.0,none,own,2.0,unskilled resident,1.0,none,yes,Dairy Milk Caramel,90023
+990,no checking,12.0,critical/other existing credit,education,3565.0,no known savings,<1,2.0,male single,none,1.0,life insurance,37.0,none,own,2.0,unskilled resident,2.0,none,yes,Dairy Milk Fruit and Nut,90019
+991,no checking,15.0,all paid,radio/tv,1569.0,100<=X<500,>=7,4.0,male single,none,4.0,car,34.0,bank,own,1.0,unskilled resident,2.0,none,yes,Kit Kat,90052
+992,<0,18.0,existing paid,radio/tv,1936.0,no known savings,4<=X<7,2.0,male mar/wid,none,4.0,car,23.0,none,rent,2.0,unskilled resident,1.0,none,yes,Bounty,90021
+993,<0,36.0,existing paid,furniture/equipment,3959.0,<100,unemployed,4.0,male single,none,3.0,life insurance,30.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Crunchie,90054
+994,no checking,12.0,existing paid,new car,2390.0,no known savings,>=7,4.0,male single,none,3.0,car,50.0,none,own,1.0,skilled,1.0,yes,yes,Dairy Milk Caramel,90052
+995,no checking,12.0,existing paid,furniture/equipment,1736.0,<100,4<=X<7,3.0,female div/dep/mar,none,4.0,real estate,31.0,none,own,1.0,unskilled resident,1.0,none,yes,Dairy Milk Fruit and Nut,90005
+996,<0,30.0,existing paid,used car,3857.0,<100,1<=X<4,4.0,male div/sep,none,4.0,life insurance,40.0,none,own,1.0,high qualif/self emp/mgmt,1.0,yes,yes,Kit Kat,90021
+997,no checking,12.0,existing paid,radio/tv,804.0,<100,>=7,4.0,male single,none,4.0,car,38.0,none,own,1.0,skilled,1.0,none,yes,Dairy Milk Caramel,-1
+998,<0,45.0,existing paid,radio/tv,1845.0,<100,1<=X<4,4.0,male single,none,4.0,no known property,23.0,none,for free,1.0,skilled,1.0,yes,yes,Dairy Milk Fruit and Nut,-1
+999,0<=X<200,45.0,critical/other existing credit,used car,4576.0,100<=X<500,unemployed,3.0,male single,none,4.0,car,27.0,none,own,1.0,skilled,1.0,none,yes,Bounty,90138
